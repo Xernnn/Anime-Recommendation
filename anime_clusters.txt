@@ -1,0 +1,3763 @@
+Cluster #0
+	Name: Kentauros no Densetsu, Score: Unknown
+	Name: Miracle Psychicer Seizan, Score: Unknown
+	Name: Osomatsu-san: Hajimaru Hajimari, Score: Unknown
+	Name: Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars Special, Score: Unknown
+	Name: Zou no Inai Doubutsuen, Score: Unknown
+	Name: Ichi Nichi Shite Narazu, Score: Unknown
+	Name: Hyakumannen Attara, Dousuru?, Score: Unknown
+	Name: Nemui Inu, Score: Unknown
+Cluster #1
+	Name: Naruto: Shippuuden - Shippuu! "Konoha Gakuen" Den, Score: 7.15
+	Name: Shingeki no Kyojin-ten 360° Taikan Theater, Score: 7.13
+	Name: Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi, Score: 7.08
+	Name: Chobits Recap, Score: 6.98
+	Name: Mushrambo, Score: 6.98
+	Name: Makai Kishi Ingrid, Score: 6.97
+	Name: Asura Cryin', Score: 6.95
+	Name: Ai Yori Aoshi: Enishi - Miyuki, Score: 6.95
+Cluster #2
+	Name: New Tokyo Ondo, Score: Unknown
+	Name: Potecco Babies (2011), Score: Unknown
+	Name: Halfway, Score: Unknown
+	Name: Uchuusen Sagittarius Pilot, Score: Unknown
+	Name: Wasurerareta Ningyou, Score: Unknown
+	Name: Nippon-ichi no Otoko no Tamashii, Score: Unknown
+	Name: Happy☆Twinkle, Score: Unknown
+	Name: Love in Ruins feat. Sinéad Harnett, Score: Unknown
+Cluster #3
+	Name: Tanoshii Muumin Ikka, Score: 8.12
+	Name: Kamisama Hajimemashita, Score: 8.04
+	Name: Sekaiichi Hatsukoi 2, Score: 7.97
+	Name: Tanaka-kun wa Itsumo Kedaruge, Score: 7.9
+	Name: Detective Conan Movie 01: The Timed Skyscraper, Score: 7.87
+	Name: Planetarian: Hoshi no Hito, Score: 7.86
+	Name: Goku Sayonara Zetsubou Sensei, Score: 7.85
+	Name: Nanatsu no Taizai: Imashime no Fukkatsu, Score: 7.84
+Cluster #4
+	Name: Wu Shang Shen Di, Score: 7.11
+	Name: Cooking Papa, Score: 6.58
+	Name: Bari Bari Densetsu, Score: 6.39
+	Name: Tatakau Mono-tachi e Ai wo Komete, Score: 6.32
+	Name: Doraemon: Benkyou Heya no Tsuribori, Score: 6.13
+	Name: Haou Daikei Ryuu Knight: Adeu Legend Final, Score: 6.07
+	Name: Holy Knight, Score: 6.02
+	Name: Seikon no Qwaser II Picture Drama, Score: 6.01
+Cluster #5
+	Name: Oni Keibu Anpan, Score: Unknown
+	Name: Detective Conan: The Burning Galactic Railway, Score: Unknown
+	Name: Tick & Tack, Score: Unknown
+	Name: Yanase Takashi Märchen Gekijou, Score: Unknown
+	Name: Wa Wa Wa Wappi-chan, Score: Unknown
+	Name: Yama ni Kagayaku: Guide-ken Heiji Gou, Score: Unknown
+	Name: Xing You Ji: Fengbao Famila 2, Score: Unknown
+	Name: Yume no Tsuzuki, Score: Unknown
+Cluster #6
+	Name: His Lipstick, Score: Unknown
+	Name: Sugata Sanshirou, Score: Unknown
+	Name: Choujuu Kishin Dancougar: Juusenki-tai Songs, Score: Unknown
+	Name: Pa Para Papa, Score: Unknown
+	Name: Bokura no Te ni wa Nanimo Nai kedo,, Score: Unknown
+	Name: Eiyuu Banka Koushi-den, Score: Unknown
+	Name: Youtai Nuhai Zai Shanghai, Score: Unknown
+	Name: Teleport, Score: Unknown
+Cluster #7
+	Name: Kuroko no Basket: Last Game NG-shuu, Score: 7.73
+	Name: Higashi no Eden: Air Communication, Score: 7.62
+	Name: InuYasha Movie 4: Guren no Houraijima, Score: 7.54
+	Name: Date A Bullet: Nightmare or Queen, Score: 7.47
+	Name: Magic Knight Rayearth, Score: 7.46
+	Name: Tensei shitara Slime Datta Ken OVA, Score: 7.46
+	Name: Tamako Market, Score: 7.38
+	Name: Towa no Quon 1: Utakata no Kaben, Score: 7.37
+Cluster #8
+	Name: Juunenbun no Watashi e, Score: 6.19
+	Name: Monogatari no Aru Satou, Score: 6.07
+	Name: Future Card Buddyfight Recap, Score: 6.02
+	Name: Hong Ling Jin Xia, Score: 5.93
+	Name: Guilty Gear X, Score: 5.93
+	Name: Mighty Orbots, Score: 5.89
+	Name: Mahou Shoujo Lyrical Nanoha Picture Drama, Score: 5.89
+	Name: Pelican Road Club Caroucha, Score: 5.85
+Cluster #9
+	Name: Wu Geng Ji 3rd Season, Score: 7.3
+	Name: Sukitte Ii na yo.: Mei and Marshmallow, Score: 6.75
+	Name: Freezing Specials, Score: 6.61
+	Name: Gakuen 3, Score: 6.53
+	Name: Seikoku no Dragonar, Score: 6.52
+	Name: Koisuru Shirokuma Tokubetsu-ban, Score: 6.49
+	Name: Sasuga no Sarutobi, Score: 6.48
+	Name: Toaru Majutsu no Index-tan III, Score: 6.47
+Cluster #10
+	Name: Ketsuinu, Score: Unknown
+	Name: Phantasm, Score: Unknown
+	Name: Nikuiyo! Galbi-kun: Kemuri ga Me ni Shimiru, Score: Unknown
+	Name: Agigongryong Doolie (Movie), Score: Unknown
+	Name: Tonde Mon Pe, Score: Unknown
+	Name: Hatara Kids Mai Ham Gumi, Score: Unknown
+	Name: Touma Kishinden Oni, Score: Unknown
+	Name: Mushi no Tsubuyaki, Score: Unknown
+Cluster #11
+	Name: Slam Dunk, Score: 8.53
+	Name: Samurai Champloo, Score: 8.5
+	Name: Kizumonogatari I: Tekketsu-hen, Score: 8.4
+	Name: Mahou Shoujo Madoka★Magica, Score: 8.38
+	Name: Natsume Yuujinchou, Score: 8.33
+	Name: Diamond no Ace: Second Season, Score: 8.32
+	Name: Stranger: Mukou Hadan, Score: 8.31
+	Name: Beck, Score: 8.31
+Cluster #12
+	Name: Mina no Egao, Score: Unknown
+	Name: Jangdokdae, Score: Unknown
+	Name: YanYan Machiko Specials, Score: Unknown
+	Name: Xiong Chumo Zhi: Xiong Zin Guilai, Score: Unknown
+	Name: Xiong Chumo Zhi: Huanqiu Da Maoxian, Score: Unknown
+	Name: Zhu Zhu Xia: Bian Shen Xiao Ying Xiong, Score: Unknown
+	Name: Yukai na Animal Bus 2nd Season, Score: Unknown
+	Name: Nyanpuku Nyaruma, Score: Unknown
+Cluster #13
+	Name: Minarai Chameleon, Score: Unknown
+	Name: The Curlydog Story, Score: Unknown
+	Name: Witch Hat: Majo to Boushi no Waltz, Score: Unknown
+	Name: Days of Delight, Score: Unknown
+	Name: Monochro∞Blue Sky, Score: Unknown
+	Name: Sunny Days!, Score: Unknown
+	Name: Jack Nicholson, Score: Unknown
+	Name: Marine Mirage, Score: Unknown
+Cluster #14
+	Name: Nandaku Mou, Score: Unknown
+	Name: Shiawase no Tokei, Score: Unknown
+	Name: Kamaishi no "Kiseki": Inochi wo Mamoru Tokubetsu Jugyou, Score: Unknown
+	Name: Kabushikigaisha OPT Shinsotsu Saiyou Movie, Score: Unknown
+	Name: Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama, Score: Unknown
+	Name: Persia no Komoriuta: Watashi no Hana, Score: Unknown
+	Name: Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete, Score: Unknown
+	Name: Kiki to Lala no Habatake! Pegasus, Score: Unknown
+Cluster #15
+	Name: Nyuru Nyuru!! Kakusen-kun, Score: Unknown
+	Name: Original Eigakan Manner Eizou, Score: Unknown
+	Name: Shouwa Ahozoushi Akanuke Ichiban!, Score: Unknown
+	Name: Xingfu Lushang, Score: Unknown
+	Name: Best Friend, Score: Unknown
+	Name: Ashi, Score: Unknown
+	Name: Wasurenai yo, Score: Unknown
+	Name: Kowasugimasu., Score: Unknown
+Cluster #16
+	Name: Hakushaku to Yousei, Score: 7.28
+	Name: Tegamibachi Gakuen, Score: 7.28
+	Name: Shijou Saikyou no Deshi Kenichi Specials, Score: 7.27
+	Name: Saber Marionette J Again, Score: 7.23
+	Name: Tenkuu Senki Shurato, Score: 7.23
+	Name: Fella Hame Lips, Score: 7.21
+	Name: Pokemon Diamond & Pearl, Score: 7.2
+	Name: Xian Wang de Richang Shenghuo, Score: 7.19
+Cluster #17
+	Name: Kiratto Pri☆chan Season 2, Score: 7.06
+	Name: Himesama Gentei!, Score: 6.85
+	Name: Ookami Shoujo to Kuro Ouji Recap, Score: 6.82
+	Name: Working'!! Announcement Specials, Score: 6.79
+	Name: Metal Fight Beyblade: Baku, Score: 6.78
+	Name: Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens, Score: 6.77
+	Name: Gogo no Kouchou: Junai Mellow yori, Score: 6.73
+	Name: Akibakei Kanojo, Score: 6.73
+Cluster #18
+	Name: Oshiete Hokusai! The Animation, Score: Unknown
+	Name: Xiao Hua Xian 5th Season: Si Shi Huayu - Chun Xia, Score: Unknown
+	Name: Xiao Hua Xian 4th Season: Shou Hu Tian Shi 2, Score: Unknown
+	Name: Nantoka Tengoku, Score: Unknown
+	Name: Shu Ling Ji 2nd Season, Score: Unknown
+	Name: Zetsumetsu Kigu-shun., Score: Unknown
+	Name: Bite-Choicar, Score: Unknown
+	Name: Renlei Bowuguan, Score: Unknown
+Cluster #19
+	Name: Digimon Adventure, Score: 7.79
+	Name: The Last: Naruto the Movie, Score: 7.76
+	Name: Udon no Kuni no Kiniro Kemari, Score: 7.76
+	Name: Mankitsu Happening, Score: 7.72
+	Name: Kindaichi Shounen no Jikenbo Returns 2nd Season, Score: 7.67
+	Name: Nurarihyon no Mago, Score: 7.65
+	Name: Fushigi Yuugi, Score: 7.64
+	Name: Chuuka Ichiban!, Score: 7.63
+Cluster #20
+	Name: One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari, Score: 8.21
+	Name: Bungou Stray Dogs 2nd Season, Score: 8.2
+	Name: Angel Beats!, Score: 8.15
+	Name: Chuunibyou demo Koi ga Shitai! Movie: Take On Me, Score: 8.15
+	Name: Ansatsu Kyoushitsu, Score: 8.12
+	Name: Boku no Hero Academia, Score: 8.11
+	Name: Gin no Saji, Score: 8.11
+	Name: Black Lagoon: Roberta's Blood Trail, Score: 8.05
+Cluster #21
+	Name: Michi (Movie), Score: 7.02
+	Name: Gisoku no Moses, Score: 6.48
+	Name: Ashita Tenki ni Naare, Score: 6.13
+	Name: Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka, Score: 5.77
+	Name: Bamboo Blade: CM Fanfu-Fufe-Fo, Score: 5.76
+	Name: Chuuko Video-ya no Onna Tenin X, Score: 5.71
+	Name: Tokiwa Kitareri!!, Score: 5.7
+	Name: Asatte Dance, Score: 5.63
+Cluster #22
+	Name: Ongaku, Score: 7.36
+Cluster #23
+	Name: Kouchuu Ouja Mushiking: Greatest Champion e no Michi, Score: Unknown
+	Name: TWD Express Rolling Takeoff, Score: Unknown
+	Name: Boukyaku Battery, Score: Unknown
+	Name: Hurdle, Score: Unknown
+	Name: Yuurei Yashiki, Score: Unknown
+	Name: Zero Tester: Chikyuu wo Mamore!, Score: Unknown
+	Name: Yeonghongibyeong Lazenca, Score: Unknown
+	Name: Yume Miteru Wake ja Nai yo, Score: Unknown
+Cluster #24
+	Name: Joutoku, Score: Unknown
+	Name: Issunboushi, Score: Unknown
+	Name: New Hal & Bons, Score: Unknown
+	Name: Cat Step, Score: Unknown
+	Name: Bussouna Yoru, Score: Unknown
+	Name: Cell no Koi, Score: Unknown
+	Name: Yell, Score: Unknown
+	Name: Watashi no Kamifuusen (1983), Score: Unknown
+Cluster #25
+	Name: Fullmetal Alchemist: Brotherhood, Score: 9.19
+	Name: Gintama': Enchousen, Score: 9.04
+	Name: Gintama., Score: 8.99
+	Name: Gintama, Score: 8.96
+	Name: Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen, Score: 8.79
+	Name: Shouwa Genroku Rakugo Shinjuu, Score: 8.6
+	Name: Ashita no Joe, Score: 8.28
+Cluster #26
+	Name: Ling Long: Incarnation Part 2, Score: 7.35
+	Name: Queen's Blade OVA, Score: 6.36
+	Name: Duel Masters Cross, Score: 6.35
+	Name: Mahou Shoujo Isuka, Score: 6.32
+	Name: Takara-sagashi, Score: 6.28
+	Name: Haiyoru! Nyaruani: Remember My Love(craft-sensei), Score: 6.26
+	Name: Kotoura-san: Haruka no Heya, Score: 6.18
+	Name: Etsuraku no Tane The Animation, Score: 6.15
+Cluster #27
+	Name: Shiritsutantei: Toki Shouzou Trouble Note - Hard & Loose, Score: Unknown
+	Name: Sabaku no Kaizoku! Captain Kuppa, Score: Unknown
+	Name: Ippou Nippon Mukashibanashi, Score: Unknown
+	Name: Hanasaka Nyanko, Score: Unknown
+	Name: Hamigaki Ondo, Score: Unknown
+	Name: Curry to Ieba, Score: Unknown
+	Name: Itsuka no Main: Kaminari Shounen - Tenta Sanjou!, Score: Unknown
+	Name: Henkei Sakuhin Dai 2-ban, Score: Unknown
+Cluster #28
+	Name: Mono-darake!, Score: Unknown
+	Name: Ice Kuritarou, Score: Unknown
+	Name: Mizu no Yume, Score: Unknown
+	Name: Mori no Hito to Shoutengu-chan, Score: Unknown
+	Name: Rescue Q-tai no Katsuyaku, Score: Unknown
+	Name: Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!, Score: Unknown
+	Name: Chuusotsu Worker kara Hajimeru Koukou Seikatsu, Score: Unknown
+	Name: Monkateu, Score: Unknown
+Cluster #29
+	Name: Kuroshitsuji II Specials, Score: 7.48
+	Name: Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai, Score: 7.46
+	Name: Miira no Kaikata, Score: 7.42
+	Name: Shakugan no Shana S, Score: 7.37
+	Name: Cinderella Monogatari, Score: 7.33
+	Name: Another: The Other - Inga, Score: 7.32
+	Name: Denpa Onna to Seishun Otoko: Mayonaka no Taiyou, Score: 7.32
+	Name: Boku no Hero Academia: Sukue! Kyuujo Kunren!, Score: 7.32
+Cluster #30
+	Name: Random (web edit ver.), Score: Unknown
+	Name: Hatoya, Score: Unknown
+	Name: Momotarou, Score: Unknown
+	Name: PLUG, THe NeW WORLD, Score: Unknown
+	Name: Teeter, Score: Unknown
+	Name: Dead End Street, Score: Unknown
+	Name: Harinezumi, Score: Unknown
+	Name: Happy Kappy Recap, Score: Unknown
+Cluster #31
+	Name: Kinkyuu Hasshin Saver Kids, Score: 6.5
+	Name: Gakkou no Kaidan (OVA), Score: 6.46
+	Name: Nanocore, Score: 6.14
+	Name: Kuusou no Sora Tobu Kikaitachi, Score: 6.13
+	Name: Yuki, Score: 6.13
+	Name: Chiisana Teien, Score: 6.05
+	Name: Osomatsu-san Short Film Series 2nd Season, Score: 6.02
+	Name: Akubi Girl, Score: 5.89
+Cluster #32
+	Name: Shakugan no Shana-tan III (Final): Final Destruction, Score: 7.06
+	Name: Yaoguai Mingdan, Score: 6.94
+	Name: Freezing, Score: 6.91
+	Name: Seiken Tsukai no World Break, Score: 6.91
+	Name: Tsugumomo OVA, Score: 6.86
+	Name: Ryou Seibai!: Gakuen Bishoujo Seisai Hiroku, Score: 6.86
+	Name: Mahou Sensei Negima! Movie: Anime Final, Score: 6.78
+	Name: Yume Kui: Tsurumiku Shiki Game Seisaku, Score: 6.77
+Cluster #33
+	Name: Ore no Sora Keiji-hen, Score: Unknown
+	Name: Manga Aesop Monogatari, Score: Unknown
+	Name: Ganbare! Marine Kid, Score: Unknown
+	Name: Anime Rakugo Kan, Score: Unknown
+	Name: Imokawa Mukuzo: Chuugaeri no Maki, Score: Unknown
+	Name: Qiang Niang, Score: Unknown
+	Name: Cheonbangjichuk Hani, Score: Unknown
+	Name: Neko no Nyagh: Nya Misérables, Score: Unknown
+Cluster #34
+	Name: Tsuyu no Hito Shizuku, Score: Unknown
+	Name: Haishin Yuusha, Score: Unknown
+	Name: Kimu no Juujika, Score: Unknown
+	Name: Ton-Ton Atta to Niigata no Mukashibanashi, Score: Unknown
+	Name: Yasai no Yousei: Quiz Gekijou, Score: Unknown
+	Name: Shiro Hon, Score: Unknown
+	Name: Chinsetsu Yoshida Goten, Score: Unknown
+	Name: Airs, Score: Unknown
+Cluster #35
+	Name: To LOVE-Ru Darkness OVA, Score: 7.6
+	Name: Aa! Megami-sama! Movie, Score: 7.57
+	Name: Magic Knight Rayearth II, Score: 7.52
+	Name: Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu, Score: 7.52
+	Name: Tsugu Tsugumomo, Score: 7.51
+	Name: Digimon Adventure tri. 2: Ketsui, Score: 7.51
+	Name: Initial D: Project D to the Next Stage - Project D e Mukete, Score: 7.5
+	Name: Ling Qi 2, Score: 7.49
+Cluster #36
+	Name: Ling Long: Incarnation Middle Chapter, Score: 7.07
+	Name: Wave!!: Surfing Yappe!!, Score: 6.25
+	Name: Cinderella Girls Gekijou 3rd Season Specials, Score: 6.25
+	Name: Ginga Tetsudou 999 (ONA), Score: 6.08
+	Name: Thermae Romae x LOFT Collaboration, Score: 6.04
+	Name: Poputepipikku Specials, Score: 6.0
+	Name: Medamayaki no Kimi Itsu Tsubusu?, Score: 5.98
+	Name: Urashimasakatasen no Nichijou, Score: 5.96
+Cluster #37
+	Name: Mach Girl, Score: Unknown
+	Name: Junkers Come Here: Memories of You, Score: Unknown
+	Name: Captain Tsubasa no Koutsuu Anzen, Score: Unknown
+	Name: Jo Uta, Score: Unknown
+	Name: Aotenjou no Clown, Score: Unknown
+	Name: Xue Haizi, Score: Unknown
+	Name: Watashi to Piano, Score: Unknown
+	Name: Tomoyo, Score: Unknown
+Cluster #38
+	Name: Uchuusen Sagittarius, Score: 6.8
+	Name: Shinkansen Henkei Robo Shinkalion The Animation, Score: 6.78
+	Name: Hyakka Ryouran: Samurai Girls Specials, Score: 6.64
+	Name: Ninpuu Kamui Gaiden, Score: 6.63
+	Name: Madonna: Kanjuku Body Collection, Score: 6.6
+	Name: Imouto sae Ireba Ii. (ONA) Specials, Score: 6.6
+	Name: Vampire, Score: 6.58
+	Name: Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special, Score: 6.54
+Cluster #39
+	Name: Oni Chichi: Re-born, Score: 7.36
+	Name: High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video, Score: 7.34
+	Name: Doraemon Movie 12: Nobita no Dorabian Nights, Score: 7.18
+	Name: Fushigi Yuugi OVA, Score: 7.16
+	Name: Choujigen Game Neptune The Animation: Nep no Natsuyasumi, Score: 7.16
+	Name: Baka na Imouto wo Rikou ni Suru no wa Ore no xx dake na Ken ni Tsuite, Score: 7.14
+	Name: Sora no Iro, Mizu no Iro, Score: 7.13
+	Name: Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou, Score: 7.13
+Cluster #40
+	Name: Summer Rich feat. Hit­o­mi­toi, Score: Unknown
+	Name: Hayashi-fusai, Score: Unknown
+	Name: Onnanoko dake ga Wakaru Uta: Only Girls Get It, Score: Unknown
+	Name: Kekkaishi, Score: Unknown
+	Name: Jirijiri, Score: Unknown
+	Name: Samuraider: Nazo no Tenkousei, Score: Unknown
+	Name: Onaka Hime, Score: Unknown
+	Name: Robo to Shoujo (Kari): Oshirase Gekijou (Kari), Score: Unknown
+Cluster #41
+	Name: Xiong Chumo, Score: Unknown
+	Name: Zhu Zhu Xia: Da Nao Huang Gong, Score: Unknown
+	Name: Zhandou Wang Zhi Jufeng Zhan Hun 2, Score: Unknown
+	Name: Uli Chingu Kkachi, Score: Unknown
+	Name: Heisei Matsue Kaidan: Ayashi, Score: Unknown
+	Name: Olga no Russia Gokouza, Score: Unknown
+	Name: Kyoufu! Zombie Neko, Score: Unknown
+	Name: Kero Kero Keroppi no Mitsubachi Daisoudou, Score: Unknown
+Cluster #42
+	Name: Seitokai Yakuindomo Movie, Score: 7.87
+	Name: Gekkan Shoujo Nozaki-kun Specials, Score: 7.78
+	Name: Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai, Score: 7.78
+	Name: One Punch Man: Road to Hero, Score: 7.73
+	Name: Macross Plus, Score: 7.72
+	Name: Gakkou no Kaidan, Score: 7.68
+	Name: Koyomimonogatari, Score: 7.68
+	Name: Muumindani no Suisei, Score: 7.68
+Cluster #43
+	Name: Bakusou Circuit Roman Twin, Score: Unknown
+	Name: Tottoko Hamtarou wa Ham Ham Paradise! Kazu Katachi Chie, Score: Unknown
+	Name: Hua Jiang Hu Zhi Bu Liang Ren 2nd Season, Score: Unknown
+	Name: Chouriki Robo Galatt, Score: Unknown
+	Name: Yuki no Joou, Score: Unknown
+	Name: Uwabaki Cook no Tekitou Uranai!, Score: Unknown
+	Name: Wakame Buildings, Score: Unknown
+	Name: Tsuki no Fuusen, Score: Unknown
+Cluster #44
+	Name: Gintama.: Shirogane no Tamashii-hen, Score: 8.81
+	Name: Haikyuu!! Second Season, Score: 8.73
+	Name: Natsume Yuujinchou Shi, Score: 8.67
+	Name: Yakusoku no Neverland, Score: 8.65
+	Name: Kara no Kyoukai 7: Satsujin Kousatsu (Go), Score: 8.44
+	Name: 3-gatsu no Lion, Score: 8.43
+	Name: Baccano!, Score: 8.42
+	Name: Ginga Eiyuu Densetsu: Die Neue These - Seiran 3, Score: 8.22
+Cluster #45
+	Name: Fairy Tail OVA, Score: 7.52
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III, Score: 7.49
+	Name: Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun, Score: 7.49
+	Name: Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars, Score: 7.47
+	Name: Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru, Score: 7.45
+	Name: Kamikaze Kaitou Jeanne, Score: 7.45
+	Name: Naruto: Shippuuden - Sunny Side Battle, Score: 7.43
+	Name: Seto no Hanayome OVA Specials, Score: 7.43
+Cluster #46
+	Name: Tenki no Ko, Score: 8.41
+	Name: Tenkuu no Shiro Laputa, Score: 8.31
+	Name: Rurouni Kenshin: Meiji Kenkaku Romantan, Score: 8.31
+	Name: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku, Score: 8.27
+	Name: Major S3, Score: 8.27
+	Name: Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero, Score: 8.26
+	Name: Initial D Final Stage, Score: 8.24
+	Name: Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari, Score: 8.23
+Cluster #47
+	Name: Man with a Mission Animated Short Movie, Score: Unknown
+	Name: Uobbuchou, Score: Unknown
+	Name: Manga Hajimete Omoshiro Juku, Score: Unknown
+	Name: Kissaten Soudou, Score: Unknown
+	Name: Arigatou (2010), Score: Unknown
+	Name: Boer no Mori e, Score: Unknown
+	Name: Shen Ming Zhi Zhou, Score: Unknown
+	Name: Chou Futsuu Toshi Kashiwa Densetsu, Score: Unknown
+Cluster #48
+	Name: Sore wo Ai to Yobu dake, Score: 6.78
+	Name: Princess Lover! OVA, Score: 6.72
+	Name: Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo, Score: 6.6
+	Name: Mashiro-iro Symphony: The Color of Lovers Picture Drama, Score: 6.46
+	Name: Atashin'chi Movie, Score: 6.45
+	Name: Yoku Wakaru Mahouka! - Saiseitte Nani?, Score: 6.44
+	Name: Ladies versus Butlers! Specials, Score: 6.39
+	Name: Doku Tenshi no Shippo, Score: 6.37
+Cluster #49
+	Name: Tough Boy, Score: Unknown
+	Name: Please! Marry Me!!, Score: Unknown
+	Name: Humanoid Girl, Score: Unknown
+	Name: Windy, Score: Unknown
+	Name: Botsuraku, Score: Unknown
+	Name: Subarashii Shigoto, Score: Unknown
+	Name: Ooi no Teiou, Score: Unknown
+	Name: Templex, Score: Unknown
+Cluster #50
+	Name: Dare no Tame ni Sakura wa Saku, Score: Unknown
+	Name: Tanoshii Sansuu, Score: Unknown
+	Name: The Place Where We Were, Score: Unknown
+	Name: San-biki no Koguma-san, Score: Unknown
+	Name: Onizushi, Score: Unknown
+	Name: Muku no Ki no Hanashi, Score: Unknown
+	Name: Yaseruyagi, Score: Unknown
+	Name: Risu no Panache, Score: Unknown
+Cluster #51
+	Name: Crayon Shin-chan Movie 27: Shinkon Ryokou Hurricane - Ushinawareta Hiroshi, Score: 6.76
+	Name: Nautilus, Score: 6.59
+	Name: Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou, Score: 6.28
+	Name: Metropolis (2009), Score: 5.93
+	Name: Magma Taishi, Score: 5.92
+	Name: Mikeneko Holmes no Yuurei Joushu, Score: 5.88
+	Name: Qui Shui Yi Yun, Score: 5.82
+	Name: Jakusansei Million Arthur Specials, Score: 5.69
+Cluster #52
+	Name: Kaseki Dorobou to Kyouryuuseki, Score: Unknown
+	Name: Greek Roman Sinhwa: Olympus Guardian (Movie), Score: Unknown
+	Name: Kenketsu, Score: Unknown
+	Name: Distorted Princess, Score: Unknown
+	Name: Daisy Blue, Score: Unknown
+	Name: Lost, Score: Unknown
+	Name: Jigoku de Naze Warui, Score: Unknown
+	Name: Tokyo Fantasia, Score: Unknown
+Cluster #53
+	Name: Ze Tian Ji, Score: 6.9
+	Name: Okusama ga Seitokaichou!: Okusama Gekijou, Score: 6.87
+	Name: Papa Love: Papa to Icha Ero Shitai Musume-tachi to Hitotsu Yane no Shita de, Score: 6.86
+	Name: Ura Jutaijima, Score: 6.82
+	Name: Namanaka Hyaku Percent!: Katamusubi no Shinpa, Score: 6.81
+	Name: Asobi ni Iku yo!: Asobi ni Oide, Score: 6.79
+	Name: Issho ni H Shiyo, Score: 6.77
+	Name: Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete, Score: 6.75
+Cluster #54
+	Name: Yume, Sora Takaku, Score: Unknown
+	Name: Yuki Daruman no Fuyumichi Koutsuu Anzen, Score: Unknown
+	Name: Corocoro Coronya, Score: Unknown
+	Name: Moshi, Ginkou ga Nakatta-ra?: Mahoutsukai Sally no Ginkou Nyuumon, Score: Unknown
+	Name: Beng Huai Xinghe, Score: Unknown
+	Name: Shiritsu Liyon Gakuen, Score: Unknown
+	Name: Shittakaburi Kaitsuburi, Score: Unknown
+	Name: Hashi no Ue no Ookami, Score: Unknown
+Cluster #55
+	Name: Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning, Score: 6.54
+	Name: Get Ride! AMDriver, Score: 6.26
+	Name: Furusato Meguri: Nippon no Mukashibanashi, Score: 6.14
+	Name: Document Taiyou no Kiba Dagram, Score: 6.13
+	Name: Animegataris: Yuku Toshi, Kuru Toshi, Score: 5.9
+	Name: Curry Meshi x Zombieland Saga, Score: 5.89
+	Name: Towel Story, Score: 5.86
+	Name: Inazuma Eleven x Kaitou Gru no Tsuki Dorobou, Score: 5.86
+Cluster #56
+	Name: Akira, Score: 8.17
+	Name: Hikaru no Go, Score: 8.11
+	Name: Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru, Score: 8.1
+	Name: Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi, Score: 8.08
+	Name: Toaru Kagaku no Railgun S, Score: 8.06
+	Name: School Rumble Ni Gakki, Score: 8.03
+	Name: Log Horizon, Score: 8.0
+	Name: Nekomonogatari: Kuro, Score: 7.98
+Cluster #57
+	Name: Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen, Score: 6.35
+	Name: Cherry & Gal's↑↑, Score: 6.33
+	Name: BlazBlue: Alter Memory, Score: 6.13
+	Name: Norn9: Norn+Nonet Recap, Score: 6.1
+	Name: Ai Shimai Tsubomi... Kegashite Kudasai, Score: 6.09
+	Name: Corpse Party: Missing Footage, Score: 6.07
+	Name: Hitou Meguri Kakure Yu, Score: 6.07
+	Name: Kando≠Reduction, Score: 6.07
+Cluster #58
+	Name: Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni, Score: 7.72
+	Name: Yao Shen Ji 2nd Season, Score: 7.39
+	Name: Fella Pure: Mitarashi-san Chi no Jijou The Animation, Score: 7.36
+	Name: Mayo Chiki!, Score: 7.31
+	Name: Hatsu Inu The Animation, Score: 7.31
+	Name: Captain Tsubasa J, Score: 7.27
+	Name: Koutetsujou no Kabaneri, Score: 7.26
+	Name: Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi, Score: 7.26
+Cluster #59
+	Name: Kamisama Hajimemashita◎, Score: 8.16
+	Name: Akatsuki no Yona OVA, Score: 8.09
+	Name: Saint Seiya: Meiou Hades Juuni Kyuu-hen, Score: 8.06
+	Name: Detective Conan Movie 03: The Last Wizard of the Century, Score: 8.04
+	Name: Ramayana: The Legend of Prince Rama, Score: 8.04
+	Name: Working!!!, Score: 8.03
+	Name: School Rumble, Score: 7.94
+	Name: Free!: Eternal Summer - Kindan no All Hard!, Score: 7.93
+Cluster #60
+	Name: Ninja Bugei-chou Pilot Film, Score: Unknown
+	Name: Ultraman Graffiti, Score: Unknown
+	Name: Chikara to Onna no Yo no Naka, Score: Unknown
+	Name: Zenmai Zamurai, Score: Unknown
+	Name: Kero Kero Keroppi no Daibouken: Fushigi na Mame no Ki, Score: Unknown
+	Name: Bouken Korobokkuru, Score: Unknown
+	Name: Showtime, Score: Unknown
+	Name: Bokura Machi Bouzu!, Score: Unknown
+Cluster #61
+	Name: Yanbou Ninbou Tonbou, Score: Unknown
+	Name: Yasai no Yousei: N.Y.Salad 2nd Series, Score: Unknown
+	Name: Yoshimoto Muchikko Monogatari, Score: Unknown
+	Name: Kin no Makiba, Score: Unknown
+	Name: Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen, Score: Unknown
+	Name: Shi Wan Ge Leng Xiaohua Di 3rd Season, Score: Unknown
+	Name: Gokudou Sakaba Denden: Gokudou Daisensou Gaiden, Score: Unknown
+	Name: Qing Chi Hong Xiaodou Ba! Wai Zhuan: Mo Xiang Wang, Score: Unknown
+Cluster #62
+	Name: Meshinuma., Score: Unknown
+	Name: Yat-chan to Shinnyuusei, Score: Unknown
+	Name: Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen, Score: Unknown
+	Name: Zukkoke Sannin-gumi no Jitensha Kyoushitsu, Score: Unknown
+	Name: Yuujou no Kickoff, Score: Unknown
+	Name: Yonimo Kimyou na Man☆Gatarou, Score: Unknown
+	Name: Chikyuu wa Guruguru Merry-Go-Round, Score: Unknown
+	Name: Juupiki no Kaeru, Score: Unknown
+Cluster #63
+	Name: Ginga Tetsudou 999: Diamond Ring no Kanata e, Score: 6.61
+	Name: Suhoyojeong Michel, Score: 6.39
+	Name: Helen Keller Monogatari: Ai to Hikari no Tenshi, Score: 6.38
+	Name: Maken no Hime wa Ero Ero Desu, Score: 6.28
+	Name: Duel Masters Movie 3: Honoo no Kizuna XX, Score: 5.98
+	Name: Eightman, Score: 5.91
+	Name: Dies Irae: Marie's Memory "Michi ni Tsuuzu Kiseki", Score: 5.71
+	Name: Bakumatsu: Crisis, Score: 5.7
+Cluster #64
+	Name: Toumei Ningen (OVA), Score: 6.6
+	Name: Animegatari x Shingeki no Kyojin Collab Eizou, Score: 6.52
+	Name: Bomberman B-Daman Bakugaiden, Score: 6.48
+	Name: Furifure 2, Score: 6.48
+	Name: Hump Bang, Score: 6.47
+	Name: Blue Seed 1.5, Score: 6.47
+	Name: Hana no Joshi Announcer: Newscaster Etsuko, Score: 6.46
+	Name: Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita., Score: 6.43
+Cluster #65
+	Name: Timeless, Score: Unknown
+	Name: Qin Shi Ming Yue: Tian Xing Jiu Ge, Score: 7.21
+	Name: Joukyuusei, Score: 6.29
+	Name: Ganbare! Kickers: Bokutachi no Densetsu, Score: 6.22
+	Name: Oni no Ko to Yuki Usagi, Score: 6.12
+	Name: Doraemon Eigo Kyoushitsu, Score: 6.04
+	Name: Ulysses 31 Pilot, Score: 5.82
+	Name: Anta e, Score: 5.79
+Cluster #66
+	Name: Bousai Keihatsu Douga, Score: Unknown
+	Name: Super Titans 15, Score: Unknown
+	Name: MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu Specials, Score: Unknown
+	Name: Shirotan: Shirotan ga Ippai!, Score: Unknown
+	Name: Warau Salesman Tokubetsu Bangumi, Score: Unknown
+	Name: Lord of Vermilion IV, Score: Unknown
+	Name: Xin Jue, Score: Unknown
+	Name: Yasuji no Pornorama: Yacchimae!!, Score: Unknown
+Cluster #67
+	Name: Kick no Oni (1971), Score: Unknown
+	Name: Kariage-kun, Score: Unknown
+	Name: Yuuyake Banchou, Score: Unknown
+	Name: Yukidaruma, Score: Unknown
+	Name: Garon, Score: Unknown
+	Name: Robinson Crusoe: Mujintou no Bouken, Score: Unknown
+	Name: Tabechatta tte Ii no ni na!, Score: Unknown
+	Name: Be Rockin', Score: Unknown
+Cluster #68
+	Name: Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa, Score: 7.74
+	Name: Kuroko no Basket: Mou Ikkai Yarimasen ka, Score: 7.66
+	Name: Overlord Movie 2: Shikkoku no Eiyuu, Score: 7.66
+	Name: Sora no Otoshimono: Tokeijikake no Angeloid, Score: 7.62
+	Name: Tsubasa Chronicle 2nd Season, Score: 7.6
+	Name: Aa! Megami-sama!: Sorezore no Tsubasa, Score: 7.58
+	Name: Kuroko no Basket: Baka ja Katenai no yo!, Score: 7.58
+	Name: Katekyo Hitman Reborn! Vongola Family Soutoujou! Vongola Shiki Shuugakuryokou, Kuru!!, Score: 7.58
+Cluster #69
+	Name: Xiao Hua Xian 2nd Season, Score: Unknown
+	Name: Pittarazu, Score: Unknown
+	Name: Tobidase! Dokan-kun Specials, Score: Unknown
+	Name: Soba Dokan, Score: Unknown
+	Name: Hua Jianghu Zhi Xia Lan, Score: Unknown
+	Name: Mushi Mushi Mura no Nakama-tachi: Minna Ii Toko Arun Da yo, Score: Unknown
+	Name: Kaijuu Step Wandabada, Score: Unknown
+	Name: Uchi no Oochopus, Score: Unknown
+Cluster #70
+	Name: In the Sea and near a Girl., Score: Unknown
+	Name: Sleeping Beauty, Score: Unknown
+	Name: Deep Blue Song (September 2017), Score: Unknown
+	Name: Shao Nian Ge Xing, Score: 6.89
+	Name: Denkou Chou Tokkyuu Hikarian, Score: 6.32
+	Name: Toushi Gordian, Score: 6.26
+	Name: Shi Huang Zhi Shen, Score: 6.17
+	Name: Tales of the Rays: Everlasting Destiny, Score: 6.06
+Cluster #71
+	Name: Nyani ga Nyandaa Nyandaa Kamen no Koutsuu Anzen, Score: Unknown
+	Name: Yasashii Ookami, Score: Unknown
+	Name: Xevious, Score: Unknown
+	Name: Xing Mao Lixian Ji Zhi Shu Fa Pian, Score: Unknown
+	Name: Zhen Gyi Hong Shi, Score: Unknown
+	Name: Zettai Zetsumei Dangerous Jiisan Special-ban, Score: Unknown
+	Name: Ylion to Callysia, Score: Unknown
+	Name: Aware! Meisaku-kun: Human Academy Robot Kyoushitsu, Score: Unknown
+Cluster #72
+	Name: Shin Biofermin S, Score: Unknown
+	Name: Teppen, Score: Unknown
+	Name: Kizu darake no Tenshi-tachi, Score: Unknown
+	Name: Doubutsu Dai Yakyuu Sen, Score: Unknown
+	Name: Umi Da! Funade Da! Nikoniko, Pun, Score: Unknown
+	Name: Lalala Lala-chan, Score: Unknown
+	Name: X Maiden: Izakaya Tamaki, Score: Unknown
+	Name: Li'l Chillun', Score: Unknown
+Cluster #73
+	Name: Aoki Hagane no Arpeggio: Ars Nova Cadenza, Score: 7.88
+	Name: Yume-iro Pâtissière, Score: 7.87
+	Name: Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!, Score: 7.86
+	Name: Hataraku Maou-sama!, Score: 7.83
+	Name: Gochuumon wa Usagi Desu ka??, Score: 7.82
+	Name: Break Blade 3: Kyoujin no Ato, Score: 7.81
+	Name: Magic Kaito, Score: 7.81
+	Name: Baka to Test to Shoukanjuu Ni!, Score: 7.76
+Cluster #74
+	Name: One Punch Man, Score: 8.57
+	Name: Kara no Kyoukai 5: Mujun Rasen, Score: 8.56
+	Name: Gintama.: Porori-hen, Score: 8.53
+	Name: Neon Genesis Evangelion: The End of Evangelion, Score: 8.51
+	Name: Nana, Score: 8.46
+	Name: Owarimonogatari, Score: 8.46
+	Name: Kaze ga Tsuyoku Fuiteiru, Score: 8.45
+	Name: Koukaku Kidoutai: Stand Alone Complex, Score: 8.45
+Cluster #75
+	Name: Mermaid Melody Pichi Pichi Pitch Pure, Score: 7.09
+	Name: Koro-sensei Q!, Score: 7.08
+	Name: Koinaka: Koinaka de Hatsukoi x Nakadashi Sexual Life The Animation, Score: 7.05
+	Name: Inazuma Eleven Go vs. Danball Senki W Movie, Score: 7.04
+	Name: Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!, Score: 6.97
+	Name: Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!, Score: 6.94
+	Name: Saint Seiya: Kamigami no Atsuki Tatakai, Score: 6.91
+	Name: Gakusen Toshi Asterisk, Score: 6.9
+Cluster #76
+	Name: Kensaku to Enjin no Christmas, Score: Unknown
+	Name: Tuxedo Gin, Score: Unknown
+	Name: Seven Nation Army feat. Chara, Score: Unknown
+	Name: Circuit no Ookami II: Modena no Ken, Score: Unknown
+	Name: Karate Baka Ichidai, Score: Unknown
+	Name: Meitantei Rascal, Score: Unknown
+	Name: Nippon-ichi no Otoko no Tamashii 2, Score: Unknown
+	Name: Elite Banana Banao, Score: Unknown
+Cluster #77
+	Name: Midnight Horror School, Score: Unknown
+	Name: Zettai Zetsumei Dangerous Jiisan, Score: Unknown
+	Name: Yuke! Shouei-kun, Score: Unknown
+	Name: Feather (Overdrive Version), Score: Unknown
+	Name: Nijiiro Love Letter, Score: Unknown
+	Name: Kita no Kaze to Taiyou to, Score: Unknown
+	Name: Nekoronde Mite ne., Score: Unknown
+	Name: Neko Neko Gong Show, Score: Unknown
+Cluster #78
+	Name: Mattsu to Yanma to Moburi-san 2: Suigun Otakara to Nazotoki no Shimajima, Score: Unknown
+	Name: Little Polar Bear: Shirokuma-kun, Fune ni Noru, Score: Unknown
+	Name: Stand By Me Doraemon 2, Score: Unknown
+	Name: Boku wa Kimi no Namida, Score: Unknown
+	Name: We Two, Score: Unknown
+	Name: Don't Worry: Monotarinai Monogatari, Score: Unknown
+	Name: Midnight Run feat. Nana Furuya, Score: Unknown
+	Name: For, Score: Unknown
+Cluster #79
+	Name: Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥, Score: 7.35
+	Name: HHH Triple Ecchi, Score: 7.29
+	Name: Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki, Score: 7.26
+	Name: Oni Chichi: Rebuild, Score: 7.24
+	Name: Koikishi Purely☆Kiss The Animation, Score: 7.2
+	Name: To LOVE-Ru: Multiplication - Mae kara Ushiro kara, Score: 7.17
+	Name: Peace Hame!, Score: 7.12
+	Name: Toaru Majutsu no Index-tan Movie: Endymion no Kiseki - Ga Attari Nakattari, Score: 7.1
+Cluster #80
+	Name: Koe no Katachi, Score: 9.0
+	Name: Mob Psycho 100 II, Score: 8.84
+	Name: Made in Abyss, Score: 8.74
+	Name: Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen, Score: 8.74
+	Name: Made in Abyss Movie 3: Fukaki Tamashii no Reimei, Score: 8.74
+	Name: Mushishi Zoku Shou, Score: 8.72
+	Name: Vinland Saga, Score: 8.71
+	Name: Mushishi, Score: 8.69
+Cluster #81
+	Name: Marine Snow no Densetsu, Score: Unknown
+	Name: Tenuto, Score: Unknown
+	Name: Yuu Kiri, Score: Unknown
+	Name: Universal Mind, Score: Unknown
+	Name: Machine Robo: Leina, The Legend of Wolf Blade, Score: Unknown
+	Name: Channel 5.5 4th Season Prologue, Score: Unknown
+	Name: Channel 5.5 3rd Season Prologue, Score: Unknown
+	Name: So Long!, Score: Unknown
+Cluster #82
+	Name: Jitensha-hen, Score: Unknown
+	Name: Kabushikigaisha G-anime Saiyou Concept Movie, Score: Unknown
+	Name: Justeen, Score: Unknown
+	Name: Tottoko Hamtarou no Tottoko Taisetsu!! Koutsuu Rule, Score: Unknown
+	Name: Urashimasakatasen no Nichijou Special, Score: Unknown
+	Name: Sun, Score: Unknown
+	Name: Yans! Gans! Meat or Die, Score: Unknown
+	Name: Uchina Experience, Score: Unknown
+Cluster #83
+	Name: Ganba! Fly High, Score: Unknown
+	Name: Toshi Keikaku, Score: Unknown
+	Name: Sheep in the Island, Score: Unknown
+	Name: September, Score: Unknown
+	Name: HuGoo.n no Hug Hug Song, Score: Unknown
+	Name: Kashikokimono, Score: Unknown
+	Name: Break Go!Ga!, Score: Unknown
+	Name: Best Care Group, Score: Unknown
+Cluster #84
+	Name: Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi, Score: 6.86
+	Name: Yakata: Kannou Kitan, Score: 6.77
+	Name: Kizuna: Koi no kara Sawagi, Score: 6.73
+	Name: Shin Koihime†Musou: Otome Tairan - Gakuensai da yo! Zenin Shuugou no Koto, Score: 6.72
+	Name: Bible Black Gaiden, Score: 6.7
+	Name: Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest, Score: 6.7
+	Name: Ai no Kusabi (2012), Score: 6.65
+	Name: Code:Realize - Sousei no Himegimi, Score: 6.65
+Cluster #85
+	Name: Yabai! Fukushuu Yami Site, Score: 6.76
+	Name: Youjo Shenki, Score: 6.75
+	Name: One Piece: Long Ring Long Land-hen, Score: 6.74
+	Name: Shikijou Kyoudan, Score: 6.74
+	Name: Ling Yu 5th Season, Score: 6.73
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future, Score: 6.72
+	Name: Marginal#4: Kiss kara Tsukuru Big Bang, Score: 6.7
+	Name: Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai, Score: 6.66
+Cluster #86
+	Name: Kafun Shoujo Chuuihou! The Animation, Score: 7.11
+	Name: Pokemon: Mewtwo! Ware wa Koko ni Ari, Score: 7.06
+	Name: Seto no Hanayome Fan Disc, Score: 7.06
+	Name: Anime Himitsu no Hanazono, Score: 7.05
+	Name: Yankee-kun na Yamada-kun to Megane-chan to Majo, Score: 7.05
+	Name: Deltora Quest, Score: 7.04
+	Name: Ling Jian Zun 2nd Season, Score: 7.02
+	Name: Tokyo Mew Mew, Score: 6.99
+Cluster #87
+	Name: Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen, Score: 7.73
+	Name: Shingeki no Kyojin: Chronicle, Score: 7.68
+	Name: Hakuouki Movie 1: Kyoto Ranbu, Score: 7.67
+	Name: Detective Conan Movie 09: Promo Special, Score: 7.62
+	Name: Huyao Xiao Hongniang: Wangquan Fugui, Score: 7.6
+	Name: Digimon Adventure Movie, Score: 7.57
+	Name: Nanbaka 2, Score: 7.51
+	Name: Charlotte: Tsuyoimono-tachi, Score: 7.48
+Cluster #88
+	Name: Han Hua Ri Ji, Score: 6.85
+	Name: Wonder Beat Scramble, Score: 6.54
+	Name: Bleach: Gotei 13 Omake, Score: 6.45
+	Name: Chuunibyou demo Koi ga Shitai! Movie: Take On Me - Weekly Short Movie "Kotatsu DE Photo Session", Score: 6.43
+	Name: Nama Lo Re: Namakemono The Animation, Score: 6.42
+	Name: Shoujo Senki Soul Eater, Score: 6.41
+	Name: IS: Infinite Stratos 2 - Infinite Wedding, Score: 6.41
+	Name: Bijukubo, Score: 6.41
+Cluster #89
+	Name: Ginga Eiyuu Densetsu, Score: 9.07
+	Name: Gintama: The Final, Score: 8.88
+	Name: Ashita no Joe 2, Score: 8.67
+Cluster #90
+	Name: Geori-eui Mubeopja, Score: Unknown
+	Name: Toyoichi, Score: Unknown
+	Name: Chokotto Kamen feat. Inoue Kikuko, Score: Unknown
+	Name: Wego Graphics, Score: Unknown
+	Name: Ten made Tobaso, Score: Unknown
+	Name: Haru Natsu, Score: Unknown
+	Name: Mama ga Hakuchou Datta hi, Score: Unknown
+	Name: Nakanaide, Score: Unknown
+Cluster #91
+	Name: Sketch, Score: Unknown
+	Name: Maku, Score: Unknown
+	Name: Gravity (2019), Score: Unknown
+	Name: Hyper Sweet Power, Score: Unknown
+	Name: Lu Ling, Score: Unknown
+	Name: Tondemo Senshi Muteking, Score: 6.39
+	Name: Gegege no Kitarou: Jigoku-hen, Score: 6.23
+	Name: Town Workers, Score: 6.08
+Cluster #92
+	Name: Ansatsu Kyoushitsu 2nd Season, Score: 8.54
+	Name: Steins;Gate Movie: Fuka Ryouiki no Déjà vu, Score: 8.5
+	Name: Natsume Yuujinchou Movie: Utsusemi ni Musubu, Score: 8.41
+	Name: Great Pretender, Score: 8.38
+	Name: Nodame Cantabile, Score: 8.32
+	Name: Hibike! Euphonium 2, Score: 8.3
+	Name: Kawaki wo Ameku, Score: 8.27
+	Name: Wu Liuqi Zhi Zui Qiang Fa Xing Shi, Score: 8.23
+Cluster #93
+	Name: Samurai (2011), Score: Unknown
+	Name: Oniwa no Soto, Score: Unknown
+	Name: Uchuu Kaizoku Mito no Daibouken Pilot, Score: Unknown
+	Name: Zo Zo Zo Zombie-kun, Score: Unknown
+	Name: Wonder Gravity: Pino To Juuryoku Tsukai, Score: Unknown
+	Name: Yumemi Douji, Score: Unknown
+	Name: Socket, Score: Unknown
+	Name: First Rabbit, Score: Unknown
+Cluster #94
+	Name: Fei Ren Zai, Score: 7.11
+	Name: Highschool of the Dead: Drifters of the Dead, Score: 6.64
+	Name: Brothers Conflict OVA, Score: 6.64
+	Name: Sword Art Online: Sword Art Offline - Extra Edition, Score: 6.59
+	Name: Sword Art Online II: Sword Art Offline II, Score: 6.55
+	Name: Fake, Score: 6.54
+	Name: Rennyuu Tales The Animation, Score: 6.51
+	Name: Plunderer, Score: 6.5
+Cluster #95
+	Name: Present (Music), Score: Unknown
+	Name: Tenrankai de Atta Onnanoko, Score: Unknown
+	Name: Natsu no Niwa, Score: Unknown
+	Name: 365-nichi no Love Song, Score: Unknown
+	Name: Chiisana Kinomi (1995), Score: Unknown
+	Name: Oned, Score: Unknown
+	Name: Nekketsu Saikyou Go-Saurer, Score: 6.72
+	Name: Cyborg 009: The Cyborg Soldier - Kami no Ubugoe, Score: 6.38
+Cluster #96
+	Name: Kyoufu no Kyou-chan, Score: Unknown
+	Name: Taabou no Ryuuguusei Daitanken, Score: Unknown
+	Name: Tengai Makyou: Jiraiya Oboro-hen, Score: Unknown
+	Name: David gwa Goliath, Score: Unknown
+	Name: Transformers: Choujin Master Force Soushuuhen, Score: Unknown
+	Name: Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?, Score: Unknown
+	Name: Heisei Matsue Kaidan, Score: Unknown
+	Name: Nintama Rantarou: Dokutake Onsen no Dan, Score: Unknown
+Cluster #97
+	Name: Ansatsu Kyoushitsu 2nd Season: Kagaijugyou-hen, Score: 7.73
+	Name: Minami-ke, Score: 7.69
+	Name: Fruits Basket, Score: 7.69
+	Name: Yaoguai Mingdan 2nd Season, Score: 7.68
+	Name: Ao Haru Ride, Score: 7.67
+	Name: Ranma ½ Super, Score: 7.67
+	Name: Detective Conan Movie 10: Promo Special, Score: 7.66
+	Name: Shakugan no Shana II (Second), Score: 7.61
+Cluster #98
+	Name: It's Show Time!, Score: Unknown
+	Name: Ankoku Cat VS, Score: Unknown
+	Name: To Dimension, Score: Unknown
+	Name: Megane no Mahou, Score: Unknown
+	Name: Yadamon, Score: 6.15
+	Name: Jakusansei Million Arthur: Forever Kakusansei Million Arthur, Score: 5.67
+	Name: Backkom Meogeujan Yeohaeng, Score: 5.63
+	Name: Inferious Wakusei Senshi Gaiden Condition Green, Score: 5.61
+Cluster #99
+	Name: Shippuu! Iron Leaguer, Score: 6.89
+	Name: Padak Padak, Score: 6.66
+	Name: Kuusou Kagaku Sekai Gulliver Boy, Score: 6.44
+	Name: Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round, Score: 6.09
+	Name: Busou Renkin: Mahiro no Busou Renkin Kouza, Score: 6.04
+	Name: Metal Fight Beyblade Zero G Specials, Score: 6.03
+	Name: Xianjing Chuanshuo RO: Shouhu Yongheng de Ai, Score: 5.99
+	Name: Kamisama Dolls Specials, Score: 5.93
+Cluster #100
+	Name: Kyonyuu Fantasy, Score: 7.38
+	Name: Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e, Score: 7.34
+	Name: Noblesse: Pamyeol-ui Sijak, Score: 7.31
+	Name: High School DxD New: Oppai, Tsutsumimasu!, Score: 7.29
+	Name: Fullmetal Alchemist: Reflections, Score: 7.29
+	Name: Kuroko no Basket: Oshaberi Shiyokka, Score: 7.29
+	Name: High School DxD Hero, Score: 7.28
+	Name: Digimon Adventure 02: Diablomon no Gyakushuu, Score: 7.28
+Cluster #101
+	Name: Korogashi Ryouta, Score: Unknown
+	Name: Michitekuru Toki no Mukou ni, Score: Unknown
+	Name: Shita-kiri Suzume, Score: Unknown
+	Name: Oraa Guzura Dado, Score: Unknown
+	Name: Chicchana Photographer, Score: Unknown
+	Name: Zhi duoduo qihuan xingkong zhi lu, Score: Unknown
+	Name: Yuuyake Dandan: Manner Movies, Score: Unknown
+	Name: Yoshida no Time Slip Fumai-kou, Score: Unknown
+Cluster #102
+	Name: Big X Episode 0, Score: Unknown
+	Name: Xiao Liyu Lixian Ji, Score: Unknown
+	Name: Shiawase Kyou Ryuu Ondo, Score: Unknown
+	Name: Youkai Ningen Bem: Part II, Score: Unknown
+	Name: Watashi no Nyanko, Score: Unknown
+	Name: Umbrella Fighter!, Score: Unknown
+	Name: Midori-chan, Score: Unknown
+	Name: Magical Maho, Score: Unknown
+Cluster #103
+	Name: Date A Live II: Kurumi Star Festival, Score: 7.92
+	Name: Bishoujo Senshi Sailor Moon: Sailor Stars, Score: 7.92
+	Name: Junjou Romantica OVA, Score: 7.8
+	Name: Gochuumon wa Usagi Desu ka??: Dear My Sister, Score: 7.79
+	Name: D.Gray-man Hallow, Score: 7.75
+	Name: Bishoujo Senshi Sailor Moon Crystal Season III, Score: 7.72
+	Name: Boku no Hero Academia the Movie 1: Futari no Hero, Score: 7.7
+	Name: Tsurezure Children, Score: 7.67
+Cluster #104
+	Name: Qin Shi Ming Yue: Wanli Changcheng, Score: 7.17
+	Name: Dragon Ball Super: Broly - Skytree Super, Score: 7.08
+	Name: Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki, Score: 6.92
+	Name: Garo: Honoo no Kokuin - Home, Score: 6.8
+	Name: Inazuma Eleven: Outer Code, Score: 6.8
+	Name: Hoshizora e Kakaru Hashi, Score: 6.78
+	Name: Wanna. SpartanSex Spermax!!!, Score: 6.76
+	Name: Oni Chichi 2: Harvest, Score: 6.73
+Cluster #105
+	Name: Mr. Shape, Score: Unknown
+	Name: Manga Edo Erobanashi, Score: Unknown
+	Name: Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu, Score: Unknown
+	Name: Monkey Punch: Manga Katsudou Daishashin - Crime Mate Special, Score: Unknown
+	Name: Hi no Tori: Hagoromo-hen, Score: Unknown
+	Name: Cynical Hysterie Hour: Yoru wa Tanoshii, Score: Unknown
+	Name: Captain Tsubasa no Shouka Sakusen, Score: Unknown
+	Name: Tottoko Hamtarou: Best Hit Ham-chan'zu Music Clip, Score: Unknown
+Cluster #106
+	Name: Umibe no Étranger, Score: Unknown
+	Name: Shelter, Score: 8.34
+	Name: Kono Subarashii Sekai ni Shukufuku wo! 2, Score: 8.31
+	Name: Majo no Takkyuubin, Score: 8.24
+	Name: Girls & Panzer Movie, Score: 8.23
+	Name: InuYasha: Kanketsu-hen, Score: 8.22
+	Name: Saiki Kusuo no Ψ-nan: Kanketsu-hen, Score: 8.22
+	Name: Working!!!: Lord of the Takanashi, Score: 8.2
+Cluster #107
+	Name: Mobile Dog House￥, Score: Unknown
+	Name: Takemoto Denki x Peeping Life, Score: Unknown
+	Name: Sukui Agete Kurenai ka, Score: Unknown
+	Name: Matsubara-kun, Score: Unknown
+	Name: Shin Karate Jigoku-hen, Score: Unknown
+	Name: Dennou Sentai Voogie's★Angel: Forever and Ever, Score: Unknown
+	Name: Senkou Progress, Score: Unknown
+	Name: Watashi no Ashinaga Ojisan Specials, Score: Unknown
+Cluster #108
+	Name: Crayon Shin-chan Gaiden: Kazokuzure Ookami, Score: 6.59
+	Name: Yakou, Score: 6.46
+	Name: Taichi Senjimon, Score: 6.34
+	Name: Strike Witches OVA, Score: 6.29
+	Name: Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials, Score: 6.27
+	Name: Enyoku, Score: 6.24
+	Name: Mori no Tonto-tachi, Score: 6.19
+	Name: Blood-C: None-None Gekijou, Score: 6.19
+Cluster #109
+	Name: Koiwai Junsui Kajuu: Bokura Junsui-hen, Score: Unknown
+	Name: Monster ni Natta Domerica, Score: Unknown
+	Name: Shukka Fuufu, Score: Unknown
+	Name: Hendo Garden, Score: Unknown
+	Name: Daremo Shiranai, Score: Unknown
+	Name: Haha wo Tazunete Sanzenri Specials, Score: Unknown
+	Name: Gon 2nd Season, Score: Unknown
+	Name: Yakushiji Ryouko no Kaiki Jikenbo: Hamachou, Voice & Fiction, Score: Unknown
+Cluster #110
+	Name: Girls & Panzer: Saishuushou Part 1 - Fushou Akiyama Yukari no Sensha Kouza, Score: 6.82
+	Name: Prayer X, Score: 6.75
+	Name: Ore wo Suki nano wa Omae dake ka yo: Ore wa Teinei ni Susumeru, Score: 6.54
+	Name: Bear Bear Bear Kuma!, Score: 6.43
+	Name: Akashic Re:cords, Score: 6.43
+	Name: Tensai Bakabon, Score: 6.42
+	Name: Succubu-ist Story The Animation, Score: 6.39
+	Name: Toradora!: SOS! Kuishinbou Banbanzai, Score: 6.37
+Cluster #111
+	Name: Pure-tou no Nakama-tachi, Score: 6.33
+	Name: Ganso Tensai Bakabon, Score: 6.26
+	Name: Jean Valjean Monogatari, Score: 6.23
+	Name: Akuu Daisakusen Srungle, Score: 6.17
+	Name: Love Live! Sunshine!! Photo Session, Score: 5.95
+	Name: Kyuuketsuki, Score: 5.93
+	Name: Kyouhaku: Owaranai Ashita, Score: 5.82
+	Name: Backkom Sports, Score: 5.78
+Cluster #112
+	Name: Yowai Robot to 10 no Story Project, Score: Unknown
+	Name: Tenkuu Senki Shurato Recaps, Score: Unknown
+	Name: Wansa-kun, Score: Unknown
+	Name: Don Pepe no Uta, Score: Unknown
+	Name: Yume no Mahou, Score: Unknown
+	Name: Kaibutsu-kun: Demon no Ken, Score: Unknown
+	Name: Xi Yang Yang Yu Hui Tai Lang: Zhi Kaixin Chuang Long Nian, Score: Unknown
+	Name: Tokai no Butchy, Score: Unknown
+Cluster #113
+	Name: Yuu☆Yuu☆Hakusho, Score: 8.45
+	Name: Hunter x Hunter, Score: 8.42
+	Name: Haikyuu!!: To the Top, Score: 8.39
+	Name: Dr. Stone, Score: 8.34
+	Name: Steins;Gate: Oukoubakko no Poriomania, Score: 8.34
+	Name: Boku no Hero Academia 2nd Season, Score: 8.33
+	Name: Fate/stay night: Unlimited Blade Works 2nd Season, Score: 8.33
+	Name: Tian Guan Ci Fu, Score: 8.33
+Cluster #114
+	Name: Boku no Hero Academia the Movie 2: Heroes:Rising, Score: 8.08
+	Name: Noragami, Score: 8.01
+	Name: Darker than Black: Kuro no Keiyakusha Gaiden, Score: 7.97
+	Name: Tonikaku Kawaii, Score: 7.96
+	Name: Kami nomi zo Shiru Sekai II, Score: 7.94
+	Name: Detective Conan OVA 09: The Stranger in 10 Years..., Score: 7.94
+	Name: Noragami Aragoto OVA, Score: 7.91
+	Name: Detective Conan Movie 02: The Fourteenth Target, Score: 7.9
+Cluster #115
+	Name: Yuuto-kun ga Iku, Score: Unknown
+	Name: Zhu Zhu Xia: Yong Chuang Juren Dao, Score: Unknown
+	Name: Xiong Chumo Zhi: Conglin Zongdongyuan, Score: Unknown
+	Name: Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken, Score: Unknown
+	Name: Daisuki! Nendomama, Score: Unknown
+	Name: Gakken no Zunou Kaihatsu Video, Score: Unknown
+	Name: Hamster Sam, Score: Unknown
+	Name: No Shiba no Shiba, Score: Unknown
+Cluster #116
+	Name: InuYasha Movie 1: Toki wo Koeru Omoi, Score: 7.56
+	Name: Trinity Seven: Nanatsu no Taizai to Nana Madoushi, Score: 7.4
+	Name: Rekka no Honoo, Score: 7.36
+	Name: Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game, Score: 7.36
+	Name: Fullmetal Alchemist: Premium Collection, Score: 7.35
+	Name: Nogizaka Haruka no Himitsu: Finale, Score: 7.35
+	Name: Tales of Zestiria the Cross 2nd Season, Score: 7.35
+	Name: Ginban Kaleidoscope, Score: 7.34
+Cluster #117
+	Name: W-Tails Cat: A Strange Presence, Score: Unknown
+	Name: Seizei Ganbare! Mahou Shoujo Kurumi 2nd Season, Score: Unknown
+	Name: The★Fire G-Men, Score: Unknown
+	Name: Taka no Tsume x Hello Kitty ga Masaka no Collab!, Score: Unknown
+	Name: Trapp Ikka Monogatari Specials, Score: Unknown
+	Name: Letchu, Getchu, Saru Getchu Episode 0, Score: Unknown
+	Name: Hawaiian Rock'n Roll, Score: Unknown
+	Name: Gomennasai, Score: Unknown
+Cluster #118
+	Name: Psychogram feat. Hatsune Miku, Score: 6.4
+	Name: Mashiro-iro Symphony: Airi ga Anata no Kanojo ni!?, Score: 6.16
+	Name: Heart no Kuni no Alice: Wonderful Wonder World, Score: 6.08
+	Name: Dive!!, Score: 6.08
+	Name: Green Green OVA, Score: 6.0
+	Name: Seikon no Qwaser Picture Drama, Score: 5.97
+	Name: Code Geass: Hangyaku no Lelouch R2 Omake Flash, Score: 5.92
+	Name: Koi Koi 7 Specials, Score: 5.92
+Cluster #119
+	Name: Final Fantasy VII: Advent Children - Venice Film Festival Footage, Score: 7.55
+	Name: Acchi Kocchi (TV): Place=Princess, Score: 7.5
+	Name: Toradora! Recap, Score: 7.49
+	Name: Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!, Score: 7.48
+	Name: Oushitsu Kyoushi Heine, Score: 7.47
+	Name: Quanzhi Fashi III, Score: 7.43
+	Name: Fukigen na Mononokean, Score: 7.42
+	Name: Super Lovers OVA, Score: 7.42
+Cluster #120
+	Name: Harem Time The Animation, Score: 7.16
+	Name: Shingeki no Kyojin: Ano Hi Kara, Score: 7.14
+	Name: Ao no Exorcist: Ura Ex, Score: 7.1
+	Name: Tsugumomo, Score: 7.07
+	Name: Medarot, Score: 7.07
+	Name: Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai, Score: 7.06
+	Name: Idaten Jump, Score: 6.96
+	Name: Kamisama no Inai Nichiyoubi: Kioku, Score: 6.92
+Cluster #121
+	Name: Sen to Chihiro no Kamikakushi, Score: 8.83
+	Name: Hajime no Ippo, Score: 8.75
+	Name: Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen, Score: 8.73
+	Name: Great Teacher Onizuka, Score: 8.7
+	Name: Hajime no Ippo: New Challenger, Score: 8.67
+	Name: Suzumiya Haruhi no Shoushitsu, Score: 8.65
+	Name: Kizumonogatari II: Nekketsu-hen, Score: 8.61
+	Name: JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Score: 8.61
+Cluster #122
+	Name: Jujutsu Kaisen, Score: 6.95
+	Name: Juvenile Pornography The Animation, Score: 6.46
+	Name: Tamako Market Specials, Score: 6.36
+	Name: Rebecca, Score: 6.36
+	Name: Dog Days'': Gravure Talk, Score: 6.32
+	Name: In no Houteishiki, Score: 6.29
+	Name: Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation, Score: 6.26
+	Name: Muv-Luv Alternative: Total Eclipse Recap - Climax Chokuzen Special, Score: 6.25
+Cluster #123
+	Name: Surprise 4 U., Score: Unknown
+	Name: Xi You Ji, Score: 6.89
+	Name: Hime Chen! Otogi Chikku Idol Lilpri (2011), Score: 6.66
+	Name: Juushin Liger, Score: 6.53
+	Name: Moero Arthur: Hakuba no Ouji, Score: 6.18
+	Name: Cookin' Idol Ai! Mai! Main!, Score: 6.18
+	Name: Devilman Memorial, Score: 5.82
+	Name: Kanadian Families: Episode Zero, Score: 5.65
+Cluster #124
+	Name: Mitsume ga Tooru, Score: 6.66
+	Name: Chocchan Monogatari, Score: 6.66
+	Name: Dahufa, Score: 6.6
+	Name: Hareluya II Boy, Score: 6.33
+	Name: Sengoku Night Blood: Ongaku Dai Tokushuu, Score: 6.27
+	Name: Bloody Bunny, Score: 5.86
+	Name: Channel 5.5 3rd Season, Score: 5.79
+	Name: Blue Hawaii feat. Crush, Penomeco, Score: 5.79
+Cluster #125
+	Name: Detective Conan Movie 05: Countdown to Heaven, Score: 8.14
+	Name: Detective Conan Movie 08: Magician of the Silver Sky, Score: 8.1
+	Name: Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen, Score: 8.08
+	Name: Golden Boy, Score: 8.03
+	Name: Wolf's Rain OVA, Score: 8.03
+	Name: Mobile Suit Gundam: Iron-Blooded Orphans, Score: 8.02
+	Name: Overlord, Score: 7.96
+	Name: xxxHOLiC Movie: Manatsu no Yoru no Yume, Score: 7.96
+Cluster #126
+	Name: Kingyo Chuuihou!, Score: 6.79
+	Name: Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito, Score: 6.76
+	Name: Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?, Score: 6.74
+	Name: Majime ni Fumajime Kaiketsu Zorori, Score: 6.72
+	Name: Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu, Score: 6.7
+	Name: Shinmai Maou no Testament Departures: Maria no Hizou Eizou, Score: 6.69
+	Name: Saishuu Chikan Densha Next, Score: 6.68
+	Name: Accel World: Infinite∞Burst, Score: 6.66
+Cluster #127
+	Name: Oban Star-Racers, Score: 7.51
+	Name: Sukitte Ii na yo.: Dareka ga, Score: 7.28
+	Name: A3! Season Autumn & Winter, Score: 7.26
+	Name: Ane Yome Quartet, Score: 7.22
+	Name: Vandread, Score: 7.21
+	Name: Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!, Score: 7.19
+	Name: Kamisama Kazoku, Score: 7.15
+	Name: Shakugan no Shana-tan Movie, Score: 7.14
+Cluster #128
+	Name: Yuhuwa Chingudeul, Score: Unknown
+	Name: Youkoso! Ecolo Shima, Score: Unknown
+	Name: Xian Feng Jian Yu Lu, Score: Unknown
+	Name: Mono no Kamisama Cocotama, Score: Unknown
+	Name: Mii-chan no Tenohira, Score: Unknown
+	Name: Magical Puuta no Hi Asobi wa Abunai yo, Score: Unknown
+	Name: Rainbow Scene, Score: Unknown
+	Name: Ken-chan to Bouen Kazoku, Score: Unknown
+Cluster #129
+	Name: High School DxD Specials, Score: 7.27
+	Name: Date A Live III, Score: 7.13
+	Name: Gakusen Toshi Asterisk 2nd Season, Score: 7.08
+	Name: Grisaia no Rakuen Specials, Score: 7.07
+	Name: Ikoku Irokoi Romantan, Score: 7.01
+	Name: Overlord: Ple Ple Pleiades, Score: 7.0
+	Name: Devil May Cry, Score: 6.98
+	Name: Isekai Maou to Shoukan Shoujo no Dorei Majutsu, Score: 6.98
+Cluster #130
+	Name: Wotaku ni Koi wa Muzukashii OVA, Score: 7.86
+	Name: Watashi no Ashinaga Ojisan, Score: 7.75
+	Name: Kami nomi zo Shiru Sekai, Score: 7.73
+	Name: Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?, Score: 7.73
+	Name: Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou, Score: 7.73
+	Name: One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi, Score: 7.72
+	Name: Working!!, Score: 7.7
+	Name: Shoukoujo Sara, Score: 7.68
+Cluster #131
+	Name: Hakuouki Hekketsuroku Episode 0, Score: 7.13
+	Name: Ookami to Koushinryou II: Holo no Short Anime, Score: 7.06
+	Name: Tottoko Hamtarou, Score: 6.97
+	Name: Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita., Score: 6.9
+	Name: Koi to Senkyo to Chocolate: Koi Imouto!, Score: 6.89
+	Name: Overlord Movie: Ple Ple Pleiades, Score: 6.87
+	Name: Boku to Joi no Shinsatsu Nisshi The Animation, Score: 6.85
+	Name: Ganbare! Kickers, Score: 6.82
+Cluster #132
+	Name: Haikyuu!! (OVA), Score: 7.76
+	Name: InuYasha: Kuroi Tessaiga, Score: 7.74
+	Name: InuYasha Movie 2: Kagami no Naka no Mugenjo, Score: 7.66
+	Name: Grisaia no Kajitsu, Score: 7.55
+	Name: Rakudai Kishi no Cavalry, Score: 7.53
+	Name: Aa! Megami-sama! (TV) Specials, Score: 7.53
+	Name: Itsudatte Bokura no Koi wa 10 cm Datta., Score: 7.52
+	Name: Fairy Tail Movie 2: Dragon Cry, Score: 7.52
+Cluster #133
+	Name: Doraemon Movie 40: Nobita no Shin Kyouryuu, Score: 7.09
+	Name: Karneval, Score: 7.04
+	Name: Oni Chichi, Score: 7.0
+	Name: Servamp Specials, Score: 6.93
+	Name: Nudist Beach ni Shuugaku Ryokou de!! The Animation, Score: 6.9
+	Name: Starmyu 3rd Season, Score: 6.89
+	Name: Koutetsu no Majo Annerose, Score: 6.82
+	Name: Vampire Knight: Gekiai no Portrait, Score: 6.81
+Cluster #134
+	Name: Himawari, Score: Unknown
+	Name: Chou Hatsumei Boy Kanipan, Score: 6.53
+	Name: Sakura Kakumei: Hanasaku Otome-tachi, Score: 6.21
+	Name: Kotowaza Gundam-san (ONA), Score: 6.07
+	Name: Super Shiro, Score: 6.0
+	Name: Tetsuwan Atom: Ao Kishi no Kan, Score: 5.97
+	Name: Chibikko Remi to Meiken Kapi, Score: 5.87
+	Name: BaBuKa: Gokudou no Tsuma, Score: 5.75
+Cluster #135
+	Name: Sword of Phantasia, Score: Unknown
+	Name: Soukou Kihei Votoms Recaps, Score: 6.17
+	Name: Attack No.1: Namida no Kaiten Receive, Score: 6.15
+	Name: Sango no Umi to Ouji, Score: 5.76
+	Name: Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken, Score: 5.71
+	Name: Curly, Score: 5.71
+	Name: Made in Japan, Score: 5.68
+	Name: Nihon Mukashibanashi: Saru Kani, Score: 5.6
+Cluster #136
+	Name: Ni ga Mushi Ojisan, Score: Unknown
+	Name: Gattai Robot Atranger, Score: Unknown
+	Name: Tottoko Hamtarou: "A" kara "N" made Hiragana Asobi, Score: Unknown
+	Name: Toki no Daichi: Hana no Oukoku no Majo, Score: Unknown
+	Name: Kaitai Shita Inu no Blues, Score: Unknown
+	Name: Aresuke, Score: Unknown
+	Name: Timeless Tree, Score: Unknown
+	Name: Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara, Score: Unknown
+Cluster #137
+	Name: Ao no Exorcist Movie, Score: 7.64
+	Name: Kekkaishi (TV), Score: 7.63
+	Name: Sword Art Online: Alicization - War of Underworld, Score: 7.63
+	Name: Overlord Movie 1: Fushisha no Ou, Score: 7.62
+	Name: Love Live! Nijigasaki Gakuen School Idol Doukoukai, Score: 7.62
+	Name: Hello World, Score: 7.61
+	Name: Mobile Suit Gundam 00 Special Edition, Score: 7.6
+	Name: Tonari no Kaibutsu-kun, Score: 7.55
+Cluster #138
+	Name: Danshi Koukousei no Nichijou, Score: 8.28
+	Name: Ouran Koukou Host Club, Score: 8.2
+	Name: Asobi Asobase, Score: 8.19
+	Name: Initial D Fourth Stage, Score: 8.15
+	Name: Koukaku Kidoutai: Stand Alone Complex - Solid State Society, Score: 8.14
+	Name: Darker than Black: Kuro no Keiyakusha, Score: 8.12
+	Name: Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue, Score: 8.11
+	Name: Kami nomi zo Shiru Sekai: Megami-hen, Score: 8.08
+Cluster #139
+	Name: Printer Rec Music, Score: Unknown
+	Name: Swap, Score: Unknown
+	Name: Shangri-La (Music), Score: Unknown
+	Name: Shiro no Kanga"roo" no Uta, Score: Unknown
+	Name: Keep Calm and Carry On, Score: Unknown
+	Name: It Seems like a Frog, Score: Unknown
+	Name: Copy, Score: Unknown
+	Name: Osomatsu-kun (1988): Appare! Chibita no Onitaiji zansu, Score: Unknown
+Cluster #140
+	Name: Yokohama Meibutsu: Otoko Katayama-gumi!, Score: Unknown
+	Name: Don: Gokudou Suikoden, Score: Unknown
+	Name: Midoriyama Koukou Koushien-hen, Score: Unknown
+	Name: Sasurai Zou-san, Score: Unknown
+	Name: Dahua Zhi Shaonian You, Score: Unknown
+	Name: Yumi-chan no Hikkoshi: Sayonara Tsutomu-kun, Score: Unknown
+	Name: Zettai Yareru Greece Shinwa, Score: Unknown
+	Name: Tonbo, Score: Unknown
+Cluster #141
+	Name: Wasureta Furi wo Shite, Score: Unknown
+	Name: Ana no Oku no Ii Tokoro, Score: 6.32
+	Name: L/R: Licensed by Royal Special, Score: 6.22
+	Name: Sword Art Online: Sword Art Offline, Score: 6.18
+	Name: Otoko no Ko Ojousama, Score: 6.12
+	Name: Mameneko, Score: 6.06
+	Name: Dainiji Ura Nyuugakushiken The Animation, Score: 6.03
+	Name: Itsudatte My Santa!, Score: 5.96
+Cluster #142
+	Name: Nagoya Tetsudou Special Movie, Score: Unknown
+	Name: Machibouke (2017), Score: Unknown
+	Name: Heisei Policemen!!, Score: Unknown
+	Name: Owakare, Score: Unknown
+	Name: Notari Matsutarou, Score: Unknown
+	Name: Kero Kero Keroppi no Aladdin to Mahou no Lamp, Score: Unknown
+	Name: Chanda Gou, Score: Unknown
+	Name: Bucket no Ana, Score: Unknown
+Cluster #143
+	Name: Ganbare Chibi Godzilla, Score: Unknown
+	Name: Teienu Theater in Kobe Opening, Score: Unknown
+	Name: The Gift, Score: Unknown
+	Name: Taisetsu na Kazoku wo Tsutsumu, Sono Te., Score: Unknown
+	Name: Iryou Keiei Consultant, Score: Unknown
+	Name: Wares: Beyond, Score: Unknown
+	Name: Genei Toshi, Score: Unknown
+	Name: Hiroshima ni Ichiban Densha ga Hashitta, Score: Unknown
+Cluster #144
+	Name: Zokuzoku Mura no Obake-tachi, Score: Unknown
+	Name: Yancharu Moncha, Score: Unknown
+	Name: Zhu Zhu Xia: Ying Xiong Zhu Shao Nian, Score: Unknown
+	Name: Xiong Chumo: Yuanshi Shidai, Score: Unknown
+	Name: Zukkoke Sannin-gumi: Kusunoki Yashiki no Guruguru-sama, Score: Unknown
+	Name: Yuuto-kun ga Iku Movie, Score: Unknown
+	Name: Zettai Zetsumei Dangerous Jiisan (2005), Score: Unknown
+	Name: Tamagawa Kyoudai, Score: Unknown
+Cluster #145
+	Name: Hakkenden: Touhou Hakken Ibun 2nd Season, Score: 7.66
+	Name: Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey, Score: 7.52
+	Name: Aishiteruze Baby★★, Score: 7.48
+	Name: Tenshi na Konamaiki, Score: 7.48
+	Name: Senki Zesshou Symphogear G, Score: 7.46
+	Name: Kyou kara Maou! R, Score: 7.46
+	Name: Yao Shen Ji Zhi Hei Yu Pian, Score: 7.46
+	Name: Hataraku Saibou!!, Score: 7.45
+Cluster #146
+	Name: Karakai Jouzu no Takagi-san: Water Slide, Score: 7.51
+	Name: Kaichou wa Maid-sama!: Omake dayo!, Score: 7.49
+	Name: Itadaki! Seieki♥, Score: 7.46
+	Name: Isekai Izakaya: Koto Aitheria no Izakaya Nobu, Score: 7.38
+	Name: Bishoujo Senshi Sailor Moon SuperS Specials, Score: 7.36
+	Name: Doraemon, Score: 7.36
+	Name: Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa, Score: 7.34
+	Name: Baka to Test to Shoukanjuu Specials, Score: 7.33
+Cluster #147
+	Name: Zannen na Ikimono Jiten (Special), Score: Unknown
+	Name: Zhu Zhu Xia: Xingfu Jiuyuan Dui, Score: Unknown
+	Name: Xi Yang Yang Yu Hui Tai Lang: Zhi Xi Qi Yang Yang Guo She Nian, Score: Unknown
+	Name: Xingji Biaoche Wang, Score: Unknown
+	Name: Zhu Zhu Xia: Jimu Shijie de Tonghua, Score: Unknown
+	Name: Yukai na Animal Bus, Score: Unknown
+	Name: Youyou no Neko Tsumami, Score: Unknown
+	Name: Wanwanwan Coin, Score: Unknown
+Cluster #148
+	Name: Kuroko no Basket NG-shuu, Score: 7.69
+	Name: Angel Beats! Specials, Score: 7.62
+	Name: Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA, Score: 7.6
+	Name: Aa! Megami-sama!: Tatakau Tsubasa, Score: 7.6
+	Name: No.6, Score: 7.58
+	Name: Gugure! Kokkuri-san, Score: 7.58
+	Name: Shokugeki no Souma: Ni no Sara OVA, Score: 7.53
+	Name: Fuyu no Semi, Score: 7.53
+Cluster #149
+	Name: Sword Art Online: Alicization - War of Underworld Reflection, Score: 6.75
+	Name: Shukufuku no Campanella: La Campanella Della Benedizione, Score: 6.5
+	Name: Ro-Kyu-Bu! SS Recap, Score: 6.49
+	Name: Rozen Maiden: Meitantei Kunkun - Duell Walzer, Score: 6.48
+	Name: Seikon no Qwaser, Score: 6.45
+	Name: Rail Wars!, Score: 6.41
+	Name: Happiness!, Score: 6.41
+	Name: Anata wo Zutto Aishiteru, Score: 6.35
+Cluster #150
+	Name: Junjou Romantica Special, Score: 7.48
+	Name: Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama, Score: 7.28
+	Name: Ecchi na Onee-chan ni Shiboraretai, Score: 7.26
+	Name: Jormungand: Perfect Order Recap, Score: 7.25
+	Name: Papa no Iukoto wo Kikinasai!: Pokkapoka, Score: 7.2
+	Name: Fairy Tail x Rave, Score: 7.2
+	Name: Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite, Score: 7.18
+	Name: Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai - Kinyoubi no Ohayou, Score: 7.14
+Cluster #151
+	Name: Steins;Gate, Score: 9.11
+	Name: Hunter x Hunter (2011), Score: 9.1
+	Name: 3-gatsu no Lion 2nd Season, Score: 9.0
+	Name: Owarimonogatari 2nd Season, Score: 8.93
+	Name: Mushishi Zoku Shou 2nd Season, Score: 8.76
+Cluster #152
+	Name: Interior, Score: Unknown
+	Name: Byulbyul Iyagi, Score: Unknown
+	Name: Kuro, Score: Unknown
+	Name: Lovely Movie: Itoshi no Muco, Score: 6.33
+	Name: Attack No.1: Namida no Sekai Senshuken, Score: 6.13
+	Name: Sengoku Majin Goushougun (Movie), Score: 6.05
+	Name: Attack No.1: Namida no Fushichou, Score: 6.03
+	Name: Hello Kitty no Hansel to Gretel, Score: 5.86
+Cluster #153
+	Name: Sayonara Nyuunanzai, Score: Unknown
+	Name: Season's Greetings from dwarf, Score: Unknown
+	Name: Bug, Score: Unknown
+	Name: Kaitou Jigoma Ongaku-hen, Score: Unknown
+	Name: Grasshopper Monogatari, Score: Unknown
+	Name: Kuro-Nikuru Girls, Score: Unknown
+	Name: Shinkaigyo no March, Score: Unknown
+	Name: Boku to Déjà vu, Score: Unknown
+Cluster #154
+	Name: Muteki Robo Trider G7, Score: 6.42
+	Name: Himitsu no Akko-chan 3, Score: 6.39
+	Name: Ougon Bat, Score: 6.33
+	Name: Zoids Wild, Score: 6.29
+	Name: Honoo no Alpenrose, Score: 6.15
+	Name: Kabuki-bu!: Oogiri "Chiyocolate-gassen", Score: 6.13
+	Name: Miyako, Score: 6.11
+	Name: Juuippiki no Neko, Score: 5.88
+Cluster #155
+	Name: 3Ping Lovers!☆Ippu Nisai no Sekai e Youkoso♪ The Animation, Score: 6.93
+	Name: Meiji Tokyo Renka, Score: 6.93
+	Name: Shoujo kara Shoujo e..., Score: 6.93
+	Name: Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho, Score: 6.91
+	Name: Ane Koi: Suki Kirai Daisuki., Score: 6.89
+	Name: DearS: Kin no Tama Desu no?, Score: 6.85
+	Name: Hataraku Saibou, Score: 6.85
+	Name: Hyakka Ryouran: Samurai Girls, Score: 6.83
+Cluster #156
+	Name: Onegai☆Teacher: Marie, Ai no Gekijou, Score: 6.75
+	Name: Akame ga Kill! Recap, Score: 6.74
+	Name: Imouto Paradise! 3 The Animation, Score: 6.65
+	Name: Gakuen Handsome, Score: 6.62
+	Name: Zetsubou Funsai Shoujo ∞ Amida, Score: 6.55
+	Name: Toaru Kagaku no Accelerator: Tobidase Ippou-san - Hachamecha Kaishingeki, Score: 6.54
+	Name: Dragon Ball Z: Atsumare! Gokuu World, Score: 6.48
+	Name: Hajimete no Gal: Hajimete no Bunkasai, Score: 6.48
+Cluster #157
+	Name: Dragon Ball, Score: 8.0
+	Name: Kobato., Score: 7.98
+	Name: Jigoku Shoujo Futakomori, Score: 7.93
+	Name: Initial D Third Stage, Score: 7.89
+	Name: Vampire Hunter D (2000), Score: 7.89
+	Name: Hanasaku Iroha: Home Sweet Home, Score: 7.89
+	Name: Michiko to Hatchin, Score: 7.85
+	Name: K-On!, Score: 7.84
+Cluster #158
+	Name: Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie, Score: 7.35
+	Name: Bishoujo Senshi Sailor Moon Memorial, Score: 7.34
+	Name: Kimi ni Todoke 2nd Season: Kataomoi, Score: 7.2
+	Name: Another World, Score: 7.13
+	Name: Appleseed (Movie), Score: 7.1
+	Name: Uta no☆Prince-sama♪ Maji Love 1000%, Score: 7.1
+	Name: Tenioha!: Onnanoko datte Honto wa Ecchi da yo?, Score: 7.1
+	Name: Super Lovers, Score: 7.08
+Cluster #159
+	Name: Diamond no Ace: Act II, Score: 8.23
+	Name: Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen, Score: 8.2
+	Name: Given Movie, Score: 8.19
+	Name: Shijou Saikyou no Deshi Kenichi, Score: 8.11
+	Name: Mobile Suit Gundam 00 Second Season, Score: 8.11
+	Name: Haikyuu!! Movie 4: Concept no Tatakai, Score: 8.11
+	Name: Kuroko no Basket: Saikou no Present Desu, Score: 8.1
+	Name: Koukyoushihen Eureka Seven, Score: 8.09
+Cluster #160
+	Name: Owarimonogatari 2nd Season Recaps, Score: 7.83
+	Name: Saint Seiya: Meiou Hades Meikai-hen, Score: 7.76
+	Name: Rozen Maiden: Ouvertüre, Score: 7.73
+	Name: Nurarihyon no Mago OVA, Score: 7.72
+	Name: Death Note: Rewrite, Score: 7.71
+	Name: Huyao Xiao Hongniang: Yue Hong, Score: 7.71
+	Name: Kami no Tou, Score: 7.66
+	Name: Chrno Crusade, Score: 7.66
+Cluster #161
+	Name: himitsukesshatakanotsume.jp, Score: Unknown
+	Name: Wo Shi Da Shenxian, Score: Unknown
+	Name: Choubakuretsu Ijigen Menko Battle: Gigant Shooter Tsukasa, Score: Unknown
+	Name: Kero Kero Keroppi no Sanjuushi, Score: Unknown
+	Name: Mugen no Ryvius: Light, Score: Unknown
+	Name: Yuuki no Omamori, Score: Unknown
+	Name: Youkaiden Nekome Kozou, Score: Unknown
+	Name: Sanzoku Diary, Score: Unknown
+Cluster #162
+	Name: Momon's Sand Witch, Score: Unknown
+	Name: Shibai Taroka, Score: Unknown
+	Name: Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!, Score: Unknown
+	Name: Isobe Isobee Monogatari Jump Festa Special, Score: Unknown
+	Name: Dorimogu Daa!!, Score: Unknown
+	Name: Tokimeki, Score: Unknown
+	Name: Ginga Tetsudou 999: Niji no Michishirube, Score: Unknown
+	Name: Yogishayo Isoge, Score: Unknown
+Cluster #163
+	Name: Ao no Exorcist Movie Special, Score: 6.86
+	Name: Sword Art Online II: Debriefing, Score: 6.56
+	Name: Nee, ...Shiyo♥, Score: 6.52
+	Name: Creamy Pie, Score: 6.48
+	Name: Dakara Boku wa, H ga Dekinai. Recap, Score: 6.48
+	Name: Love es M The Animation, Score: 6.4
+	Name: Kakushi Dere Special, Score: 6.39
+	Name: Binkan Athlete, Score: 6.38
+Cluster #164
+	Name: Cardcaptor Sakura: Kero-chan ni Omakase!, Score: 7.34
+	Name: Yes ka No ka Hanbun ka, Score: 7.34
+	Name: Detective Conan OVA 02: 16 Suspects, Score: 7.33
+	Name: High School DxD OVA, Score: 7.3
+	Name: Shinryaku! Ika Musume Specials, Score: 7.3
+	Name: Ookami Shoujo to Kuro Ouji: Gishinanki – Happening Kiss, Score: 7.29
+	Name: Quanzhi Fashi, Score: 7.29
+	Name: Fushigiboshi no☆Futagohime, Score: 7.27
+Cluster #165
+	Name: Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai, Score: 7.95
+	Name: Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness, Score: 7.94
+	Name: Naruto, Score: 7.91
+	Name: Detective Conan Movie 12: Full Score of Fear, Score: 7.82
+	Name: Love Live! School Idol Project 2nd Season, Score: 7.81
+	Name: New Initial D Movie: Legend 2 - Tousou, Score: 7.79
+	Name: Junjou Romantica 3, Score: 7.76
+	Name: Kuroshitsuji, Score: 7.75
+Cluster #166
+	Name: Tick Tock, Score: Unknown
+	Name: Kinyoubi no Yakusoku, Score: Unknown
+	Name: Magical Halloween: Miracle★Quartet, Score: Unknown
+	Name: Ribbon no Kishi (1999), Score: Unknown
+	Name: Yakan Gakkou no Ura-sensei, Score: Unknown
+	Name: Maruman Loose Leaf, Score: Unknown
+	Name: Zakuro Yashiki, Score: Unknown
+	Name: Makoto-chan, Score: Unknown
+Cluster #167
+	Name: Kemushi no Boro, Score: 6.71
+	Name: Oppai Infinity∞! The Animation, Score: 6.47
+	Name: Koutetsu Tenshi Kurumi 2, Score: 6.3
+	Name: Imouto de Ikou!, Score: 6.25
+	Name: Saimin Gakuen, Score: 6.25
+	Name: Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?, Score: 6.25
+	Name: Mahou Shoujo Site Recaps, Score: 6.23
+	Name: Teakamamire no Tenshi The Animation, Score: 6.16
+Cluster #168
+	Name: Meme Iroiro Yume no Tabi, Score: 6.6
+	Name: Shakotan★Boogie, Score: 6.36
+	Name: Kinnikuman: Seigi Choujin vs. Kodai Choujin, Score: 6.13
+	Name: KisKis! Wo de Nanyou Shi Bohe Tang, Score: 5.95
+	Name: Clone, Score: 5.81
+	Name: Zunda Horizon, Score: 5.68
+	Name: Bamboo Blade: Fanfu-Fufe-Fo, Score: 5.62
+	Name: Monster Farm 5: Circus Caravan OVA - Kessei!! Orcoro Circus, Score: 5.55
+Cluster #169
+	Name: Ojiichan wa Boku no Hero, Score: Unknown
+	Name: Shinken Seminar Koukou Kouza, Score: Unknown
+	Name: Dr. Typhoon, Score: Unknown
+	Name: Kikansha Yaemon, Score: Unknown
+	Name: Spy Gekimetsu, Score: Unknown
+	Name: Himitsukessha Taka no Tsume EX, Score: Unknown
+	Name: Sore Ike! Anpanman: Tobase! Kibou no Handkerchief, Score: Unknown
+	Name: Itsumo Kokoro ni Taiyou wo!, Score: Unknown
+Cluster #170
+	Name: Peeping Life: TV Asahi Josei Announcer Collab, Score: Unknown
+	Name: Kumo ni Noru, Score: Unknown
+	Name: Magical Hat, Score: Unknown
+	Name: Neko Pitcher, Score: Unknown
+	Name: "Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu, Score: Unknown
+	Name: Jinryoku Senkan!? Shiokaze Sawakaze, Score: Unknown
+	Name: Bremen no Muppet Musician, Score: Unknown
+	Name: Free, Score: Unknown
+Cluster #171
+	Name: Master Piece The Animation, Score: 7.76
+	Name: Bokura wa Minna Kawai-sou: Hajimete no, Score: 7.66
+	Name: High School DxD New, Score: 7.54
+	Name: Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab, Score: 7.54
+	Name: Mahouka Koukou no Rettousei, Score: 7.53
+	Name: Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni, Score: 7.53
+	Name: Little Busters!, Score: 7.52
+	Name: To LOVE-Ru Darkness 2nd, Score: 7.51
+Cluster #172
+	Name: Saikyou Bushouden: Sangoku Engi, Score: 6.83
+	Name: Hua Jianghu Zhi Ling Zhu, Score: 6.81
+	Name: Wangpai Yushi, Score: 6.66
+	Name: Tadashii Itsuwari kara no Kishou, Score: 6.45
+	Name: Romeo no Aoi Sora Specials, Score: 6.38
+	Name: Takarasagashi no Natsuyasumi, Score: 6.27
+	Name: Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi, Score: 5.84
+	Name: Boku wa Kimi wo Warawanai, Score: 5.77
+Cluster #173
+	Name: Huyao Xiao Hongniang: Jin Chenxi, Score: 6.98
+	Name: Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei, Score: 6.78
+	Name: Code:Breaker OVA, Score: 6.74
+	Name: Code:Realize - Sousei no Himegimi - Set a Thief to Catch a Thief, Score: 6.74
+	Name: Baka to Test to Shoukanjuu Mini Anime, Score: 6.72
+	Name: Jitaku Keibiin, Score: 6.69
+	Name: Nurarihyon no Mago: Sennen Makyou Recaps, Score: 6.68
+	Name: Tensei Kendo no Harem Colosseo, Score: 6.63
+Cluster #174
+	Name: Kimetsu no Yaiba, Score: 8.62
+	Name: Natsume Yuujinchou San, Score: 8.6
+	Name: Fate/Zero 2nd Season, Score: 8.59
+	Name: Natsume Yuujinchou Go, Score: 8.59
+	Name: Bakuman. 3rd Season, Score: 8.58
+	Name: Haikyuu!!: To the Top 2nd Season, Score: 8.57
+	Name: Zoku Natsume Yuujinchou, Score: 8.57
+	Name: Tengen Toppa Gurren Lagann Movie 2: Lagann-hen, Score: 8.57
+Cluster #175
+	Name: Boku to Gaku: Ano Natsu no Monogatari, Score: Unknown
+	Name: Tezuka Osamu no Uchuu Wonder 3: Ginga Renmei no Shisha, Score: Unknown
+	Name: King of Prism All Stars: Prism Show☆Best Ten, Score: Unknown
+	Name: Jumbagi: Hanbandoui gongryong 3D, Score: Unknown
+	Name: Yattokame Tanteidan, Score: Unknown
+	Name: Xiong Chumo Zhi: Xiari Lianlian Kan, Score: Unknown
+	Name: Yeongsimi, Score: Unknown
+	Name: Ki-Fighter Taerang, Score: Unknown
+Cluster #176
+	Name: Kamisama Hajimemashita: Kako-hen, Score: 8.37
+	Name: Detective Conan Movie 06: The Phantom of Baker Street, Score: 8.31
+	Name: Boku no Hero Academia 3rd Season, Score: 8.25
+	Name: Little Busters!: Refrain, Score: 8.23
+	Name: No Game No Life, Score: 8.2
+	Name: Katekyo Hitman Reborn!, Score: 8.18
+	Name: Yowamushi Pedal: Grande Road, Score: 8.12
+	Name: Hajime no Ippo: Boxer no Kobushi, Score: 8.11
+Cluster #177
+	Name: Monogatari Series: Second Season, Score: 8.78
+	Name: Cowboy Bebop, Score: 8.78
+	Name: Tengen Toppa Gurren Lagann, Score: 8.66
+	Name: Natsume Yuujinchou Roku, Score: 8.65
+	Name: Mushishi: Hihamukage, Score: 8.57
+	Name: Uchuu Kyoudai, Score: 8.52
+	Name: Zoku Owarimonogatari, Score: 8.5
+	Name: Mushishi Zoku Shou: Odoro no Michi, Score: 8.46
+Cluster #178
+	Name: Saenai Heroine no Sodatekata Fine, Score: 8.48
+	Name: Shingeki no Kyojin Season 2, Score: 8.45
+	Name: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai., Score: 8.42
+	Name: Grand Blue, Score: 8.41
+	Name: Hotarubi no Mori e, Score: 8.38
+	Name: Shingeki no Kyojin: Kuinaki Sentaku, Score: 8.38
+	Name: Kuroko no Basket 3rd Season, Score: 8.34
+	Name: K-On! Movie, Score: 8.33
+Cluster #179
+	Name: Yanbou Ninbou Tonbou no Koutsuu Anzen, Score: Unknown
+	Name: Zukkoke Sannin-gumi no Koutsuu Anzen, Score: Unknown
+	Name: Yuuki Aru Hotaru to Tobe Nai Hotaru, Score: Unknown
+	Name: Yot-chan no Fushigina Crayon, Score: Unknown
+	Name: Guupa Ouji no Koutsuu Anzen Mamorou wo Yakusoku, Score: Unknown
+	Name: Capsule Boy 2: Ujuleul Jikyeola, Score: Unknown
+	Name: Maple Town no Koutsuu Anzen, Score: Unknown
+	Name: Kiss made, Ato 1 Byou., Score: Unknown
+Cluster #180
+	Name: Bishoujo Senshi Sailor Moon, Score: 7.68
+	Name: 3D Kanojo: Real Girl 2nd Season, Score: 7.66
+	Name: Doupo Cangqiong 2nd Season, Score: 7.62
+	Name: Kore wa Zombie Desu ka? of the Dead, Score: 7.56
+	Name: Fullmetal Alchemist: Brotherhood - 4-Koma Theater, Score: 7.51
+	Name: Date A Bullet: Dead or Bullet, Score: 7.51
+	Name: Kakuriyo no Yadomeshi, Score: 7.5
+	Name: Kiniro no Corda: Primo Passo, Score: 7.48
+Cluster #181
+	Name: Owari no Seraph: The Beginning of the End, Score: 7.16
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA, Score: 7.09
+	Name: Dragon Ball Movie 3: Makafushigi Daibouken, Score: 6.88
+	Name: Devils Line: Anytime Anywhere, Score: 6.87
+	Name: Watashi ga Toriko ni Natte Yaru, Score: 6.86
+	Name: Days (TV) OVA, Score: 6.86
+	Name: Akkun to Kanojo, Score: 6.83
+	Name: Demon Busters: Ecchi na Ecchi na Demon Taiji The Animation, Score: 6.82
+Cluster #182
+	Name: Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA, Score: 7.23
+	Name: Trinity Seven, Score: 7.17
+	Name: Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata, Score: 7.15
+	Name: Saint Seiya Recap, Score: 7.15
+	Name: Black Blood Brothers, Score: 7.14
+	Name: ViVid Strike!, Score: 7.09
+	Name: World Destruction: Sekai Bokumetsu no Rokunin, Score: 6.98
+	Name: Samurai Deeper Kyou, Score: 6.92
+Cluster #183
+	Name: Maoujou de Oyasumi, Score: 8.04
+	Name: Kodomo no Omocha (TV), Score: 8.04
+	Name: Detective Conan Movie 15: Quarter of Silence, Score: 8.03
+	Name: Kimi ni Todoke 2nd Season, Score: 8.01
+	Name: Tate no Yuusha no Nariagari, Score: 8.0
+	Name: Jormungand: Perfect Order, Score: 7.94
+	Name: Yuri!!! on Ice, Score: 7.92
+	Name: Psycho-Pass 3: First Inspector, Score: 7.88
+Cluster #184
+	Name: Hana (2006), Score: Unknown
+	Name: Kesshin Sokudo, Score: Unknown
+	Name: Royal Memories, Score: Unknown
+	Name: Sarashimono, Score: Unknown
+	Name: Anata no Koe, Score: Unknown
+	Name: Dekkai Totto March, Score: Unknown
+	Name: loTus feat. Pt. Ajay Pohankar, Score: Unknown
+	Name: Hengen Taima Yakou Karura Mau! Sendai Kokeshi Enka, Score: Unknown
+Cluster #185
+	Name: Overlord III, Score: 7.95
+	Name: Nanatsu no Taizai, Score: 7.89
+	Name: Jormungand, Score: 7.85
+	Name: Gundam Build Fighters, Score: 7.79
+	Name: Detective Conan Movie 16: The Eleventh Striker, Score: 7.74
+	Name: Hybrid Child, Score: 7.69
+	Name: Simoun, Score: 7.46
+	Name: Otona Joshi no Anime Time, Score: 7.41
+Cluster #186
+	Name: Ukkari Pénélope (2017), Score: Unknown
+	Name: Quiz de Manabu Pinocchio no Koutsuu Ansen, Score: Unknown
+	Name: Xiongmao He Xiao Yan Shu, Score: Unknown
+	Name: Yakusoku: Africa Mizu to Midori, Score: Unknown
+	Name: Yooidon!, Score: Unknown
+	Name: Puttobe! Poodel, Score: Unknown
+	Name: Kuni-chan no Ikka Ranran, Score: Unknown
+	Name: Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama, Score: Unknown
+Cluster #187
+	Name: Kochira Tamago Outou Negaimasu, Score: Unknown
+	Name: Terrace House x Craft Boss, Score: Unknown
+	Name: Bunbuku Chagama, Score: Unknown
+	Name: Kamiusagi Rope 3 (ONA), Score: Unknown
+	Name: Dragon Quest X: Boukensha-tachi no Kiseki, Score: Unknown
+	Name: Kamen Rider Zero-One: Short Anime - Everyone's Daily Life, Score: Unknown
+	Name: Mellow, Score: Unknown
+	Name: Wagahai wa Neko de Aru, Score: Unknown
+Cluster #188
+	Name: Hua Jiang Hu Zhi Bu Liang Ren 3rd Season, Score: Unknown
+	Name: Guan Hai Ce, Score: Unknown
+	Name: Kaibutsu-kun: Suna Majin wo Yattsukero no Maki / Kaibutsu-kun to Haniwa Kaishin no Maki, Score: Unknown
+	Name: Zhu Zhu Xia: Wu Xia 2008, Score: Unknown
+	Name: Yasai no Yousei: N.Y.Salad, Score: Unknown
+	Name: Yaiyai Mori no Comic, Score: Unknown
+	Name: Ishiyama-dera Digital Engi Emaki, Score: Unknown
+	Name: Hiragana Danshi, Score: Unknown
+Cluster #189
+	Name: Mirai Nikki (TV): Ura Mirai Nikki, Score: 6.52
+	Name: Freezing Vibration Specials, Score: 6.51
+	Name: Pokemon: Pikachu no Wanpaku Island, Score: 6.42
+	Name: Musaigen no Phantom World: Limitless Phantom World, Score: 6.4
+	Name: Bungou to Alchemist: Shinpan no Haguruma, Score: 6.33
+	Name: Yoku Wakaru Mahouka!, Score: 6.32
+	Name: Haiyoru! Nyaruani, Score: 6.29
+	Name: Nuwa Chengzhang Riji, Score: 6.29
+Cluster #190
+	Name: Zero no Tsukaima: Princesses no Rondo Picture Drama, Score: 6.95
+	Name: Oppai Gakuen Marching Band-bu!, Score: 6.9
+	Name: Hidan no Aria: Butei ga Kitarite Onsen Kenshuu, Score: 6.82
+	Name: Isshuukan Friends.: Tomodachi to no Omoide, Score: 6.82
+	Name: One Punch Man 2nd Season Commemorative Special, Score: 6.79
+	Name: Bible Black: New Testament, Score: 6.74
+	Name: R-15: R15 Shounen Hyouryuuki, Score: 6.72
+	Name: Quanzhi Fashi II, Score: 6.72
+Cluster #191
+	Name: Lipton #watashitolipton, Score: Unknown
+	Name: Krosna, Score: Unknown
+	Name: Jijii: Owari no Hajimari, Score: Unknown
+	Name: Junai Rhapsody, Score: Unknown
+	Name: Yubikiri, Score: Unknown
+	Name: Idol Fantasy, Score: Unknown
+	Name: We are Bulletproof: The Eternal, Score: Unknown
+	Name: On the Table, Score: Unknown
+Cluster #192
+	Name: Swan, Score: Unknown
+	Name: Kirameki Inokori Daisensou, Score: 6.55
+	Name: Shigokare: Ecchi na Joshi Daisei to Doki x2 Love Lesson!! The Animation, Score: 6.55
+	Name: Live On Cardliver Kakeru, Score: 6.49
+	Name: DS Anime Soushuuhen '98, Score: 6.35
+	Name: Magnerobo Ga-Keen, Score: 6.25
+	Name: Kinnikuman: Gyakushuu! Uchuu Kakure Choujin, Score: 6.18
+	Name: Bamboo Bears, Score: 6.07
+Cluster #193
+	Name: Ningyo no Hanashi, Score: Unknown
+	Name: Chikai, Score: Unknown
+	Name: Yumekui Shirokuro Baku, Score: Unknown
+	Name: Beam!, Score: Unknown
+	Name: Kaibutsu Gakushou, Score: Unknown
+	Name: Ogaki Matsuri ni Ikou yo!, Score: Unknown
+	Name: Peng You Town, Score: Unknown
+	Name: You Yao, Score: 6.82
+Cluster #194
+	Name: Kore wa Zombie Desu ka?, Score: 7.43
+	Name: Sora no Otoshimono: Project Pink, Score: 7.43
+	Name: Tokyo Ghoul: "Jack", Score: 7.38
+	Name: Chrome Shelled Regios, Score: 7.35
+	Name: Shikabane Hime: Kuro, Score: 7.32
+	Name: Bakemonogatari Recap, Score: 7.31
+	Name: Hitsugi no Chaika, Score: 7.29
+	Name: Ben-To, Score: 7.28
+Cluster #195
+	Name: Gra-P & Rodeo: Band wo P, Score: Unknown
+	Name: Barnacle Lou, Score: Unknown
+	Name: Yamiyo no Jidaigeki, Score: Unknown
+	Name: Xi Yang Yang Yu Hui Tai Lang: Zhi Yang Nian Xi Yang Yang, Score: Unknown
+	Name: Zhu Zhu Xia: Bai Bian Lian Meng, Score: Unknown
+	Name: Mizushiri Yoriko no Yorinuki Yoriko-san, Score: Unknown
+	Name: Mochi Mochi Panda, Score: Unknown
+	Name: Bumblebee Hajimete no Chikyuu Seikatsu, Score: Unknown
+Cluster #196
+	Name: Nazotoki-hime wa Meitantei♥, Score: Unknown
+	Name: Sekai Meisaku Douwa Series, Score: Unknown
+	Name: Yawaraka Sensha, Score: Unknown
+	Name: Xiong Chumo Zhi: Duo Bao Xiong Bing, Score: Unknown
+	Name: Yume no Jidousha, Score: Unknown
+	Name: Zap Cat, Score: Unknown
+	Name: Happy Bogeys, Score: Unknown
+	Name: Saa, Ketatamashiki Kono Hibi ni, Score: Unknown
+Cluster #197
+	Name: PS3® no Tsukai Kata: feat.Peeping Life, Score: Unknown
+	Name: Shin Seikimatsu: Yatsuto no Souguu, Score: Unknown
+	Name: Nobara, Score: Unknown
+	Name: Osomatsu-san VR, Score: Unknown
+	Name: Manga Nippon Mukashibanashi (Movie), Score: Unknown
+	Name: Enyogu, Score: Unknown
+	Name: Mug, Score: Unknown
+	Name: Xixing Ji Zhi Jijie Pian, Score: Unknown
+Cluster #198
+	Name: Planetarian: Snow Globe, Score: Unknown
+	Name: Eroge! H mo Game mo Kaihatsu Zanmai, Score: 7.57
+	Name: Swing Out Sisters (2014), Score: 7.48
+	Name: Toradora!: Bentou no Gokui, Score: 7.46
+	Name: Doraemon Movie 26: Nobita no Kyouryuu 2006, Score: 7.45
+	Name: Ojamajo Doremi Sharp, Score: 7.34
+	Name: Onegai☆Teacher: Himitsu na Futari, Score: 7.32
+	Name: Maoyuu Maou Yuusha, Score: 7.31
+Cluster #199
+	Name: Valhait Rising: Kandou e., Score: Unknown
+	Name: Zeno: Kagirinaki Ai ni, Score: 6.52
+	Name: Shikoyaka Naru Toki mo Hameru Toki mo, Score: 6.25
+	Name: Garakuta-doori no Stain: Epilogue, Score: 6.15
+	Name: Grick no Bouken, Score: 6.05
+	Name: Dr. Slump: Arale-chan Specials, Score: 6.04
+	Name: Dr. Slump: Arale-chan no Koutsuu Anzen, Score: 5.82
+	Name: Mameshiba Bangai-hen, Score: 5.75
+Cluster #200
+	Name: Oppai Heart: Kanojo wa Kedamono Hatsujouki!?, Score: 6.79
+	Name: Boin, Score: 6.61
+	Name: Masamune-kun no Revenge OVA, Score: 6.54
+	Name: Kenka Banchou Otome: Girl Beats Boys, Score: 6.45
+	Name: Nozo x Kimi, Score: 6.44
+	Name: Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA, Score: 6.43
+	Name: Choujuushin Gravion, Score: 6.4
+	Name: Denpa Kyoushi, Score: 6.4
+Cluster #201
+	Name: Oni Chichi: Re-birth, Score: 7.13
+	Name: Rosario to Vampire Capu2, Score: 6.98
+	Name: Toaru Majutsu no Index-tan, Score: 6.96
+	Name: Omamori Himari, Score: 6.93
+	Name: Yokujou Bazooka The Animation, Score: 6.93
+	Name: Tonikaku Kawaii: Kaisou, Score: 6.92
+	Name: Dropout, Score: 6.86
+	Name: Asu no Yoichi!, Score: 6.78
+Cluster #202
+	Name: Haikyuu!! Movie 2: Shousha to Haisha, Score: 7.94
+	Name: One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken, Score: 7.91
+	Name: Magi: Sinbad no Bouken, Score: 7.85
+	Name: Douluo Dalu, Score: 7.85
+	Name: Kyou kara Maou! 3rd Series, Score: 7.81
+	Name: Golden Time, Score: 7.78
+	Name: Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿, Score: 7.74
+	Name: Panty & Stocking with Garterbelt, Score: 7.73
+Cluster #203
+	Name: Bakuten Shoot Beyblade G Revolution, Score: 6.93
+	Name: Shinmai Maou no Testament, Score: 6.8
+	Name: Devils Line, Score: 6.79
+	Name: Hyakka Ryouran: Samurai Bride, Score: 6.77
+	Name: Terra Formars: Revenge, Score: 6.73
+	Name: Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen, Score: 6.73
+	Name: Pokemon: Pichu to Pikachu, Score: 6.69
+	Name: Bakuten Shoot Beyblade 2002, Score: 6.68
+Cluster #204
+	Name: Shingeki no Kyojin Season 3 Part 2, Score: 9.1
+	Name: Gintama°, Score: 9.1
+	Name: Gintama', Score: 9.08
+	Name: Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare, Score: 8.96
+	Name: Monster, Score: 8.76
+	Name: Hyouge Mono, Score: 7.99
+Cluster #205
+	Name: Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de..., Score: 5.88
+	Name: Onsen Yousei Hakone-chan, Score: 5.86
+	Name: Taboo Tattoo, Score: 5.79
+	Name: Joshikausei, Score: 5.76
+	Name: Sin: Nanatsu no Taizai, Score: 5.69
+	Name: Pan de Peace!, Score: 5.62
+	Name: Yami no Shihosha Judge, Score: 5.37
+Cluster #206
+	Name: Aa! Megami-sama!: Sorezore no Tsubasa Specials, Score: 7.53
+	Name: Bleach Movie 1: Memories of Nobody, Score: 7.45
+	Name: Boku no Hero Academia the Movie: Futari no Hero Specials, Score: 7.45
+	Name: Aoki Hagane no Arpeggio: Ars Nova DC, Score: 7.44
+	Name: Kore wa Zombie Desu ka? OVA, Score: 7.42
+	Name: Net-juu no Susume Special, Score: 7.41
+	Name: Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me, Score: 7.39
+	Name: D-Frag!*, Score: 7.37
+Cluster #207
+	Name: Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix, Score: 6.45
+	Name: Go-Q-Choji Ikkiman, Score: 6.43
+	Name: Ippatsu Kanta-kun, Score: 6.02
+	Name: Cyphers, Score: 5.88
+	Name: Duel Masters, Score: 5.85
+	Name: Ys IV: The Dawn of Ys, Score: 5.79
+	Name: Gun x Sword-san, Score: 5.75
+	Name: Armed Blue Gunvolt, Score: 5.72
+Cluster #208
+	Name: Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun, Score: Unknown
+	Name: Mori no Ratio, Score: Unknown
+	Name: Chocomatsu-san: Valentine's Day-hen, Score: Unknown
+	Name: Yat-chan to Kasei no Ko, Score: Unknown
+	Name: Xiao Hua Xian, Score: Unknown
+	Name: Zen-chan Two-chan, Score: Unknown
+	Name: Zet Ranger, Score: Unknown
+	Name: Obake Nagaya, Score: Unknown
+Cluster #209
+	Name: Okusama wa Moto Yariman, Score: 6.93
+	Name: Anata dake Konbanwa, Score: 6.87
+	Name: Oni Chichi: Vacation, Score: 6.82
+	Name: Aneki... My Sweet Elder Sister The Animation, Score: 6.82
+	Name: Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!, Score: 6.77
+	Name: Mini Sengoku Basara: Chousokabe-kun to Mouri-kun, Score: 6.77
+	Name: Mama Puri!?, Score: 6.77
+	Name: Maoyuu Maou Yuusha: Kono Monogatari wa, Daniku dake Dewanai no Ja!, Score: 6.76
+Cluster #210
+	Name: Sei Brunehilde Gakuen Shoujo Kishidan to Junpaku no Panty The Animation, Score: 7.22
+	Name: Owari no Seraph: Kyuuketsuki Shahar, Score: 7.17
+	Name: Pokemon 3D Adventure: Mew wo Sagase!, Score: 7.04
+	Name: Kishin Douji Zenki, Score: 6.98
+	Name: Kiss x Sis, Score: 6.93
+	Name: Ichigo 100% OVA, Score: 6.91
+	Name: Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken, Score: 6.91
+	Name: Energy Kyouka!!, Score: 6.9
+Cluster #211
+	Name: Durarara!!, Score: 8.18
+	Name: Fullmetal Alchemist, Score: 8.17
+	Name: Tsukimonogatari, Score: 8.14
+	Name: Kuragehime, Score: 8.13
+	Name: Kidou Keisatsu Patlabor 2 the Movie, Score: 7.9
+Cluster #212
+	Name: Kensaku to Enjin no Happy Birthday, Score: Unknown
+	Name: Kana Kana Kazoku: Shinnen no Goaisatsu, Score: Unknown
+	Name: Iwaki Meisei Daigaku, Score: Unknown
+	Name: Metamorphosis, Score: Unknown
+	Name: Zombie Ehon, Score: Unknown
+	Name: Cynical Hysterie Hour: Utakata no Uta, Score: Unknown
+	Name: GO-GO Tamagotchi!, Score: Unknown
+	Name: Gon Movie: Gon, the Little Fox, Score: Unknown
+Cluster #213
+	Name: Love, Score: Unknown
+	Name: Sougou Medical Koushiki, Score: Unknown
+	Name: Shishido Journey, Score: Unknown
+	Name: Kekkonshiki no Tori Movie, Score: Unknown
+	Name: Hayou no Tsurugi: Shikkoku no Mashou, Score: Unknown
+	Name: Kamigami no Ki: Xmas Special, Score: Unknown
+	Name: Ultraman: Chou Toushi Gekiden - Suisei Senjin Tsuifon Toujou, Score: Unknown
+	Name: Xiong Bing Lian, Score: Unknown
+Cluster #214
+	Name: Chibi Maruko-chan Movie: Italia kara Kita Shounen, Score: 6.57
+	Name: Shingeki no Kyotou, Score: 6.35
+	Name: UFO Senshi Dai Apolon, Score: 6.13
+	Name: Jimihen!!: Jimiko wo Kaechau Jun Isei Kouyuu!!, Score: 6.12
+	Name: Houkago Nyannyan, Score: 6.01
+	Name: Hello Kitty no Alps no Shoujo Heidi, Score: 6.01
+	Name: Noraneko, Score: 6.0
+	Name: True Tears Recap, Score: 5.94
+Cluster #215
+	Name: Resort Boin, Score: 7.31
+	Name: Strike the Blood: Valkyria no Oukoku-hen, Score: 7.29
+	Name: Seikatsu Shuukan The Animation, Score: 7.27
+	Name: Himouto! Umaru-chan OVA, Score: 7.25
+	Name: Rurouni Kenshin: Special Techniques, Score: 7.25
+	Name: Suzumiya Haruhi no Yuuutsu (2009), Score: 7.23
+	Name: One Piece: Glorious Island, Score: 7.2
+	Name: Wagaya no Liliana-san The Animation, Score: 7.2
+Cluster #216
+	Name: Kamisama Hajimemashita: Kamisama, Shiawase ni Naru, Score: 8.09
+	Name: Yahari Ore no Seishun Love Comedy wa Machigatteiru., Score: 8.07
+	Name: Detective Conan Movie 04: Captured in Her Eyes, Score: 8.04
+	Name: Clannad: Mou Hitotsu no Sekai, Tomoyo-hen, Score: 8.0
+	Name: Saint Seiya: The Lost Canvas - Meiou Shinwa, Score: 8.0
+	Name: Akagami no Shirayuki-hime 2nd Season, Score: 8.0
+	Name: Kimi to Boku. 2, Score: 7.98
+	Name: Hikaru no Go: Hokuto Hai e no Michi, Score: 7.98
+Cluster #217
+	Name: Sekaiichi Hatsukoi: Valentine-hen, Score: 7.87
+	Name: InuYasha Movie 3: Tenka Hadou no Ken, Score: 7.8
+	Name: Snow Halation, Score: 7.73
+	Name: Kengan Ashura 2nd Season, Score: 7.72
+	Name: Princess Principal, Score: 7.71
+	Name: Cardcaptor Sakura: Clear Card-hen, Score: 7.66
+	Name: Sword Art Online Movie: Ordinal Scale, Score: 7.65
+	Name: Runway de Waratte, Score: 7.65
+Cluster #218
+	Name: Radiant 2nd Season, Score: 7.63
+	Name: Afro Samurai Movie, Score: 7.54
+	Name: Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki, Score: 7.54
+	Name: Tasogare Otome x Amnesia: Taima Otome, Score: 7.51
+	Name: Angel Beats!: Another Epilogue, Score: 7.49
+	Name: Koutetsujou no Kabaneri Movie 1: Tsudou Hikari, Score: 7.48
+	Name: Koutetsujou no Kabaneri Movie 2: Moeru Inochi, Score: 7.47
+	Name: Kanojo, Okarishimasu, Score: 7.37
+Cluster #219
+	Name: Tistou Midori no Oyayubi, Score: Unknown
+	Name: Genki Bakuhatsu Ganbaruger, Score: 6.75
+	Name: Shin Minashigo Hutch, Score: 6.33
+	Name: Shounen Ashibe: Go! Go! Goma-chan 4, Score: 6.0
+	Name: Jian Wangchao, Score: 5.98
+	Name: Stitch!: Itazura Alien no Daibouken - Uchuu Ichi no Oniichan, Score: 5.83
+	Name: Hana no Asukagumi! 2: Lonely Cats Battle Royale, Score: 5.81
+	Name: Readyyy!, Score: 5.67
+Cluster #220
+	Name: Xiao Hua Xian 3rd Season: Shou Hu Tian Shi, Score: Unknown
+	Name: "Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku, Score: Unknown
+	Name: Ni wa no Kotori, Score: Unknown
+	Name: Nanami-chan 4th Series, Score: Unknown
+	Name: Menghuan Shuyuan 4th Season, Score: Unknown
+	Name: Monkey Peak, Score: Unknown
+	Name: AOTU Shijie 3, Score: Unknown
+	Name: Oshiri Tantei 2nd Season, Score: Unknown
+Cluster #221
+	Name: Ansatsu Kyoushitsu: Deai no Jikan, Score: 7.43
+	Name: Rikei ga Koi ni Ochita no de Shoumei shitemita., Score: 7.35
+	Name: Pokemon, Score: 7.34
+	Name: Kimi ni Todoke 2nd Season: Minitodo Gekijou, Score: 7.32
+	Name: Asura Cryin' 2, Score: 7.31
+	Name: Nabari no Ou, Score: 7.29
+	Name: Inukami!, Score: 7.27
+	Name: Kidou Tenshi Angelic Layer, Score: 7.26
+Cluster #222
+	Name: Shigatsu wa Kimi no Uso, Score: 8.74
+	Name: Kimetsu no Yaiba Movie: Mugen Ressha-hen, Score: 8.72
+	Name: Howl no Ugoku Shiro, Score: 8.67
+	Name: Death Note, Score: 8.63
+	Name: Kimi no Suizou wo Tabetai, Score: 8.59
+	Name: Kenpuu Denki Berserk, Score: 8.49
+	Name: JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season, Score: 8.45
+	Name: Saiki Kusuo no Ψ-nan, Score: 8.45
+Cluster #223
+	Name: Haiyore! Nyaruko-san W OVA, Score: 7.09
+	Name: Mushibugyou OVA, Score: 7.08
+	Name: Rockman.EXE Beast, Score: 7.06
+	Name: Love Live! School Idol Project Recap, Score: 6.99
+	Name: Bleach: The Sealed Sword Frenzy, Score: 6.98
+	Name: Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day, Score: 6.95
+	Name: Sola Specials, Score: 6.95
+	Name: Jintian Kaishi Zuo Mingxing, Score: 6.95
+Cluster #224
+	Name: Ze Tian Ji 5th Season, Score: 6.82
+	Name: Yareruko! Densha Ecchi, Score: 6.75
+	Name: Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu., Score: 6.67
+	Name: Ryuugajou Nanana no Maizoukin (TV): Nanana Nippon Mukashibanashi, Score: 6.67
+	Name: Shinsei: Futanari Idol - Dekatama-kei!, Score: 6.6
+	Name: Kininaru Roommate, Score: 6.58
+	Name: Megachu!, Score: 6.52
+	Name: R-15, Score: 6.5
+Cluster #225
+	Name: Sword Art Online Movie: Ordinal Scale - Sword Art Offline, Score: 6.89
+	Name: Saiki Kusuo no Ψ-nan (ONA), Score: 6.83
+	Name: Imanara Maniau! Log Horizon, Score: 6.79
+	Name: Nakanohito Genome [Jikkyouchuu]: Knots of Memories, Score: 6.76
+	Name: Fortune Arterial: Akai Yakusoku, Score: 6.73
+	Name: God Eater Prologue, Score: 6.69
+	Name: ViVid Strike! Specials, Score: 6.69
+	Name: Dimension W: Short Track/Robot wa Sentou no Yume wo Miruka, Score: 6.65
+Cluster #226
+	Name: Shokugeki no Souma: San no Sara, Score: 8.14
+	Name: Hyouka, Score: 8.14
+	Name: Sakasama no Patema, Score: 8.05
+	Name: Code Geass: Fukkatsu no Lelouch, Score: 7.97
+Cluster #227
+	Name: Trinity Seven Movie 1: Eternity Library to Alchemic Girl, Score: 7.28
+	Name: Muttsuri Dosukebe Tsuyu Gibo Shimai no Honshitsu Minuite Sex Sanmai, Score: 7.26
+	Name: Lovely x Cation The Animation, Score: 7.2
+	Name: Tropical Kiss, Score: 7.11
+	Name: Imouto Bitch ni Shiboraretai, Score: 7.1
+	Name: Jashin-chan Dropkick': Chitose-hen, Score: 7.09
+	Name: Sekirei: Hajimete no Otsukai, Score: 7.08
+	Name: Nisekoi: OVA, Score: 7.08
+Cluster #228
+	Name: Hana (Music), Score: Unknown
+	Name: Nosferatu, Score: Unknown
+	Name: Fire Emblem Heroes Book III Movie：Cohort of the Dead, Score: Unknown
+	Name: Time on the Planet, Score: Unknown
+	Name: Yasashii Akuma, Score: Unknown
+	Name: Kumo no Ito (2000), Score: Unknown
+	Name: Teiketsu Bolt, Score: Unknown
+	Name: Atomic World, Score: Unknown
+Cluster #229
+	Name: BanG Dream! Garupa☆Pico, Score: 7.78
+	Name: Charlotte, Score: 7.77
+	Name: Kami nomi zo Shiru Sekai: Tenri-hen, Score: 7.72
+	Name: Mitsudomoe Zouryouchuu!, Score: 7.71
+	Name: Kyou kara Maou!, Score: 7.7
+	Name: Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa, Score: 7.69
+	Name: Trapp Ikka Monogatari, Score: 7.63
+	Name: Log Horizon 2nd Season, Score: 7.62
+Cluster #230
+	Name: Hiyoko no Basket Movie: Last Game 0401, Score: 7.28
+	Name: Osake wa Fuufu ni Natte kara: Yuzu Atsukan, Score: 7.03
+	Name: Shinmai Maou no Testament Departures, Score: 6.94
+	Name: Kakushi Dere, Score: 6.94
+	Name: Tamashii Insert, Score: 6.94
+	Name: Iizuka-senpai x Blazer: Ane Kyun! yori The Animation, Score: 6.91
+	Name: Hidan no Aria, Score: 6.88
+	Name: 91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita, Score: 6.88
+Cluster #231
+	Name: Mechano: Scientific Attack Force, Score: Unknown
+	Name: Shin Shounan Bakusouzoku Arakure Knight, Score: Unknown
+	Name: Microid S, Score: Unknown
+	Name: Cybot Robocchi, Score: Unknown
+	Name: Zhan Long Si Qu, Score: Unknown
+	Name: Tsuzuki wo Kangaeru Monogatari, Score: Unknown
+	Name: Mahou no Princess Minky Momo: Yume wo Dakishimete Specials, Score: Unknown
+	Name: Youkoso Boku desu, Score: Unknown
+Cluster #232
+	Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV), Score: 7.85
+	Name: Isekai no Seikishi Monogatari, Score: 7.84
+	Name: Enen no Shouboutai: Ni no Shou, Score: 7.78
+	Name: Kyoukai no Kanata, Score: 7.78
+	Name: Bokura wa Minna Kawai-sou, Score: 7.72
+	Name: Break Blade 6: Doukoku no Toride, Score: 7.71
+	Name: Ichigo Mashimaro Encore, Score: 7.7
+	Name: Machikado Mazoku, Score: 7.68
+Cluster #233
+	Name: Manabu no Natsuyasumi, Score: Unknown
+	Name: Tonari no Tonari, Score: Unknown
+	Name: Cute Kenkyuukai, Score: Unknown
+	Name: Umigame to Shounen, Score: Unknown
+	Name: Balgwanghaneun Hyeondaesa, Score: Unknown
+	Name: Supa Dupa Fly feat. Shounan no Kaze, Moomin, Kenty Gross, Bes, Apollo, Natural Weapon, Doraku, Score: Unknown
+	Name: Gekka Bijin (Music), Score: Unknown
+	Name: Oh Baby Plus, Score: Unknown
+Cluster #234
+	Name: Yoninme no Ousama, Score: Unknown
+	Name: Bakujuu Gasshin Ziguru Hazeru, Score: Unknown
+	Name: Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi, Score: Unknown
+	Name: Hulaing Babies Petit, Score: Unknown
+	Name: Itoshi no Betty Mamonogatari, Score: Unknown
+	Name: Drawing!!, Score: Unknown
+	Name: Kabi Usagi, Score: Unknown
+	Name: Honto ni Atta Gakkou Kaidan, Score: Unknown
+Cluster #235
+	Name: Kirari Kagayaku, Score: Unknown
+	Name: Tokyo Cosmo, Score: Unknown
+	Name: Ab-rah, Score: Unknown
+	Name: Sea Breeze, Score: Unknown
+	Name: Bonobono (TV), Score: 6.71
+	Name: Youkai Watch: Shadow Side, Score: 6.58
+	Name: Qin Xia, Score: 6.42
+	Name: Tatakae!! Ramenman, Score: 6.39
+Cluster #236
+	Name: Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Score: 8.43
+	Name: Cowboy Bebop: Tengoku no Tobira, Score: 8.39
+	Name: Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari, Score: 8.39
+	Name: Bakemonogatari, Score: 8.36
+	Name: Neon Genesis Evangelion, Score: 8.32
+	Name: Hinamatsuri, Score: 8.21
+	Name: Seirei no Moribito, Score: 8.17
+	Name: JoJo no Kimyou na Bouken (TV), Score: 8.06
+Cluster #237
+	Name: Sense Honma ni Honma, Score: Unknown
+	Name: Tokyu Plaza Ginza Open, Score: Unknown
+	Name: B.O.Y., Score: Unknown
+	Name: Shiawase Pasta Story, Score: Unknown
+	Name: Tansa Quest!, Score: Unknown
+	Name: Kiki to Lala no Ohimesama ni Naritai, Score: Unknown
+	Name: Boukentai: Mori no Yuusha, Score: Unknown
+	Name: Melody Line, Score: Unknown
+Cluster #238
+	Name: Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!, Score: 6.88
+	Name: Happy☆Lesson: The Final, Score: 6.83
+	Name: Tayutama: Kiss on My Deity, Score: 6.78
+	Name: Ushinawareta Mirai wo Motomete, Score: 6.76
+	Name: Witch Craft Works Specials, Score: 6.76
+	Name: Mayoi Neko Overrun!, Score: 6.72
+	Name: Pokemon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken, Score: 6.7
+	Name: Sexfriend, Score: 6.68
+Cluster #239
+	Name: Boku no Hero Academia 2nd Season: Hero Note, Score: 7.33
+	Name: Higurashi no Naku Koro ni Kai Specials, Score: 7.25
+	Name: Sekirei: Pure Engagement Episode 0, Score: 7.23
+	Name: Kiniro no Corda: Secondo Passo, Score: 7.15
+	Name: Sei Yariman Gakuen Enkou Nikki The Animation, Score: 7.13
+	Name: Kuroko no Basket: Oshaberi Shiyou ka, Score: 7.12
+	Name: Sousei no Aquarion, Score: 7.11
+	Name: Joshi Luck!, Score: 7.06
+Cluster #240
+	Name: Xiong Chumo Zhi: Xue Ling Xiong Feng, Score: Unknown
+	Name: Xiong Chumo Zhi: Qihuan Kongjian, Score: Unknown
+	Name: Xi Yang Yang Yu Hui Tai Lang: Zhi Fei Ma Qi Yu Ji, Score: Unknown
+	Name: Zhu Zhu Xia: Meng Xiang Shou Wei Zhe, Score: Unknown
+	Name: Zhanguo Fan, Score: Unknown
+	Name: Yume Miru, Anime: on-chan, Score: Unknown
+	Name: Shiritori Oukoku, Score: Unknown
+	Name: Himitsukessha Taka no Tsume DO, Score: Unknown
+Cluster #241
+	Name: Junod, Score: 6.24
+	Name: Umi no Triton (1979), Score: 6.15
+	Name: Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki, Score: 6.11
+	Name: Tenshi no Shippo Chu!: Tenshi no Utagoe, Score: 6.04
+	Name: Kaitei Sanman Mile, Score: 5.98
+	Name: Africa no Salaryman, Score: 5.86
+	Name: Dive to Blue (October 2016), Score: 5.82
+	Name: Stitch to Suna no Wakusei, Score: 5.75
+Cluster #242
+	Name: Tsukiusa. Gekijou, Score: Unknown
+	Name: Afghanistan Paghman-mura no Monogatari: Sekaiichi Utsukushii Boku no Mura, Score: Unknown
+	Name: Coral no Tanken, Score: Unknown
+	Name: Xiyue Qi Tong (2006), Score: Unknown
+	Name: Xiong Chumo Zhi: Nianhuo, Score: Unknown
+	Name: Xiong Chumo Zhi: Guonian, Score: Unknown
+	Name: Xiong Chumo Zhi: Chunri Dui Dui Peng, Score: Unknown
+	Name: Makkuro na Obentou, Score: Unknown
+Cluster #243
+	Name: Ie Naki Ko Remy Specials (2001), Score: 6.5
+	Name: Muu no Hakugei, Score: 6.31
+	Name: Oyako Nezumi no Fushigi na Tabi, Score: 6.23
+	Name: Zoku Attacker You! Kin Medal e no Michi, Score: 6.11
+	Name: Dr. Slump: Arale-chan - Penguin Mura Eiyuu Densetsu, Score: 6.07
+	Name: Ultra Nyan 2: The Great Happy Operation, Score: 6.04
+	Name: Hello Kitty no Stump Village, Score: 5.93
+	Name: Blue: Line Step Brush, Score: 5.92
+Cluster #244
+	Name: Galactic Patrol Lensman, Score: 6.31
+	Name: Tales of the Rays Gekijou, Score: 6.17
+	Name: Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii..., Score: 6.09
+	Name: Ultra B, Score: 6.06
+	Name: Negative Shinkaron feat. Hatsune Miku, Score: 6.02
+	Name: Rainbow Signal: Hi-Fi Set, Score: 5.99
+	Name: Sukima no Kuni no Polta, Score: 5.89
+	Name: Oscar's Oasis, Score: 5.81
+Cluster #245
+	Name: Nerenai!!!, Score: Unknown
+	Name: Sunny, Score: Unknown
+	Name: Rabbit, Score: Unknown
+	Name: Kawawawawawada, Score: Unknown
+	Name: Irotoridori, Score: Unknown
+	Name: Kyoufu Shinbun, Score: Unknown
+	Name: RoboCop, Score: Unknown
+	Name: Peeping Life 5.0ch, Score: Unknown
+Cluster #246
+	Name: Chuldong! Super Wings, Score: Unknown
+	Name: Pocari Sweat Run Carnival 2019, Score: Unknown
+	Name: Kikansha Yaemon: D51 no Daibouken, Score: Unknown
+	Name: Poka Poka Mori no Rascal, Score: Unknown
+	Name: Shounen Sunday CM: All-Star Total Appearance, Score: Unknown
+	Name: Tottoko Hamtarou: Hiragana Tanken, Score: Unknown
+	Name: Ookami to Koushinryou VR 2, Score: Unknown
+	Name: Nui Nui Hinobori San Kyoudai, Score: Unknown
+Cluster #247
+	Name: Cafe Junkie, Score: 6.8
+	Name: Boku wa Tomodachi ga Sukunai Episode 0, Score: 6.75
+	Name: TSF Monogatari, Score: 6.67
+	Name: Shingeki no Kyojin Picture Drama, Score: 6.63
+	Name: Hagure Yuusha no Aesthetica: Hajirai Ippai, Score: 6.59
+	Name: Getsuyoubi no Tawawa Specials, Score: 6.59
+	Name: JK to Ero Giin Sensei, Score: 6.57
+	Name: Loveless Specials, Score: 6.56
+Cluster #248
+	Name: Trinity Seven Movie 2: Heavens Library to Crimson Lord, Score: 7.34
+	Name: Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie, Score: 7.29
+	Name: Hiiro no Kakera Dai Ni Shou, Score: 7.23
+	Name: Yu☆Gi☆Oh!, Score: 7.21
+	Name: Dorei Usagi to Anthony The Animation, Score: 7.2
+	Name: Kimi ga Aruji de Shitsuji ga Ore de, Score: 7.18
+	Name: Youkai Apartment no Yuuga na Nichijou, Score: 7.18
+	Name: Madan no Ou to Vanadis, Score: 7.17
+Cluster #249
+	Name: Gintama°: Aizome Kaori-hen, Score: 8.41
+	Name: Kiseijuu: Sei no Kakuritsu, Score: 8.4
+	Name: Natsume Yuujinchou: Itsuka Yuki no Hi ni, Score: 8.35
+	Name: Major: World Series, Score: 8.35
+	Name: Bakemono no Ko, Score: 8.33
+	Name: Hajime no Ippo: Champion Road, Score: 8.29
+	Name: Space☆Dandy 2nd Season, Score: 8.27
+	Name: Detective Conan: Episode One - The Great Detective Turned Small, Score: 8.27
+Cluster #250
+	Name: Kurokan, Score: Unknown
+	Name: Norasco (TV), Score: Unknown
+	Name: Shen Qi Huan Qi Tan, Score: Unknown
+	Name: Duel Masters!!, Score: Unknown
+	Name: Wind, Score: Unknown
+	Name: U-turn wa Wakai Uchi ni Shiro!, Score: Unknown
+	Name: Isobe Isobee Monogatari: Ukiyo wa Tsurai yo (2015), Score: Unknown
+	Name: Jibun no Mune ni te wo Atete, Score: Unknown
+Cluster #251
+	Name: Zhu Zhu Xia: Jing Su Xiao Yingxiong, Score: Unknown
+	Name: Yuukai Tsuresari ni Awanai, Score: Unknown
+	Name: Youkoso! Ecolo Shima, Score: Unknown
+	Name: Yasai no Yousei: N.Y. Salad The Movie, Score: Unknown
+	Name: Koala-chan no Shouboutai, Score: Unknown
+	Name: Trojan wo Jibun no Te de, Score: Unknown
+	Name: Peeban, Score: Unknown
+	Name: Ninja Tamamaru: Rule wo Mamotte Koutsuu Anzen! no Maki, Score: Unknown
+Cluster #252
+	Name: Detective Conan: Black History, Score: 7.61
+	Name: Zero no Tsukaima F, Score: 7.52
+	Name: Haiyore! Nyaruko-san F, Score: 7.5
+	Name: Wangan Midnight, Score: 7.46
+	Name: Full Metal Panic! The Second Raid Episode 00, Score: 7.42
+	Name: Yu☆Gi☆Oh! 5D's, Score: 7.42
+	Name: Naruto x UT, Score: 7.4
+	Name: Sora no Otoshimono, Score: 7.36
+Cluster #253
+	Name: Puso Ni Comi, Score: 6.51
+	Name: D.I.C.E., Score: 6.33
+	Name: Doraemon Anniversary 25, Score: 6.25
+	Name: Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron, Score: 6.23
+	Name: Kazama Mana, Score: 6.17
+	Name: Genei Toushi Bastof Lemon, Score: 6.15
+	Name: Akage no Anne Specials, Score: 6.14
+	Name: Green Green Thirteen: Erolutions, Score: 6.13
+Cluster #254
+	Name: Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear, Score: 6.91
+	Name: Pokemon Housoukyoku, Score: 6.86
+	Name: Enkou JK Bitch Gal: Ojisan to Namapako Seikatsu, Score: 6.84
+	Name: Yokorenbo: Immoral Mother, Score: 6.83
+	Name: Kyonyuu Kazoku Saimin, Score: 6.79
+	Name: 3D Kanojo: Real Girl, Score: 6.78
+	Name: Mashin Eiyuuden Wataru 2, Score: 6.78
+	Name: Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen, Score: 6.74
+Cluster #255
+	Name: Nemurihime, Score: Unknown
+	Name: Tsuugakuro, Score: Unknown
+	Name: Gunners, Score: Unknown
+	Name: Haru Yasumi no Yoru, Score: Unknown
+	Name: Yuu no Mahou, Score: Unknown
+	Name: Zoojazoo "Watashi no Onaka", Score: Unknown
+	Name: Weaving, Score: Unknown
+	Name: Annie, Score: Unknown
+Cluster #256
+	Name: Shingeki no Kyojin Season 3, Score: 8.59
+	Name: Fruits Basket 2nd Season, Score: 8.54
+	Name: Gintama Movie 1: Shinyaku Benizakura-hen, Score: 8.52
+	Name: Mob Psycho 100, Score: 8.49
+	Name: Banana Fish, Score: 8.45
+	Name: Chihayafuru 2, Score: 8.43
+	Name: Mo Dao Zu Shi 2nd Season, Score: 8.43
+	Name: Houseki no Kuni (TV), Score: 8.41
+Cluster #257
+	Name: Cardcaptor Sakura Movie 2: Fuuin Sareta Card, Score: 8.22
+	Name: Naruto: Shippuuden, Score: 8.16
+	Name: Mahoutsukai no Yome: Hoshi Matsu Hito, Score: 8.14
+	Name: Initial D Second Stage, Score: 8.12
+	Name: Mahoutsukai no Yome, Score: 8.1
+	Name: Haikyuu!! Movie 3: Sainou to Sense, Score: 8.08
+	Name: Gintama: Dai Hanseikai, Score: 8.07
+	Name: Kobayashi-san Chi no Maid Dragon, Score: 8.03
+Cluster #258
+	Name: No Game No Life: Zero - Manner Movie, Score: 6.86
+	Name: Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!, Score: 6.76
+	Name: No Game No Life Specials, Score: 6.75
+	Name: Hiiro no Kakera, Score: 6.74
+	Name: Maken-Ki! OVA, Score: 6.64
+	Name: Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation, Score: 6.61
+	Name: Brothers Conflict: Setsubou, Score: 6.55
+	Name: K: Missing Kings - Manner Movie, Score: 6.53
+Cluster #259
+	Name: Haramasete Seiryuu-kun!, Score: 6.46
+	Name: Hundred, Score: 6.37
+	Name: Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura Inya Hanashi The Animation, Score: 6.37
+	Name: Domo-kun, Score: 6.36
+	Name: Shukufuku no Campanella, Score: 6.31
+	Name: Hajimete no Gal, Score: 6.31
+	Name: Hanamaru Youchien Special Preview, Score: 6.29
+	Name: Shounen Sunday CM Gekijou: InuYasha-hen, Score: 6.28
+Cluster #260
+	Name: Anime Koukyoushi: Jungle Taitei, Score: 6.51
+	Name: Kojika Monogatari, Score: 6.39
+	Name: Sasurai no Shoujo Nell, Score: 6.26
+	Name: Sangokushi II: Amakakeru Otoko-tachi, Score: 6.26
+	Name: Watt Poe to Bokura no Ohanashi, Score: 6.11
+	Name: Animation!, Score: 5.85
+	Name: Xiao Kedou Zhao Mama, Score: 5.81
+	Name: Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!, Score: 5.77
+Cluster #261
+	Name: Arifureta Shokugyou de Sekai Saikyou Specials, Score: 6.54
+	Name: Youkai Watch Movie 5: Forever Friends, Score: 6.47
+	Name: Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?, Score: 6.4
+	Name: Kyouryuu Shoujo Gauko 2nd Season, Score: 6.3
+	Name: Dokyuu Hentai HxEros OVA, Score: 6.3
+	Name: Gongitsune, Score: 6.28
+	Name: Asobi ni Iku yo!: Asobi ni Oide - Owari, Score: 6.27
+	Name: Kyoukai no Rinne, Score: 6.26
+Cluster #262
+	Name: Tamashichi!, Score: Unknown
+	Name: Fuki to Hiyoko, Score: Unknown
+	Name: Otome no Inori, Score: Unknown
+	Name: Miracle, Score: Unknown
+	Name: Tenchi Muyou! Ryououki 3rd Season Picture Drama, Score: 6.32
+	Name: Jungle Taitei Leo: Hon-o-ji, Score: 6.32
+	Name: Machi Ichiban no Kechinbou, Score: 5.89
+	Name: Time Bokan Series: Gyakuten Ippatsuman, Score: 5.88
+Cluster #263
+	Name: Race Eizou-hen, Score: Unknown
+	Name: Rocket Dive, Score: Unknown
+	Name: Yume wo Misete, Score: Unknown
+	Name: Emerald no Oka, Score: Unknown
+	Name: Kotonoha Breakdown, Score: Unknown
+	Name: Kaigo to Ikiru, Score: Unknown
+	Name: Namida no Chikara, Score: Unknown
+	Name: Ten, Score: Unknown
+Cluster #264
+	Name: Beelzebub Specials, Score: 7.37
+	Name: Owaranai Seraph, Score: 7.31
+	Name: Swing Out Sisters, Score: 7.23
+	Name: Inazuma Eleven Go: Chrono Stone, Score: 7.17
+	Name: Karneval (TV), Score: 7.14
+	Name: Muteki Kanban Musume, Score: 7.11
+	Name: Kyoukaisenjou no Horizon, Score: 7.1
+	Name: Dual! Parallel Lun-Lun Monogatari, Score: 7.1
+Cluster #265
+	Name: Kyoei Tankou-sho, Score: Unknown
+	Name: Ghana, Score: Unknown
+	Name: Time for Christmas, Score: Unknown
+	Name: Fojiao Donghua: Dashi Zhi Pusa Nianfo Yuantong Zhang, Score: Unknown
+	Name: Hana no Zundamaru, Score: Unknown
+	Name: Car Radio, Score: Unknown
+	Name: Shuuen no Shiori, Score: Unknown
+	Name: Kobutori (1957), Score: Unknown
+Cluster #266
+	Name: Tsubasa: Shunraiki, Score: 8.13
+	Name: xxxHOLiC Shunmuki, Score: 8.08
+	Name: FLCL, Score: 8.03
+	Name: Youjo Senki, Score: 8.0
+	Name: Mahou Shoujo Lyrical Nanoha A's, Score: 7.99
+	Name: Quanzhi Gaoshou, Score: 7.98
+	Name: Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai, Score: 7.98
+	Name: Kindaichi Shounen no Jikenbo, Score: 7.98
+Cluster #267
+	Name: Taiyou to Tsuki no Kodomo-tachi (2018), Score: Unknown
+	Name: Eyedrops Special Episode, Score: Unknown
+	Name: Sound of Love feat. Eden Kai, Score: Unknown
+	Name: Omoide wa Kireide, Score: Unknown
+	Name: Because, Score: Unknown
+	Name: Gakkou no Yuurei, Score: Unknown
+	Name: Mimizu Monogatari, Score: Unknown
+	Name: Tele◯Potion, Score: Unknown
+Cluster #268
+	Name: Zhu Zhu Xia: Konglong Riji, Score: Unknown
+	Name: Yousei Tin Tin, Score: Unknown
+	Name: Mina no Mura to Kawa, Score: Unknown
+	Name: Green Red, Score: Unknown
+	Name: Tobidasu Ehon 3D, Score: Unknown
+	Name: Washimo 6th Season, Score: Unknown
+	Name: Nezumi-kun no Chokki, Score: Unknown
+	Name: Toruru's Adventure, Score: Unknown
+Cluster #269
+	Name: Shinrabanshou.mp3, Score: Unknown
+	Name: Dance XX, Score: Unknown
+	Name: Kyou kara Omoide, Score: 6.53
+	Name: Shiawase Sou no Okojo-san, Score: 6.51
+	Name: Rokudenashi Blues 1993, Score: 6.25
+	Name: Youkai Watch!, Score: 6.23
+	Name: Neko Machi, Score: 6.23
+	Name: Pa-Pa-Pa the ★ Movie: Perman, Score: 6.16
+Cluster #270
+	Name: Yuuwaku★Office Lover 2, Score: Unknown
+	Name: Zhi duoduo Zhi duoduo, Score: Unknown
+	Name: Zhu Zhu Xia: Guang Ming Shou Wei Zhe, Score: Unknown
+	Name: Zhu Zhu Xia: Chao Xing Meng Chong, Score: Unknown
+	Name: Yongshi, Score: Unknown
+	Name: Butazuka, Score: Unknown
+	Name: Kaminari Boy Pikkari★bee, Score: Unknown
+	Name: Watashi no Kamifuusen, Score: Unknown
+Cluster #271
+	Name: Lina Poe Poe, Score: Unknown
+	Name: Toilet no Kuni, Score: Unknown
+	Name: The Starry Night, Score: Unknown
+	Name: ARMS, Score: Unknown
+	Name: Devil & Devil, Score: Unknown
+	Name: Sam to Chip no wa Hachamecha Dai Race, Score: Unknown
+	Name: Shammy to Kage Boy, Score: Unknown
+	Name: Tama Pawns, Score: Unknown
+Cluster #272
+	Name: Aishen Qiaokeli-ing..., Score: 6.99
+	Name: Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou, Score: 6.98
+	Name: KimiKiss Pure Rouge: Love Fighter, Score: 6.97
+	Name: Himouto! Umaru-chanS, Score: 6.96
+	Name: Shinmai Maou no Testament Burst, Score: 6.91
+	Name: Taimadou Gakuen 35 Shiken Shoutai, Score: 6.9
+	Name: Ichigo 100% Special 2, Score: 6.88
+	Name: Nariyuki→Papakatsu Girls!! The Animation, Score: 6.84
+Cluster #273
+	Name: Yousei Dick, Score: Unknown
+	Name: UFO Senshi Dai Apolon 2, Score: Unknown
+	Name: Udauda Yatteru Hima wa Nee!, Score: Unknown
+	Name: Dolphin Ouji, Score: Unknown
+	Name: Ken-chan, Score: Unknown
+	Name: Tatakae! Chou Robot Seimeitai Transformers Victory Soushuuhen, Score: Unknown
+	Name: Kintarou, Score: Unknown
+	Name: Landreaall, Score: Unknown
+Cluster #274
+	Name: Kensaku to Enjin no Atarashii Tomodachi: Query Toujou!, Score: Unknown
+	Name: Owanko, Score: Unknown
+	Name: Jingi, Score: Unknown
+	Name: Jim Button, Score: Unknown
+	Name: Kaibutsu-kun: Kaibutsu Land e no Shoutai, Score: Unknown
+	Name: Kite, Score: Unknown
+	Name: Taiman Blues: Shimizu Naoto-hen, Score: Unknown
+	Name: Duel Masters: Hamukatsu to Dogiragon no Curry-pan Daibouken, Score: Unknown
+Cluster #275
+	Name: Pocari Sweat x Fuji Rock Festival ’17, Score: Unknown
+	Name: Scary, Score: Unknown
+	Name: Rokudou Juku, Score: Unknown
+	Name: Osiris no Tenbin, Score: Unknown
+	Name: Ushinawareta Choushoku, Score: Unknown
+	Name: Mashiro Witch, Score: Unknown
+	Name: Memories (Music), Score: Unknown
+	Name: Frogtoise, Score: Unknown
+Cluster #276
+	Name: Tsuma Shibori, Score: 7.09
+	Name: Mermaid Melody Pichi Pichi Pitch, Score: 7.04
+	Name: Gundam Build Divers Re:Rise, Score: 7.03
+	Name: Nikuyome: Takayanagi Ke no Hitobito, Score: 7.0
+	Name: Spocon!, Score: 6.94
+	Name: Yu☆Gi☆Oh! (Movie), Score: 6.91
+	Name: Show By Rock!! Mashumairesh!!, Score: 6.91
+	Name: Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure., Score: 6.88
+Cluster #277
+	Name: Mirai Nikki OVA, Score: 7.27
+	Name: Guilty Crown: Kiseki - Reassortment, Score: 7.15
+	Name: Kuma Kuma Kuma Bear, Score: 7.14
+	Name: Chuunibyou demo Koi ga Shitai! Ren Specials, Score: 7.11
+	Name: Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!, Score: 7.1
+	Name: Yuragi-sou no Yuuna-san OVA, Score: 7.08
+	Name: Chobits: Chibits, Score: 7.0
+	Name: Koisuru Tenshi Angelique: Kagayaki no Ashita, Score: 6.99
+Cluster #278
+	Name: Dokkiri Doctor, Score: 6.56
+	Name: Monster Musume no Oishasan, Score: 6.51
+	Name: Hyakka Ryouran: Samurai After Specials, Score: 6.49
+	Name: Esper Mami, Score: 6.46
+	Name: Senran Kagura Specials, Score: 6.45
+	Name: Kanokon Specials, Score: 6.44
+	Name: Princess Princess Specials, Score: 6.44
+	Name: Kiniro no Corda: Blue♪Sky, Score: 6.43
+Cluster #279
+	Name: The Guts!, Score: 6.32
+	Name: Neko Neko Nihonshi, Score: 6.2
+	Name: Yu☆Gi☆Oh! Zexal Special, Score: 6.15
+	Name: Saru Getchu: On Air, Score: 6.15
+	Name: Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki, Score: 6.1
+	Name: Monsuto Anime: Katsubou no Hate no Risoukyou, Score: 6.08
+	Name: Mahou Sensou, Score: 6.03
+	Name: Hitozuma Cosplay Kissa, Score: 6.0
+Cluster #280
+	Name: Koukaku Kidoutai, Score: 8.29
+	Name: Initial D First Stage, Score: 8.29
+	Name: Hunter x Hunter: Greed Island Final, Score: 8.29
+	Name: Kuroshitsuji Movie: Book of the Atlantic, Score: 8.26
+	Name: xxxHOLiC Kei, Score: 8.25
+	Name: Bakuman., Score: 8.23
+	Name: Black Lagoon: The Second Barrage, Score: 8.19
+	Name: Tengen Toppa Gurren Lagann Movie 1: Gurren-hen, Score: 8.17
+Cluster #281
+	Name: Toppuku Kyousou Kyoku, Score: Unknown
+	Name: Afghanistan Paghman-mura no Monogatari: Boku no Mura ni Circus ga Kita, Score: Unknown
+	Name: Words Worth Omake, Score: Unknown
+	Name: Madou King Granzort: Nonstop Rabi, Score: Unknown
+	Name: Zouressha ga Yatte Kita, Score: Unknown
+	Name: Zhu Zhu Xia: Wu Ling Shou Wei Zhe, Score: Unknown
+	Name: Zhu Zhu Xia: Bian Shen Zhandu, Score: Unknown
+	Name: Yume wo Kanaeru Zou, Score: Unknown
+Cluster #282
+	Name: Jirijiri Moyou no Ryuuryuu Tenten, Score: Unknown
+	Name: Kaijuu, Score: Unknown
+	Name: Minion, Score: Unknown
+	Name: X-Men Openings, Score: Unknown
+	Name: Wanpaku Oomukashi Kum Kum, Score: 6.1
+	Name: Time Bokan Series: Zenderman, Score: 5.96
+	Name: Youkai Watch: Best 10, Score: 5.89
+	Name: Akuma Tou no Prince: Mitsume ga Tooru, Score: 5.86
+Cluster #283
+	Name: Shining Star: Saeroun Luna-Queen-ui Tansaeng!, Score: Unknown
+	Name: Zhu Zhu Xia: Jing Qiu Xiao Yingxiong, Score: Unknown
+	Name: Lena Lena, Score: Unknown
+	Name: Waresho! Warera! Shodobutsu Aigo Iinkai, Score: Unknown
+	Name: Mirai ni Mukete: Bousai wo Kangaeru, Score: Unknown
+	Name: Kkurukkuru-wa Chingu-deul, Score: Unknown
+	Name: Odoriko Clinoppe, Score: Unknown
+	Name: Mo Jing Lieren 3rd Season, Score: Unknown
+Cluster #284
+	Name: Ueki no Housoku, Score: 7.76
+	Name: One Punch Man Specials, Score: 7.73
+	Name: Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi, Score: 7.69
+	Name: Blood+, Score: 7.66
+	Name: Bungou Stray Dogs: Hitori Ayumu, Score: 7.66
+	Name: On Your Mark, Score: 7.49
+Cluster #285
+	Name: Mahouka Koukou no Rettousei: Raihousha-hen, Score: 7.31
+	Name: Naruto: Shippuuden Movie 1, Score: 7.29
+	Name: One Piece: Umi no Heso no Daibouken-hen, Score: 7.29
+	Name: Soushisouai Note The Animation, Score: 7.22
+	Name: Love Hina Haru Special: Kimi Sakura Chiru Nakare!!, Score: 7.21
+	Name: Pretty x Cation The Animation, Score: 7.16
+	Name: Dr. Slump: Arale-chan, Score: 7.16
+	Name: Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne., Score: 7.15
+Cluster #286
+	Name: Mononoke Hime, Score: 8.72
+	Name: Code Geass: Hangyaku no Lelouch, Score: 8.72
+	Name: Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai, Score: 8.68
+	Name: Violet Evergarden Movie, Score: 8.65
+	Name: Violet Evergarden, Score: 8.64
+	Name: Ookami Kodomo no Ame to Yuki, Score: 8.64
+	Name: Koukaku Kidoutai: Stand Alone Complex 2nd GIG, Score: 8.54
+	Name: Steins;Gate 0, Score: 8.51
+Cluster #287
+	Name: Koutsuu Anzen de Gozaru Ninja Hattori-kun, Score: Unknown
+	Name: Ohayou Hakushon Daimaou, Score: Unknown
+	Name: Makiba no Shoujo Katri Specials, Score: Unknown
+	Name: Deaerutte Ii ne, Score: Unknown
+	Name: Shinkai Densetsu Meremanoid, Score: Unknown
+	Name: Zettai Zetsumei Dangerous Jiisan (2004), Score: Unknown
+	Name: Uchuu Patrol Hopper, Score: Unknown
+	Name: Viola wa Utau, Score: Unknown
+Cluster #288
+	Name: Chuunibyou demo Koi ga Shitai! Ren Lite, Score: 7.17
+	Name: Hatsu Inu 2 The Animation: Strange Kind of Woman - Again, Score: 7.16
+	Name: Battle Spirits: Brave, Score: 7.08
+	Name: Ling Jian Zun 3rd Season, Score: 7.03
+	Name: Doraemon Movie 08: Nobita to Ryuu no Kishi, Score: 7.0
+	Name: Kill Me Baby: Butsuzou Kegatte Nise Halloween, Score: 7.0
+	Name: Jinzou Ningen Kikaider The Animation, Score: 6.99
+	Name: Lingeries, Score: 6.98
+Cluster #289
+	Name: Tokyo Ghoul, Score: 7.81
+	Name: Jibaku Shounen Hanako-kun, Score: 7.78
+	Name: Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season, Score: 7.77
+	Name: Karakai Jouzu no Takagi-san, Score: 7.77
+	Name: Shokugeki no Souma: Shin no Sara, Score: 7.76
+	Name: Nejimaki Seirei Senki: Tenkyou no Alderamin, Score: 7.73
+	Name: Enen no Shouboutai, Score: 7.68
+	Name: Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai, Score: 7.66
+Cluster #290
+	Name: Re:I Am, Score: 6.28
+	Name: Detective Conan: City Exploration! Get the Animal Mark!, Score: 6.18
+	Name: Persona 3 the Movie Meets “Walkman”, Score: 6.15
+	Name: Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita, Score: 6.15
+	Name: Sword Art Online Fatal Bullet: The Third Episode, Score: 6.13
+	Name: Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA, Score: 6.05
+	Name: Kyomu Senshi Miroku, Score: 6.02
+	Name: Mitsu x Mitsu Drops, Score: 5.98
+Cluster #291
+	Name: Haikyuu!! Quest Picture Drama, Score: 6.5
+	Name: Akaneiro ni Somaru Saka: Hardcore, Score: 6.43
+	Name: Suki na Mono wa Suki Dakara Shou ga Nai!!: Onsen ni Ikou!, Score: 6.33
+	Name: Mesu Kyoushi: Injoku no Kyoushitsu, Score: 6.31
+	Name: Darwin's Game: Log Line, Score: 6.31
+	Name: Isuca: Gokuraku, Score: 6.3
+	Name: Nameko-ke no Ichizoku, Score: 6.28
+	Name: Boku wa Mada 7-sai Datta, Score: 6.26
+Cluster #292
+	Name: Koiito Kinenbi The Animation, Score: 7.46
+	Name: Mizugi Kanojo The Animation, Score: 7.31
+	Name: Yamada-kun to 7-nin no Majo, Score: 7.3
+	Name: Tsuki ga Kirei Special, Score: 7.29
+	Name: One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou, Score: 7.24
+	Name: Boku dake ga Inai Machi Recaps, Score: 7.21
+	Name: Shakugan no Shana-tan II (Second), Score: 7.21
+	Name: Uta no☆Prince-sama♪ Maji Love Legend Star, Score: 7.19
+Cluster #293
+	Name: Kamisama Hajimemashita OVA, Score: 7.98
+	Name: Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna, Score: 7.89
+	Name: Saint Seiya, Score: 7.77
+	Name: Noragami OVA, Score: 7.76
+	Name: Dragon Ball Kai, Score: 7.73
+	Name: Shigatsu wa Kimi no Uso: Moments, Score: 7.71
+	Name: Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page, Score: 7.71
+	Name: Soredemo Sekai wa Utsukushii, Score: 7.67
+Cluster #294
+	Name: Dokidoki Gakuen Kessen!! Youki Daimashiro, Score: Unknown
+	Name: Kikou Heidan J-Phoenix: PF Lips Shoutai, Score: Unknown
+	Name: Hwanggeum Nalgae 1.2.3., Score: Unknown
+	Name: Medaka no Gakkou, Score: Unknown
+	Name: Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Score: Unknown
+	Name: Yoshida no Matsue Beauty Daisakusen Prologue, Score: Unknown
+	Name: Union Union, Score: Unknown
+	Name: Virtual Star 2000, Score: Unknown
+Cluster #295
+	Name: Croket!, Score: 6.89
+	Name: Yamato Takeru: After War, Score: 6.41
+	Name: Slide, Score: 6.19
+	Name: Pikaia!, Score: 6.03
+	Name: Glass no Kamen Desu ga the Movie: Onna Spy no Koi! Murasaki no Bara wa Kiken na Kaori!?, Score: 5.58
+	Name: Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold, Score: 5.52
+	Name: Condom Battler Gorou, Score: 5.51
+	Name: Fast Week, Score: 5.44
+Cluster #296
+	Name: Chuunibyou demo Koi ga Shitai! Movie: Take On Me Mini-Drama - Koukai Chokuzen no... Kaiko Gekijou, Score: 6.85
+	Name: Ryuugajou Nanana no Maizoukin, Score: 6.6
+	Name: Tayutayu: Pure My Heart, Score: 6.39
+	Name: Bible Black: New Testament Recap, Score: 6.37
+	Name: Detective Conan: Anti-Crime Guide, Score: 6.34
+	Name: Tokyo Ghoul:re 2nd Season, Score: 6.33
+	Name: K-On!: Ura-On!, Score: 6.33
+	Name: Ikoku na Retro, Score: 6.33
+Cluster #297
+	Name: Shaman King, Score: 7.78
+	Name: Detective Conan Movie 17: Private Eye in the Distant Sea, Score: 7.7
+	Name: Daa! Daa! Daa!, Score: 7.65
+	Name: Cardcaptor Sakura Movie 1, Score: 7.64
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Score: 7.64
+	Name: Shounen Onmyouji, Score: 7.59
+	Name: Irozuku Sekai no Ashita kara, Score: 7.55
+	Name: Akame ga Kill!, Score: 7.53
+Cluster #298
+	Name: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama, Score: 7.44
+	Name: Quanzhi Fashi IV, Score: 7.34
+	Name: Air Gear Special, Score: 7.31
+	Name: Naruto: Shippuuden Movie 2 - Kizuna, Score: 7.29
+	Name: Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!, Score: 7.26
+	Name: Uta no☆Prince-sama♪ Maji Love 2000%, Score: 7.25
+	Name: Digimon Adventure tri. 6: Bokura no Mirai, Score: 7.22
+	Name: Kiddy Grade, Score: 7.22
+Cluster #299
+	Name: Tesapuru dayo! Schedule no Au Hito dake Shuugou!, Score: Unknown
+	Name: Zhu Zhu Xia: Yong Chuang Weilai Cheng, Score: Unknown
+	Name: Yellow Fish, Score: Unknown
+	Name: Yowamushi Chinsengumi, Score: Unknown
+	Name: Chou Do M na Hentai Mesu-tachi Otokoton Choukyou Itashimasu!, Score: Unknown
+	Name: Yoshida no Matsue Beauty Daisakusen, Score: Unknown
+	Name: Din Dong Specials, Score: Unknown
+	Name: Hibakusha kara no Tegami, Score: Unknown
+Cluster #300
+	Name: JK Bitch ni Shiboraretai, Score: 7.2
+	Name: Starmyu OVA, Score: 7.15
+	Name: Rockman.EXE Axess, Score: 7.14
+	Name: Kuroshitsuji Picture Drama, Score: 7.13
+	Name: Pokemon Movie 03: Kesshoutou no Teiou Entei, Score: 7.09
+	Name: Tight-rope, Score: 7.07
+	Name: Yarimoku Beach ni Shuugakuryokou de!! The Animation, Score: 7.07
+	Name: Ling Jian Zun, Score: 7.03
+Cluster #301
+	Name: Undouki Kenshin Manual Taiou Taisou, Score: Unknown
+	Name: Chi-Sui Maru, Score: Unknown
+	Name: Stereo, Score: Unknown
+	Name: Go! Go! Kadendanshi, Score: Unknown
+	Name: A Tang Qi Yu, Score: Unknown
+	Name: Kusakeiba, Score: Unknown
+	Name: Yamakoshi Mura no Mari to Sanbiki no Koinu, Score: Unknown
+	Name: au x Rope, Score: Unknown
+Cluster #302
+	Name: Eko Eko Azarak, Score: Unknown
+	Name: Mamoru Hikitsugu Watashitachi no Kurashi, Score: Unknown
+	Name: Suna no Akari, Score: Unknown
+	Name: Ryou, Score: Unknown
+	Name: Sema Kuruoshii Ie, Score: Unknown
+	Name: Kouryuu Densetsu Villgust PV, Score: Unknown
+	Name: Teinenpi Shoujo Heidi CMs, Score: Unknown
+	Name: Tetopettenson (2009), Score: Unknown
+Cluster #303
+	Name: Shounen Ninja Kaze no Fujimaru, Score: Unknown
+	Name: Heisei no Cinderella: Kiko-sama Monogatari, Score: Unknown
+	Name: Ucchare Goshogawara, Score: Unknown
+	Name: Chuuhai Lemon: Love 30s - Ame ni Nurete mo, Score: Unknown
+	Name: Araiguma Rascal Specials, Score: Unknown
+	Name: Qin Shi Ming Yue: Tian Xing Jiu Ge 2nd Season, Score: Unknown
+	Name: Yakyuubu Aruaru, Score: Unknown
+	Name: Robot King, Score: Unknown
+Cluster #304
+	Name: Never Shined, Score: Unknown
+	Name: Parasol Life, Score: Unknown
+	Name: Cheorin Samchongsa, Score: Unknown
+	Name: Pandora Voxx Complete, Score: Unknown
+	Name: Meng Ta: Xue Mi Cheng, Score: Unknown
+	Name: The iDOLM@STER SideM: Wake Atte Mini! OVA, Score: Unknown
+	Name: Kurogane no Linebarrels Picture Drama, Score: Unknown
+	Name: Family, Score: Unknown
+Cluster #305
+	Name: Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki, Score: Unknown
+	Name: Ookina Furudokei, Score: Unknown
+	Name: Sinbi Apateu: Ghost Ball X-ui Tansaeng, Score: Unknown
+	Name: Kaiketsu Zorori no Kyoufu no Hanayome Sakusen, Score: Unknown
+	Name: Baolie Feiche II: Xing Neng Juexing, Score: Unknown
+	Name: Baolie Feiche 3: Shou Shen Heti, Score: Unknown
+	Name: Jingju Mao Zhi Cheng Feng Polang, Score: Unknown
+	Name: Jingju Mao Zhi Xinnian de Maoxian, Score: Unknown
+Cluster #306
+	Name: Bishoujo Senshi Sailor Moon R: The Movie, Score: 7.7
+	Name: Bishoujo Senshi Sailor Moon R, Score: 7.69
+	Name: Naruto: Shippuuden Movie 6 - Road to Ninja, Score: 7.67
+	Name: Initial D Battle Stage 2, Score: 7.65
+	Name: Shin Tennis no Ouji-sama OVA vs. Genius 10, Score: 7.63
+	Name: Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky, Score: 7.62
+	Name: Inazuma Eleven, Score: 7.59
+	Name: The Perfect World, Score: 7.57
+Cluster #307
+	Name: Kaichou wa Maid-sama!, Score: 8.06
+	Name: Fullmetal Alchemist: Brotherhood Specials, Score: 8.03
+	Name: Full Metal Panic! The Second Raid, Score: 7.96
+	Name: Hanasaku Iroha, Score: 7.95
+	Name: SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi, Score: 7.95
+	Name: Magi: Sinbad no Bouken (TV), Score: 7.91
+	Name: Durarara!! Specials, Score: 7.9
+	Name: Yuru Yuri Nachuyachumi!, Score: 7.88
+Cluster #308
+	Name: Naga Hamaraja, Score: Unknown
+	Name: Nakano Harada Kekkon Kyousoukyoku, Score: Unknown
+	Name: Tanoshii Saki Uta Animation, Score: Unknown
+	Name: Sigh, Score: Unknown
+	Name: Cynical Hysterie Hour: Henshin!, Score: Unknown
+	Name: Tanuki to Kitsune: Dai 5-kan Hatsubai Kinen Animation, Score: Unknown
+	Name: Hi☆sCoool! SeHa Girls Special, Score: Unknown
+	Name: Oshare Majo Love and Berry: Shiawase no Mahou, Score: Unknown
+Cluster #309
+	Name: Kyak Kyak Kyak Flamenco, Score: Unknown
+	Name: The Lamp Man, Score: Unknown
+	Name: Kanai, Score: Unknown
+	Name: Mahou no Yousei Persia Pilot, Score: Unknown
+	Name: CP, Score: Unknown
+	Name: Paper Moon, Score: Unknown
+	Name: Xiongmao Monogatari TaoTao, Score: Unknown
+	Name: Minamo, Score: Unknown
+Cluster #310
+	Name: Fushigi na Elevator, Score: Unknown
+	Name: Historical, Score: Unknown
+	Name: Jakusansei Million Arthur, Score: 6.33
+	Name: Anne no Nikki: Anne Frank Monogatari, Score: 6.2
+	Name: Gegege no Kitarou: Obake Nighter, Score: 6.13
+	Name: Utsunomiko: Heaven Chapter, Score: 6.12
+	Name: Lupin tai Holmes, Score: 6.08
+	Name: Bada-ui Jeonseol Jangbogo, Score: 6.08
+Cluster #311
+	Name: Amnesia OVA, Score: 6.38
+	Name: Nerawareta Megami Tenshi Angeltia: Mamotta Ningentachi ni Uragirarete, Score: 6.37
+	Name: Ai Tenchi Muyou!, Score: 6.19
+	Name: Maken-Ki! Specials, Score: 6.19
+	Name: Rei Zero, Score: 6.18
+	Name: Itsuka Tenma no Kuro Usagi Picture Drama, Score: 6.17
+	Name: Choisuji, Score: 6.17
+	Name: Sengoku Musou: Sengoku Musou High School, Score: 6.16
+Cluster #312
+	Name: Re:Zero kara Hajimeru Isekai Seikatsu, Score: 8.29
+	Name: Detective Conan Movie 13: The Raven Chaser, Score: 8.24
+	Name: Shokugeki no Souma: Ni no Sara, Score: 8.21
+	Name: One Piece Film: Strong World, Score: 8.17
+	Name: Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season, Score: 8.16
+	Name: Kuroko no Basket, Score: 8.15
+	Name: Karakai Jouzu no Takagi-san 2, Score: 8.15
+	Name: Kuroshitsuji: Book of Circus, Score: 8.13
+Cluster #313
+	Name: Himitsukessha Taka no Tsume NEO, Score: Unknown
+	Name: Nintama Rantarou: Ninjutsu Gakuen to Nazo no Onna - Kore wa Jiken Da yo! no Dan, Score: Unknown
+	Name: Yankee Reppuu-tai, Score: Unknown
+	Name: Xixing Ji Zhi Zaijian Wukong, Score: Unknown
+	Name: Yakiniku-ten Sengoku, Score: Unknown
+	Name: Ton Ton Ton, Score: Unknown
+	Name: I Love Tofu, Score: Unknown
+	Name: Momoiro no Crayon, Score: Unknown
+Cluster #314
+	Name: Doubutsu Mura no World Cup: Yoiko no Koutsuu Anzen, Score: Unknown
+	Name: Washimo 7th Season, Score: Unknown
+	Name: So-na-gi, Score: Unknown
+	Name: Neko no Kuni no Kenpou, Score: Unknown
+	Name: Nanami-chan 6th Series, Score: Unknown
+	Name: Michiru Rescue!, Score: Unknown
+	Name: Dot Bit Retro: Boku Dake no Kusoge, Score: Unknown
+	Name: Nippon Mukashibanashi: Sannen Netarou, Score: Unknown
+Cluster #315
+	Name: Digimon Tamers, Score: 7.62
+	Name: Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu, Score: 7.49
+	Name: Detective Conan Movie 11: Jolly Roger in the Deep Azure, Score: 7.48
+	Name: Ao no Exorcist: Kyoto Fujouou-hen, Score: 7.43
+	Name: Mi Yu Xing Zhe, Score: 7.42
+	Name: Puchi Pri*Yucie, Score: 7.42
+	Name: Whistle!, Score: 7.39
+	Name: Seitokai no Ichizon Lv.2, Score: 7.38
+Cluster #316
+	Name: Kurou Shiro, Score: Unknown
+	Name: Tripod Baby, Score: Unknown
+	Name: Toward Morning, Score: Unknown
+	Name: Space Shower Man: Legacy for the Future, Score: Unknown
+	Name: Boku wa Shitteru yo., Score: Unknown
+	Name: Maze, Score: Unknown
+	Name: Role Playing Soldier, Score: Unknown
+	Name: The Closet, Score: Unknown
+Cluster #317
+	Name: Hiyokoi (2012), Score: 6.72
+	Name: Mayoi Neko Overrun! Specials, Score: 6.72
+	Name: Oni Chichi 2, Score: 6.71
+	Name: MONSTER GENERATiON, Score: 6.69
+	Name: Hashiri Hajimeta bakari no Kimi ni, Score: 6.63
+	Name: Kimi ni Maji Kyun!, Score: 6.63
+	Name: Shugo Chara! Party!, Score: 6.62
+	Name: Kono Naka ni Hitori, Imouto ga Iru!, Score: 6.6
+Cluster #318
+	Name: Oyako wa Tsudzuku yo, Score: Unknown
+	Name: Original, Score: Unknown
+	Name: Everyday Affair, Score: Unknown
+	Name: Inaka Nezumi to Machi Nezumi, Score: Unknown
+	Name: Sagashita no wa Oheya, Mitsuketa no wa Mirai, Score: Unknown
+	Name: Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou, Score: 6.4
+	Name: Takarajima (Movie), Score: 6.36
+	Name: Tenkuu no Escaflowne Recaps, Score: 6.23
+Cluster #319
+	Name: Free! Movie 1: Timeless Medley - Kizuna, Score: 7.52
+	Name: Love Stage!!: Chotto ja Nakutte, Score: 7.48
+	Name: Yao Shen Ji, Score: 7.43
+	Name: Vandread: The Second Stage, Score: 7.42
+	Name: Tanaka-kun wa Itsumo Kedaruge Specials, Score: 7.41
+	Name: Nisekoi OVA, Score: 7.41
+	Name: Maki-chan to Now., Score: 7.41
+	Name: Nisekoi:, Score: 7.39
+Cluster #320
+	Name: Toshi Souzou Gakubu Shoukai, Score: Unknown
+	Name: Tapuri Card x Kaijuu Sakaba Kanpai: Kanegon no Shuchou, Score: Unknown
+	Name: Guilstein, Score: Unknown
+	Name: Chou Zenmairobo: Patrasche, Score: Unknown
+	Name: Warau Salesman Dai SP-banashi, Score: Unknown
+	Name: Koutsuu Anzen Da yo Doraemon, Score: Unknown
+	Name: Roku no Sekai, Score: Unknown
+	Name: Cinderella Girls Gekijou: Climax Season Specials, Score: Unknown
+Cluster #321
+	Name: Bleach: Memories in the Rain, Score: 7.15
+	Name: Pokemon Advanced Generation, Score: 7.09
+	Name: Imouto Paradise! 2, Score: 7.08
+	Name: Hayate no Gotoku! Cuties, Score: 7.05
+	Name: Fukumenkei Noise, Score: 7.01
+	Name: Orenchi no Furo Jijou, Score: 7.0
+	Name: Mahou Sensei Negima!, Score: 6.98
+	Name: .hack//Roots, Score: 6.91
+Cluster #322
+	Name: Shin Tenchi Muyou! Specials, Score: 6.86
+	Name: Dragon Ball Movie 1: Shen Long no Densetsu, Score: 6.83
+	Name: Kashimashi: Girl Meets Girl - Shoujo wa Shoujo ni Koi wo Shita, Score: 6.83
+	Name: Please ♥♥♥♥ Me!, Score: 6.83
+	Name: Hitohira, Score: 6.77
+	Name: Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou, Score: 6.72
+	Name: Girls Bravo: Second Season, Score: 6.68
+	Name: Wellber no Monogatari: Sisters of Wellber, Score: 6.68
+Cluster #323
+	Name: Inu x Boku SS Special, Score: 7.6
+	Name: Hakuouki OVA, Score: 7.45
+	Name: High School DxD BorN: Yomigaeranai Fushichou, Score: 7.44
+	Name: Hitori no Shita: The Outcast 2nd Season, Score: 7.41
+	Name: Detective Conan Bonus File: Fantasista Flower, Score: 7.39
+	Name: Zoids, Score: 7.38
+	Name: Papa no Iukoto wo Kikinasai! OVA, Score: 7.37
+	Name: Afro Samurai: Resurrection, Score: 7.36
+Cluster #324
+	Name: Shingeki no Kyojin Season 3 Specials, Score: 7.38
+	Name: Inazuma Eleven: Saikyou Gundan Ogre Shuurai, Score: 7.32
+	Name: One Punch Man 2nd Season Specials, Score: 7.3
+	Name: Doraemon Movie 25: Nobita no Wan Nyan Jikuuden, Score: 7.3
+	Name: Choujigen Game Neptune The Animation: Yakusoku no Eien - True End, Score: 7.29
+	Name: Saint Seiya: Tenkai-hen Josou - Overture, Score: 7.23
+	Name: Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!, Score: 7.22
+	Name: Kuroshitsuji Recap, Score: 7.21
+Cluster #325
+	Name: Shingeki no Kyojin: Lost Girls, Score: 7.75
+	Name: Tong Ling Fei, Score: 7.74
+	Name: JoJo no Kimyou na Bouken: Phantom Blood, Score: 7.71
+	Name: K: Missing Kings, Score: 7.7
+	Name: Gakuen Babysitters Special, Score: 7.67
+	Name: Bleach Movie 4: Jigoku-hen, Score: 7.61
+	Name: Densetsu no Yuusha no Densetsu, Score: 7.6
+	Name: Ao no Exorcist, Score: 7.59
+Cluster #326
+	Name: Eyeshield 21: Jump Festa 2005 Special, Score: 6.77
+	Name: JoJo no Kimyou na Bouken Part 5: Ougon no Kaze Recaps, Score: 6.74
+	Name: Kuro Ai: Hitoyozumakan Inkou Rannyuuroku, Score: 6.72
+	Name: Honoo no Haramase Doukyuusei, Score: 6.68
+	Name: My Imouto: Koakuma na A-Cup, Score: 6.66
+	Name: Daiakuji: The Xena Buster, Score: 6.66
+	Name: Tokyo Underground, Score: 6.63
+	Name: Wooser no Sono Higurashi: Kakusei-hen, Score: 6.62
+Cluster #327
+	Name: Shinmai Maou no Testament Specials, Score: 6.76
+	Name: Jewelpet, Score: 6.65
+	Name: Itazura The Animation, Score: 6.64
+	Name: Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan, Score: 6.64
+	Name: Gokukoku no Brynhildr: Kara Sawagi, Score: 6.6
+	Name: Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!, Score: 6.59
+	Name: Ikkitousen: Xtreme Xecutor Specials, Score: 6.58
+	Name: Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga, Score: 6.55
+Cluster #328
+	Name: Dorami-chan: Mini-Dora SOS!!!, Score: 6.39
+	Name: Himitsu no Akko-chan 2, Score: 6.18
+	Name: Guomin Laogong Dai Huijia 4th Season, Score: 6.14
+	Name: 21 Emon, Score: 6.14
+	Name: Juugo Shounen Hyouryuuki, Score: 6.06
+	Name: Innocent Blue, Score: 5.87
+	Name: Gaist Crusher, Score: 5.86
+	Name: Sugar*Soldier, Score: 5.8
+Cluster #329
+	Name: Baby Baachan, Score: 6.56
+	Name: Ring no Seraph, Score: 6.54
+	Name: Machine Robo: Cronos no Dai Gyakushuu, Score: 6.32
+	Name: Little El Cid no Bouken, Score: 6.31
+	Name: Black Bullet: Tenchuu＊Girls, Score: 6.09
+	Name: Big Order, Score: 5.81
+	Name: Cambrian, Score: 5.78
+	Name: Sinkan, Score: 5.75
+Cluster #330
+	Name: The Sun Sank, Score: Unknown
+	Name: The Ghost of Cartoon, Score: Unknown
+	Name: Pastel Kazoku, Score: Unknown
+	Name: Hunger, Score: Unknown
+	Name: Humane, Score: Unknown
+	Name: Bouken no Susume, Score: Unknown
+	Name: Heavy, Score: Unknown
+	Name: PostPet Momobin, Score: Unknown
+Cluster #331
+	Name: Waku Waku Koma-chan, Score: Unknown
+	Name: Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui, Score: Unknown
+	Name: Yi Kong Zhi Dian, Score: Unknown
+	Name: Chuuchuu Banban, Score: Unknown
+	Name: Chuanyue Huoxian: Youling Jihua, Score: Unknown
+	Name: Maya no Isshou, Score: Unknown
+	Name: Dekiru ka na, Score: Unknown
+	Name: Ganbare Gonbe, Score: Unknown
+Cluster #332
+	Name: Bishoujo Senshi Sailor Moon S, Score: 7.85
+	Name: Little Busters!: EX, Score: 7.74
+	Name: Haikyuu!!: Lev Genzan!, Score: 7.73
+	Name: Hai to Gensou no Grimgar, Score: 7.69
+	Name: Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito, Score: 7.68
+	Name: Yamada-kun to 7-nin no Majo (TV), Score: 7.65
+	Name: Gakuen Alice, Score: 7.65
+	Name: Jigoku Shoujo, Score: 7.65
+Cluster #333
+	Name: Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!, Score: 6.89
+	Name: C³: Rikan Gakkou Confusion!, Score: 6.75
+	Name: Bokusatsu Tenshi Dokuro-chan 2, Score: 6.7
+	Name: Chain Chronicle: Haecceitas no Hikari, Score: 6.66
+	Name: Okusama ga Seitokaichou!+!, Score: 6.65
+	Name: Manaria Friends, Score: 6.63
+	Name: Dragon Ball Z: Summer Vacation Special, Score: 6.62
+	Name: Yu☆Gi☆Oh!: Hikari no Pyramid, Score: 6.59
+Cluster #334
+	Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e, Score: 6.9
+	Name: Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu Picture Drama, Score: 6.86
+	Name: Mini Sengoku Basara Two: Tsukiyo no Katakura-kun, Score: 6.79
+	Name: Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru, Score: 6.78
+	Name: Maji de Watashi ni Koi Shinasai!, Score: 6.77
+	Name: Gakuen Saimin Reido, Score: 6.71
+	Name: Kirepapa., Score: 6.7
+	Name: Time Bokan Series: Yatterman, Score: 6.68
+Cluster #335
+	Name: Kino, Score: Unknown
+	Name: Tengoku, Score: Unknown
+	Name: JU Chuuko Jidousha Hanbaishi x Peeping Life, Score: Unknown
+	Name: Break-Age, Score: Unknown
+	Name: Bakabon Osomatsu no Karee wo Tazunete Sansenri, Score: Unknown
+	Name: Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou (ONA), Score: Unknown
+	Name: A Sea Doesn't Tell Much, Score: Unknown
+	Name: Experiment, Score: Unknown
+Cluster #336
+	Name: Ookami to Koushinryou II, Score: 8.36
+	Name: Gintama: Shiroyasha Koutan, Score: 8.34
+	Name: Natsume Yuujinchou Go Specials, Score: 8.33
+	Name: Major S1, Score: 8.27
+	Name: SKET Dance, Score: 8.25
+	Name: Major S2, Score: 8.25
+	Name: Trigun, Score: 8.24
+	Name: Death Parade, Score: 8.2
+Cluster #337
+	Name: Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian, Score: Unknown
+	Name: Zhu Zhu Xia: Zhong Ji Jue Zhan, Score: Unknown
+	Name: Xiong Chumo Zhi: Qiu Ri Tuantuanzhuan, Score: Unknown
+	Name: Zou no Hanako, Score: Unknown
+	Name: Yura Yura Suizokukan, Score: Unknown
+	Name: Akuei to Gacchinpo The Movie: Chelsea no Gyakushuu/Akuei to Mahou no Hammer, Score: Unknown
+	Name: Power Battle Watch Car: Watch Gamyeon-ui Yeogseub, Score: Unknown
+	Name: Green Co-Op CMs, Score: Unknown
+Cluster #338
+	Name: Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu, Score: 8.52
+	Name: Shingeki no Kyojin, Score: 8.48
+	Name: Kono Oto Tomare! 2nd Season, Score: 8.43
+	Name: Barakamon, Score: 8.41
+	Name: Bakuman. 2nd Season, Score: 8.4
+	Name: Psycho-Pass, Score: 8.38
+	Name: Hachimitsu to Clover II, Score: 8.26
+	Name: Chihayafuru, Score: 8.23
+Cluster #339
+	Name: Nurarihyon no Mago: Sennen Makyou, Score: 8.0
+	Name: Sekaiichi Hatsukoi OVA, Score: 7.96
+	Name: Love Live! The School Idol Movie, Score: 7.95
+	Name: Shijou Saikyou no Deshi Kenichi OVA, Score: 7.93
+	Name: Grisaia no Rakuen, Score: 7.86
+	Name: K-On!!: Keikaku!, Score: 7.84
+	Name: Break Blade 5: Shisen no Hate, Score: 7.84
+	Name: Paradise Kiss, Score: 7.83
+Cluster #340
+	Name: The Everlasting Guilty Crown, Score: 7.8
+	Name: Kuroko no Basket 2nd Season NG-shuu, Score: 7.74
+	Name: Kuroko no Basket 3rd Season NG-shuu, Score: 7.69
+	Name: Kyoukai no Kanata: Shinonome, Score: 7.67
+	Name: Jigoku Shoujo Mitsuganae, Score: 7.65
+	Name: Owari no Seraph: Nagoya Kessen-hen, Score: 7.64
+	Name: Pokemon Movie 01: Mewtwo no Gyakushuu, Score: 7.63
+	Name: Baka to Test to Shoukanjuu: Matsuri, Score: 7.62
+Cluster #341
+	Name: Kuroko no Basket: Tip Off, Score: 7.87
+	Name: Tasogare Otome x Amnesia, Score: 7.86
+	Name: Danshi Koukousei no Nichijou Specials, Score: 7.86
+	Name: Bungou Stray Dogs: Dead Apple, Score: 7.84
+	Name: K-On!: Live House!, Score: 7.83
+	Name: Shingeki no Kyojin OVA, Score: 7.83
+	Name: Sekaiichi Hatsukoi, Score: 7.79
+	Name: Seitokai Yakuindomo OVA, Score: 7.79
+Cluster #342
+	Name: Souryo to Majiwaru Shikiyoku no Yoru ni..., Score: 4.62
+	Name: Boku no Pico, Score: 4.37
+Cluster #343
+	Name: Kyonyuu Dosukebe Gakuen, Score: 6.49
+	Name: Umineko no Naku Koro ni Specials, Score: 6.44
+	Name: Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari, Score: 6.43
+	Name: Aniyome, Score: 6.39
+	Name: PeroPero☆Teacher, Score: 6.35
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA, Score: 6.32
+	Name: Daitoshokan no Hitsujikai Picture Drama, Score: 6.31
+	Name: Himiko-den, Score: 6.24
+Cluster #344
+	Name: Super Mario no Koutsuu Anzen, Score: Unknown
+	Name: Xiong Chumo Zhi: Dongri Le Fantian, Score: Unknown
+	Name: Xiao Taiji, Score: Unknown
+	Name: Zhu Zhu Xia: Jiong Jiong Wei Ji, Score: Unknown
+	Name: Yong Zhe Da Mao Xian 2nd Season, Score: Unknown
+	Name: Gakkyuu Ou Yamazaki Specials, Score: Unknown
+	Name: Kaishain vs. Credit Card Kachou: CreCar no Rule Shitteru kai?, Score: Unknown
+	Name: Ongaku Sekai Ryokou, Score: Unknown
+Cluster #345
+	Name: Gintama.: Shirogane no Tamashii-hen - Kouhan-sen, Score: 8.86
+	Name: Kizumonogatari III: Reiketsu-hen, Score: 8.82
+	Name: Ping Pong the Animation, Score: 8.63
+	Name: Mushishi Zoku Shou: Suzu no Shizuku, Score: 8.63
+	Name: Yojouhan Shinwa Taikei, Score: 8.61
+	Name: Aria the Origination, Score: 8.53
+	Name: Versailles no Bara, Score: 8.33
+	Name: Ginga Eiyuu Densetsu Gaiden, Score: 8.15
+Cluster #346
+	Name: Raiyantsuuri no Uta, Score: 7.07
+	Name: Osomatsu-san Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou, Score: 6.28
+	Name: Stratos 4 OVA: Stratos 4.1 - Dutch Roll, Score: 5.89
+	Name: Joukyou Monogatari, Score: 5.73
+	Name: Kakyuusei (TV): Hajimemashite Tina!, Score: 5.71
+	Name: Ozmafia!! Special, Score: 5.64
+	Name: Ookami-san wa Taberaretai, Score: 5.61
+	Name: Bikini Warriors OVA, Score: 5.57
+Cluster #347
+	Name: Fin-tan to Sauna ni Nyuurou, Score: Unknown
+	Name: Batsu & Terry, Score: Unknown
+	Name: Soukou Kyojin Z-Knight, Score: Unknown
+	Name: Cynical Hysterie Hour: Trip Coaster, Score: Unknown
+	Name: Zukkoke Knight: Don De La Mancha, Score: Unknown
+	Name: Macross Δ Movie: Gekijou no Walküre Specials, Score: Unknown
+	Name: Ai no Tabidachi, Score: Unknown
+	Name: Uchuu Seibutsu Jirou, Score: Unknown
+Cluster #348
+	Name: Casablanca, Score: Unknown
+	Name: Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody, Score: 6.1
+	Name: Hello Kitty no Nemureru Mori no Bijo, Score: 6.02
+	Name: Koukaku no Pandora: Pandoradio, Score: 5.93
+	Name: Master of Torque: Epilogue, Score: 5.56
+	Name: IRoid: Koi no Yuukou Frontier, Score: 5.37
+	Name: Insomniac, Score: 5.28
+	Name: Lux Straight & Beauty Massugu Ikiru, Score: 5.16
+Cluster #349
+	Name: High School Fleet OVA, Score: 7.21
+	Name: Sweet Home: H na Oneesan wa Suki Desu ka?, Score: 7.17
+	Name: Sekikashita Kusanagi, Score: 7.14
+	Name: Futa-bu!, Score: 7.11
+	Name: Kimi no Iru Machi OVA, Score: 7.08
+	Name: Tenjou Tenge: The Past Chapter, Score: 7.07
+	Name: Fault!!, Score: 7.06
+	Name: Seitokaichou ni Chuukoku, Score: 7.05
+Cluster #350
+	Name: Danball Senki Wars: All Star Battle, Score: 6.34
+	Name: Shin Dousei Jidai: Hawaiian Breeze, Score: 6.16
+	Name: Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon, Score: 6.12
+	Name: Kemeko Deluxe!: Izumi-chan, Fukenkou yo! (Kari), Score: 6.11
+	Name: Fukuyama Gekijou: Natsu no Himitsu, Score: 6.11
+	Name: Giniro no Kami no Agito Pilot, Score: 6.05
+	Name: Duel Masters VS, Score: 5.92
+	Name: Mahou Shoujo Lyrical Nanoha A's Picture Drama, Score: 5.89
+Cluster #351
+	Name: Zhu Zhu Xia: Bukesiyi de Shijie, Score: Unknown
+	Name: Jintai no Survival!, Score: Unknown
+	Name: Nanoha, Score: Unknown
+	Name: Tokyo Mikansei, Score: Unknown
+	Name: Egg Car, Score: Unknown
+	Name: Paniponi, Score: Unknown
+	Name: Muku Hatojuu no Meiken Monogatari, Score: Unknown
+	Name: Ousama Monogatari, Score: Unknown
+Cluster #352
+	Name: Muddy Water, Score: Unknown
+	Name: Senro wa Tsudzuku yo Dokomademo, Score: Unknown
+	Name: Mighty Thor: Battle Royale, Score: Unknown
+	Name: Sayonara no Kawari ni 2013, Score: Unknown
+	Name: Echo: Kodama Suru Uta, Score: Unknown
+	Name: Ultraman M78 Gekijou: Love and Peace, Score: Unknown
+	Name: Yamasuki, Yamazaki, Score: Unknown
+	Name: Wonderland, Score: Unknown
+Cluster #353
+	Name: Cardcaptor Sakura, Score: 8.16
+	Name: Kono Subarashii Sekai ni Shukufuku wo!, Score: 8.15
+	Name: Detective Conan Movie 14: The Lost Ship in the Sky, Score: 8.15
+	Name: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA, Score: 8.09
+	Name: Detective Conan Movie 10: Requiem of the Detectives, Score: 8.08
+	Name: Tensei shitara Slime Datta Ken, Score: 8.07
+	Name: Kuroko no Basket Movie 4: Last Game, Score: 8.07
+	Name: ef: A Tale of Melodies., Score: 8.04
+Cluster #354
+	Name: Itadaki! Seieki♥ Special, Score: 7.17
+	Name: D.C.if: Da Capo if, Score: 7.17
+	Name: Enbo, Score: 7.12
+	Name: Witch Craft Works, Score: 7.07
+	Name: Kateikyoushi no Oneesan 2 The Animation: H no Hensachi Agechaimasu, Score: 7.04
+	Name: Sky Girls, Score: 7.02
+	Name: Kaibutsu Oujo: Konsui Oujo, Score: 7.01
+	Name: Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita, Score: 6.97
+Cluster #355
+	Name: Kimi no Na wa., Score: 8.96
+	Name: Clannad: After Story, Score: 8.96
+	Name: Code Geass: Hangyaku no Lelouch R2, Score: 8.91
+	Name: Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou, Score: 8.87
+	Name: Fate/stay night Movie: Heaven's Feel - III. Spring Song, Score: 8.79
+	Name: Sora yori mo Tooi Basho, Score: 8.57
+	Name: Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture, Score: 8.12
+Cluster #356
+	Name: Quanzhi Gaoshou Zhi Dianfeng Rongyao, Score: 8.2
+	Name: Bungou Stray Dogs 3rd Season, Score: 8.17
+	Name: Detective Conan Movie 20: The Darkest Nightmare, Score: 8.17
+	Name: Dragon Ball Z, Score: 8.16
+	Name: Initial D Fifth Stage, Score: 8.08
+	Name: Magi: The Labyrinth of Magic, Score: 8.07
+	Name: Kokoro Connect: Michi Random, Score: 8.01
+	Name: Gochuumon wa Usagi Desu ka? Bloom, Score: 7.98
+Cluster #357
+	Name: Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou, Score: 8.32
+	Name: Doukyuusei (Movie), Score: 8.32
+	Name: Tsubasa: Tokyo Revelations, Score: 8.31
+	Name: Toaru Kagaku no Railgun T, Score: 8.25
+	Name: Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season, Score: 8.24
+	Name: Mimi wo Sumaseba, Score: 8.23
+	Name: Fate/stay night: Unlimited Blade Works, Score: 8.22
+	Name: Major: Message, Score: 8.21
+Cluster #358
+	Name: Saezuru Tori wa Habatakanai: Don't Stay Gold, Score: Unknown
+	Name: Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas, Score: 7.27
+	Name: Katainaka ni Totsuidekita ○-ssia Musume to H Shimakuru Ohanashi, Score: 7.19
+	Name: Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu Picture Drama, Score: 7.16
+	Name: Rin x Sen + Ran -> Sem: Cross Mix, Score: 7.02
+	Name: Buddy Complex: Daremo Shiranai Ashita e, Score: 6.97
+	Name: Aneimo, Score: 6.95
+	Name: Sentakuya Shin-chan, Score: 6.95
+Cluster #359
+	Name: Yadokari, Score: Unknown
+	Name: Denwa Kakumei Naisen, Score: Unknown
+	Name: Hana no Zundamaru: Junk, Score: Unknown
+	Name: Inunaki-mura x Taka no Tsume-dan, Score: Unknown
+	Name: Saru Getchu: On Air 2nd, Score: Unknown
+	Name: Shashinki, Score: Unknown
+	Name: Who Am I?, Score: Unknown
+	Name: Usagi no Mofy, Score: Unknown
+Cluster #360
+	Name: Shiseido HG Super Hard, Score: Unknown
+	Name: Kaitou Gary no Nihonjin Kouryakuhou!, Score: Unknown
+	Name: Zannen na Ikimono Jiten, Score: Unknown
+	Name: Ruri-iro Princess, Score: Unknown
+	Name: New Tribe, Score: Unknown
+	Name: Shin Kyojin no Hoshi II, Score: Unknown
+	Name: Don't Cry (Movie), Score: Unknown
+	Name: SYZ Project, Score: Unknown
+Cluster #361
+	Name: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai, Score: 8.38
+	Name: Boku dake ga Inai Machi, Score: 8.37
+	Name: Hunter x Hunter: Original Video Animation, Score: 8.33
+	Name: Shokugeki no Souma, Score: 8.29
+	Name: Kuroko no Basket 2nd Season, Score: 8.28
+	Name: Toradora!, Score: 8.24
+	Name: JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Score: 8.12
+	Name: High Score Girl II, Score: 8.08
+Cluster #362
+	Name: Peeping Life: Tezuka Pro - Tatsunoko Pro Wonderland ONA, Score: Unknown
+	Name: Himitsukessha Taka no Tsume Countdown, Score: Unknown
+	Name: Robot Atom, Score: Unknown
+	Name: Osiris no Tenbin: Season 2, Score: Unknown
+	Name: 3-Nen D-Gumi Glass no Kamen: Tobidase! Watashitachi no Victory Road, Score: Unknown
+	Name: Yakyuukyou no Uta: Kita no Ookami Minami no Tora, Score: Unknown
+	Name: Yahabe, Score: Unknown
+	Name: Kaijuu ga Yattekuru, Score: Unknown
+Cluster #363
+	Name: Hoozuki no Reitetsu 2nd Season OVA, Score: 7.26
+	Name: Aniyome wa Ijippari, Score: 7.1
+	Name: Chichiiro Toiki, Score: 7.07
+	Name: Uta no☆Prince-sama♪ Maji Love Revolutions, Score: 7.04
+	Name: One Piece 3D: Gekisou! Trap Coaster, Score: 7.02
+	Name: Mayoiga no Oneesan The Animation, Score: 6.97
+	Name: Guilty Crown: Lost Christmas - An Episode of Port Town, Score: 6.94
+	Name: Kami nomi zo Shiru Sekai: Flag 0, Score: 6.91
+Cluster #364
+	Name: Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou tai Miracle Tamago, Score: Unknown
+	Name: Kirakira, Score: Unknown
+	Name: Nothing's Gonna Change, Score: Unknown
+	Name: Three Workers, Score: Unknown
+	Name: Promedicus, Score: Unknown
+	Name: Riding the Storm, Score: Unknown
+	Name: Human Gift, Score: Unknown
+	Name: Yogen-sha Ikusei Gakuen: Fortune Tellers Academy, Score: Unknown
+Cluster #365
+	Name: Himitsukessha Taka no Tsume MAX, Score: Unknown
+	Name: Eiyuu Densetsu: Head On! Master Senshi, Score: Unknown
+	Name: Neko to Nezumi, Score: Unknown
+	Name: Ojamanga Yamada-kun, Score: Unknown
+	Name: High & Low: G-Sword OVA, Score: Unknown
+	Name: Mukashi no Yama, Score: Unknown
+	Name: Mirai e no Tegami: Kono Michi no Tochuu kara, Score: Unknown
+	Name: Tenkousei wa Kounin Kaikeishi!, Score: Unknown
+Cluster #366
+	Name: Hakuouki Hekketsuroku, Score: 7.62
+	Name: Ao Haru Ride OVA, Score: 7.6
+	Name: Kuroshitsuji: Sono Shitsuji, Kougyou, Score: 7.55
+	Name: Kaitou Saint Tail, Score: 7.55
+	Name: Hetalia: The Beautiful World Specials, Score: 7.54
+	Name: Candy Candy, Score: 7.52
+	Name: Mikakunin de Shinkoukei, Score: 7.44
+	Name: Chobits, Score: 7.43
+Cluster #367
+	Name: Jiang Ziya, Score: 7.11
+	Name: Meikoku Gakuen: Jutai-hen, Score: 7.09
+	Name: Strike the Blood: Kieta Seisou-hen, Score: 6.89
+	Name: Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!, Score: 6.88
+	Name: Girls & Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza, Score: 6.8
+	Name: Okusama ga Seitokaichou! OVA: Okusama Gekijou, Score: 6.77
+	Name: Love 2 Quad, Score: 6.75
+	Name: To Heart 2 AD Plus, Score: 6.75
+Cluster #368
+	Name: Lilt, Score: Unknown
+	Name: Ringing City, Score: Unknown
+	Name: Graduation, Score: Unknown
+	Name: Heungnyong Wang gwa Bihodongja, Score: Unknown
+	Name: Katsuobushi Da yo Jinsei wa, Score: Unknown
+	Name: Kinyoru, Abe Reiji: Heikinteki na Salaryman no Ijou na Nichijou, Score: Unknown
+	Name: Konpeki no Kantai: Sourai Kaihatsu Monogatari, Score: Unknown
+	Name: Tenchi Muyou! Ryououki: Heianmuyo! Picture Drama, Score: Unknown
+Cluster #369
+	Name: Tian Xin Ge Ge, Score: Unknown
+	Name: Xia Lan, Score: Unknown
+	Name: Zhu Zhu Xia: Mo Huan Zhu Luo Ji, Score: Unknown
+	Name: Yawarakame♥, Score: Unknown
+	Name: Mukashi Keibanashi 2nd Season, Score: Unknown
+	Name: Benpiyaku Colace, Score: Unknown
+	Name: Ookami to Nanahiki no Ko Yagi, Score: Unknown
+	Name: Hamuko Mairu!, Score: Unknown
+Cluster #370
+	Name: Gin no Guardian II, Score: 6.61
+	Name: Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen, Score: 6.54
+	Name: Etotama Specials, Score: 6.52
+	Name: Kyou, Koi wo Hajimemasu, Score: 6.49
+	Name: Shishunki Shoujo, Score: 6.48
+	Name: Newmanoid Cam: Cam Castin, Score: 6.48
+	Name: Tsuma Netori: Ryoujoku Rinne, Score: 6.43
+	Name: Maid in Heaven SuperS, Score: 6.42
+Cluster #371
+	Name: Usamaru, Score: Unknown
+	Name: Tamagotchi Honto no Hanashi, Score: Unknown
+	Name: Ying Xiong Bie Nao, Score: Unknown
+	Name: Beef Stroganoff, Score: Unknown
+	Name: White Lily Light, Score: Unknown
+	Name: Okama Hakusho, Score: Unknown
+	Name: Choujikuu Seiki Orguss Memorial, Score: Unknown
+	Name: Kyouryou Pikora, Score: Unknown
+Cluster #372
+	Name: Hayabusa: Back to the Earth, Score: Unknown
+	Name: Tetsuwan Atom no Koutsuu Anzen, Score: Unknown
+	Name: Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan, Score: Unknown
+	Name: Tokyo Futago Athletic, Score: Unknown
+	Name: Manga Nihonshi (NHK Han), Score: Unknown
+	Name: Kyubi no Kitsune to Tobimaru (Sesshoseki), Score: Unknown
+	Name: Kamu Kamo Shikamo Nidomo Kamo!, Score: Unknown
+	Name: Xiyue Qi Tong, Score: Unknown
+Cluster #373
+	Name: Guilty Crown: 4-koma Gekijou, Score: 7.0
+	Name: Fullmetal Alchemist: The Sacred Star of Milos Specials, Score: 6.97
+	Name: Daitoshokan no Hitsujikai, Score: 6.93
+	Name: Hagure Yuusha no Aesthetica, Score: 6.89
+	Name: Kaitou Joker, Score: 6.88
+	Name: Chijoku no Seifuku, Score: 6.87
+	Name: Dagashi Kashi 2, Score: 6.87
+	Name: Love Live! School Idol Project OVA, Score: 6.86
+Cluster #374
+	Name: Grisaia no Meikyuu: Caprice no Mayu 0, Score: 7.91
+	Name: Junjou Romantica 2, Score: 7.85
+	Name: Detective Conan Movie 23: The Fist of Blue Sapphire, Score: 7.82
+	Name: Saenai Heroine no Sodatekata ♭, Score: 7.8
+	Name: Haikyuu!!: Riku vs. Kuu, Score: 7.8
+	Name: Detective Conan Movie 22: Zero The Enforcer, Score: 7.8
+	Name: Overlord II, Score: 7.78
+	Name: Claymore, Score: 7.78
+Cluster #375
+	Name: Nintama Rantarou Movie: Ninjutsu Gakuen Zenin Shutsudou! no Dan, Score: 6.61
+	Name: Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen, Score: 6.39
+	Name: Mousou Kanshou Daishou Renmei feat. Hatsune Miku, Score: 6.14
+	Name: Duel Masters Victory V, Score: 5.95
+	Name: Donyatsu Specials, Score: 5.68
+	Name: Kenka no Ato wa, Score: 5.55
+	Name: Hietsuki Bushi, Score: 5.54
+	Name: Sparrow's Hotel, Score: 5.47
+Cluster #376
+	Name: Umihiko Yamahiko, Score: Unknown
+	Name: Sansuu Chachacha, Score: Unknown
+	Name: Hamburger no Tsukurikata, Score: Unknown
+	Name: Super Taekwon V, Score: Unknown
+	Name: Virtual-san wa Miteiru Specials, Score: Unknown
+	Name: Seitokai Yakuindomo Movie 2, Score: Unknown
+	Name: Nyuuin Bokki Monogatari: Odaijini!, Score: Unknown
+	Name: Yume Miru Koneko, Score: Unknown
+Cluster #377
+	Name: Hakken Taiken Daisuki! Shimajirou, Score: Unknown
+	Name: Chii-chan no Himitsu, Score: Unknown
+	Name: Boku no Me wa Neko no Me, Score: Unknown
+	Name: Fanta Jiisan no Uta, Score: Unknown
+	Name: Arigatou Kumanofu, Score: Unknown
+	Name: Go! Go! Kadendanshi 2nd Season, Score: Unknown
+	Name: Din Dong, Score: Unknown
+	Name: Dase! Ikevo Gakuen, Score: Unknown
+Cluster #378
+	Name: Muteki-kyuu*Believer / Mirai Harmony, Score: Unknown
+	Name: Quanzhi Gaoshou Specials, Score: 8.31
+	Name: Ookami to Koushinryou, Score: 8.27
+	Name: Gintama: Shinyaku Benizakura-hen, Score: 8.27
+	Name: ReLIFE: Kanketsu-hen, Score: 8.23
+	Name: xxxHOLiC Rou, Score: 8.23
+	Name: Noragami Aragoto, Score: 8.22
+	Name: Sakura-sou no Pet na Kanojo, Score: 8.19
+Cluster #379
+	Name: Ran->Sem: Hakudaku Delmo Tsuma no Miira Tori, Score: 6.88
+	Name: Kami-tachi ni Hirowareta Otoko, Score: 6.86
+	Name: Tennen Koi-iro Alcohol, Score: 6.84
+	Name: Witch Craft Works: Takamiya-kun to Imouto no Warudakumi, Score: 6.82
+	Name: Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi, Score: 6.82
+	Name: Kyoukai no Kanata: Mini Gekijou, Score: 6.82
+	Name: Milk Junkie: Shimai-hen, Score: 6.8
+	Name: Nijiiro Days OVA, Score: 6.8
+Cluster #380
+	Name: Fin-tan, Score: Unknown
+	Name: Kaibutsu ga, Umareta Hi., Score: Unknown
+	Name: MaxValu Kyushu, Score: Unknown
+	Name: Yin Yang Shi: Ping An Wu Yu 2nd Season, Score: Unknown
+	Name: On a Forest, in the Air, Score: Unknown
+	Name: Kobutori, Score: Unknown
+	Name: Chen-Kuro Gakuen, Score: Unknown
+	Name: Kumo no Ito (1979), Score: Unknown
+Cluster #381
+	Name: Crazy Roulette, Score: 6.39
+	Name: Gin no Guardian, Score: 6.25
+	Name: Ojamajo Doremi: Owarai Gekijou, Score: 6.23
+	Name: Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special, Score: 6.19
+	Name: Melty Land Nightmare, Score: 6.19
+	Name: Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica, Score: 6.13
+	Name: Uchuujin Tanaka Tarou, Score: 6.11
+	Name: Blade & Soul, Score: 6.09
+Cluster #382
+	Name: Shakugan no Shana Movie, Score: 7.39
+	Name: Baku Ane: Otouto Shibocchau zo! The Animation, Score: 7.38
+	Name: Hamatora The Animation, Score: 7.3
+	Name: Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai, Score: 7.28
+	Name: Rewrite 2nd Season, Score: 7.26
+	Name: GJ-bu@, Score: 7.26
+	Name: Megane no Megami, Score: 7.24
+	Name: Saint Seiya: Shinku no Shounen Densetsu, Score: 7.23
+Cluster #383
+	Name: Kujira no Josephina, Score: Unknown
+	Name: Himitsukessha Taka no Tsume Gaiden: Mukashi no Yoshida-kun, Score: Unknown
+	Name: Danbou to Reibou, Score: Unknown
+	Name: Chanto Kao ni Kaite Aru, Score: Unknown
+	Name: Genbanojou, Score: Unknown
+	Name: Yakeato no, Okashi no Ki, Score: Unknown
+	Name: Zenmaiji-kake no Truffe, Score: Unknown
+	Name: Warai Kawasemi ni Hanasu na yo, Score: Unknown
+Cluster #384
+	Name: Saint Seiya: The Lost Canvas - Meiou Shinwa 2, Score: 8.11
+	Name: Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!, Score: 8.07
+	Name: Lovely★Complex, Score: 8.06
+	Name: Yakitate!! Japan, Score: 7.95
+	Name: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie, Score: 7.95
+	Name: Ushio to Tora (TV) 2nd Season, Score: 7.95
+	Name: Id:Invaded, Score: 7.9
+	Name: Seitokai Yakuindomo* OVA, Score: 7.9
+Cluster #385
+	Name: Naruto: Shippuuden Movie 4 - The Lost Tower, Score: 7.42
+	Name: Sword Art Online: Alicization - War of Underworld 2nd Season, Score: 7.42
+	Name: High School DxD, Score: 7.4
+	Name: Ore wo Suki nano wa Omae dake ka yo, Score: 7.39
+	Name: Bokutachi wa Benkyou ga Dekinai!, Score: 7.36
+	Name: Motto To LOVE-Ru, Score: 7.34
+	Name: Darling in the FranXX, Score: 7.33
+	Name: Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai, Score: 7.33
+Cluster #386
+	Name: Seto no Hanayome OVA, Score: 7.88
+	Name: Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari, Score: 7.88
+	Name: Mobile Suit Gundam Wing: Endless Waltz Movie, Score: 7.81
+	Name: Slayers, Score: 7.76
+	Name: Hungry Heart: Wild Striker, Score: 7.59
+	Name: Planetarian: Chiisana Hoshi no Yume, Score: 7.56
+	Name: Macross Zero, Score: 7.55
+	Name: Koi wa Ameagari no You ni, Score: 7.54
+Cluster #387
+	Name: Cosmos Trailer, Score: Unknown
+	Name: Velvet Underworld: Alternative, Score: Unknown
+	Name: Xie Wang Zhui Qi Zhi Yishi Qingcheng, Score: 7.1
+	Name: PriPara & Kiratto Pri☆chan Movie: Kirakira Memorial Live, Score: 6.31
+	Name: VitaminX Addiction, Score: 6.1
+	Name: Gegege no Kitarou (1985 Movie), Score: 6.1
+	Name: Majuu Sensen, Score: 6.0
+	Name: Haita, Score: 5.93
+Cluster #388
+	Name: Nu Wushen de Canzhuo Spring Festival Special, Score: 6.83
+	Name: Dog Days Recap, Score: 6.51
+	Name: Miko no Tsutome!, Score: 6.46
+	Name: Chou Tokkyuu Hikarian, Score: 6.32
+	Name: Yakin Byoutou, Score: 6.31
+	Name: Maken-Ki! Two, Score: 6.19
+	Name: Himitsukessha Taka no Tsume: Golden Spell, Score: 6.18
+	Name: Scratch x One Piece Film: Gold, Score: 6.14
+Cluster #389
+	Name: Date A Live Movie: Mayuri Judgment, Score: 7.36
+	Name: Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!, Score: 7.3
+	Name: Shaman King Specials, Score: 7.29
+	Name: Fairy Tail OVA (2016), Score: 7.24
+	Name: Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru., Score: 7.21
+	Name: Irregular Hunter X: The Day of Sigma, Score: 7.21
+	Name: Rokudenashi Majutsu Koushi to Akashic Records, Score: 7.19
+	Name: Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer, Score: 7.19
+Cluster #390
+	Name: Shounan Bakusouzoku, Score: 6.65
+	Name: Tottoko Hamtarou: Anime Dechu!, Score: 6.26
+	Name: Shounen to Mahou no Robot, Score: 6.15
+	Name: Monkey Magic, Score: 6.03
+	Name: Ladies versus Butlers! Tokuten Disc Music Clip, Score: 5.83
+	Name: Schoolyard, Score: 5.8
+	Name: Niji ni Mukatte, Score: 5.78
+	Name: Swamp Stamp Anime Edition, Score: 5.76
+Cluster #391
+	Name: MM! Specials, Score: 6.64
+	Name: Dragon Ball Z: Zenbu Misemasu Toshi Wasure Dragon Ball Z!, Score: 6.53
+	Name: Naruto: Akaki Yotsuba no Clover wo Sagase, Score: 6.52
+	Name: Absolute Duo, Score: 6.51
+	Name: Final Fantasy: The Spirits Within, Score: 6.37
+	Name: Yu☆Gi☆Oh! Zexal, Score: 6.34
+	Name: Queen's Blade: Rebellion, Score: 6.32
+	Name: Trickster: Edogawa Ranpo "Shounen Tanteidan" yori, Score: 6.23
+Cluster #392
+	Name: Bao Lian Deng, Score: 6.28
+	Name: Honey Honey no Suteki na Bouken, Score: 6.24
+	Name: CMFU Xueyuan: Wangzi Peng Peng Qiu, Score: 6.19
+	Name: Osamu to Musashi, Score: 6.13
+	Name: Sarutobi Ecchan, Score: 6.04
+	Name: Twinkle World feat. Hatsune Miku, Score: 5.87
+	Name: Soushin Shoujo Matoi: Yuma-chin, Matomemashita - Nanimo Kitenakute... Natsu, Score: 5.81
+	Name: Sword Gai, Score: 5.65
+Cluster #393
+	Name: Drive Agent Personal: Shiawase wo Mamoru Mono, Score: Unknown
+	Name: Minna de Bokumetsu Inshu Unten, Score: Unknown
+	Name: Crystal Sea Ver. 69 (Kay Nakayama Remix), Score: Unknown
+	Name: H'or Cafe, Score: Unknown
+	Name: Namida no Tsubomi, Score: Unknown
+	Name: Magical★Taruruuto-kun, Score: 6.54
+	Name: Xue Se Cang Qiong, Score: 6.33
+	Name: Zhongguo Jingqi Xiansheng, Score: 6.32
+Cluster #394
+	Name: Yamete! Writer Asobi: Doubutsu Mura no Shouboutai Shutsu Dou, Score: Unknown
+	Name: Xiong Chumo: Bian Xing Ji, Score: Unknown
+	Name: Xiong Chumo Zhi: Xiongxiong Leyuan, Score: Unknown
+	Name: Zoobles!, Score: Unknown
+	Name: Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji, Score: Unknown
+	Name: Yokohama Bakkure-tai, Score: Unknown
+	Name: Yocchan no Biidama, Score: Unknown
+	Name: Youtai Nuhai Zai Shanghai 2: Xianglian Mima, Score: Unknown
+Cluster #395
+	Name: Gakuen Babysitters, Score: 7.84
+	Name: Detective Conan Movie 09: Strategy Above the Depths, Score: 7.82
+	Name: Bungou Stray Dogs, Score: 7.79
+	Name: Digimon Adventure: Bokura no War Game!, Score: 7.77
+	Name: Hakuouki Movie 2: Shikon Soukyuu, Score: 7.77
+	Name: Free!: Take Your Marks, Score: 7.74
+	Name: Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks, Score: 7.72
+	Name: One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima, Score: 7.7
+Cluster #396
+	Name: Littleforestmello, Score: Unknown
+	Name: Odoru Mowai-kun, Score: Unknown
+	Name: Shiohi Girls: Vongole Bianco, Score: Unknown
+	Name: Isewan Taifuu Monogatari, Score: Unknown
+	Name: Yukai na Mezamashi Tokei, Score: Unknown
+	Name: Ajisai no Uta, Score: Unknown
+	Name: Yami Yami, Score: Unknown
+	Name: Daiyoshi P Produce Ashita no Jobuubu, Score: Unknown
+Cluster #397
+	Name: Haikyuu!!, Score: 8.53
+	Name: Hotaru no Haka, Score: 8.51
+	Name: Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season, Score: 8.5
+	Name: Nichijou, Score: 8.48
+	Name: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan, Score: 8.46
+	Name: Sayonara no Asa ni Yakusoku no Hana wo Kazarou, Score: 8.45
+	Name: Gintama: Yorinuki Gintama-san on Theater 2D, Score: 8.44
+	Name: Usagi Drop, Score: 8.43
+Cluster #398
+	Name: Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki, Score: 6.46
+	Name: Ginga Hyouryuu Vifam: Kieta 12-nin, Score: 6.25
+	Name: Koisuru Tenshi Angelique: Chibi Character Adventure, Score: 6.07
+	Name: Papa datte, Shitai, Score: 5.97
+	Name: Fate/Zero Cafe, Score: 5.94
+	Name: Aoi Sekai no Chuushin de, Score: 5.78
+	Name: Munou na Nana Mini Anime, Score: 5.78
+	Name: Mirai Koushi Harima SACLA NEX RAY, Score: 5.71
+Cluster #399
+	Name: 15 Bishoujo Hyouryuuki, Score: 6.82
+	Name: Overflow, Score: 6.76
+	Name: Machine-Doll wa Kizutsukanai Specials, Score: 6.76
+	Name: Hentai Ouji to Warawanai Neko.: Henneko BBS, Score: 6.73
+	Name: Aku no Onna Kanbu: Full Moon Night, Score: 6.7
+	Name: Dog Days' Specials, Score: 6.7
+	Name: Ane to Boin, Score: 6.69
+	Name: Imouto Paradise!, Score: 6.63
+Cluster #400
+	Name: Relationship Scramble feat. Hatsune Miku, Score: 6.28
+	Name: Detective Conan: Let's Try a Curious Experiment!, Score: 6.25
+	Name: Ienai Koto The Animation, Score: 6.17
+	Name: Okane ga Nai Specials, Score: 6.12
+	Name: Yoiko no Rekishi Anime: Ookina Kabu (Kabu), Score: 6.03
+	Name: Yariman Fudousan, Score: 6.0
+	Name: Zegapain ADP, Score: 6.0
+	Name: Naisho no Wakana-san, Score: 5.96
+Cluster #401
+	Name: Kanojo, Okarishimasu Petit, Score: 6.37
+	Name: Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet, Score: 6.12
+	Name: DRAMAtical Murder: Data_xx_Transitory, Score: 6.06
+	Name: Konohana no Sakuya Mori, Score: 6.03
+	Name: Oshiego ni Kyouhaku Sareru no wa Hanzai Desu ka?, Score: 5.8
+	Name: Karen Senki, Score: 5.79
+	Name: Shin Kabukichou Story Hana no Asukagumi!, Score: 5.79
+	Name: Unbalance, Score: 5.78
+Cluster #402
+	Name: Zukkoke Sannin-gumi no Bousai Kyoushitsu, Score: Unknown
+	Name: Yuuki no Hana ga Hiraku Toki: Yanase Takashi to Anpanman no Monogatari, Score: Unknown
+	Name: Black Cat, Score: Unknown
+	Name: Utsukushii Chikyuu wo Yogosanai de, Score: Unknown
+	Name: Maple Town no Shouboutai, Score: Unknown
+	Name: Sugai-kun to Kazoku Ishi, Score: Unknown
+	Name: Chibi Airin no Yuruyaka na Nichijou, Score: Unknown
+	Name: Menghuan Shuyuan, Score: Unknown
+Cluster #403
+	Name: Feng Yu Zhou, Score: 7.07
+	Name: Grisaia no Kajitsu Specials, Score: 6.92
+	Name: Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou, Score: 6.8
+	Name: Hitozuma♪Kasumi-san, Score: 6.78
+	Name: Haru wo Daite Ita, Score: 6.76
+	Name: Viewtiful Joe, Score: 6.75
+	Name: Goshuushou-sama Ninomiya-kun, Score: 6.72
+	Name: Recorder to Randoseru Mi☆, Score: 6.67
+Cluster #404
+	Name: Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2, Score: 6.46
+	Name: Infinite Dendrogram, Score: 6.14
+	Name: Isuca, Score: 6.03
+	Name: Cheer Danshi!! Specials, Score: 6.03
+	Name: Choukadou Girl ⅙, Score: 6.0
+	Name: Seme♥Chichi, Score: 6.0
+	Name: Bacterial Contamination, Score: 5.97
+	Name: Hello Kitty no Fushigi no Kuni no Alice, Score: 5.96
+Cluster #405
+	Name: Echolocation, Score: Unknown
+	Name: Uchiko no Mama to Okaasan, Score: Unknown
+	Name: The Night Game: Neko no Sakusen, Score: Unknown
+	Name: Saishuu Densha featuring Izumi Makura, Score: Unknown
+	Name: Mirai e no Kakehashi: Bridge for Future, Score: Unknown
+	Name: Fei Ren Xueyuan, Score: 6.23
+	Name: Nogsaegjeoncha Hamos, Score: 6.23
+	Name: Machine Hayabusa, Score: 6.18
+Cluster #406
+	Name: Starmyu 3rd Season: Encore, Score: Unknown
+	Name: Norman the Snowman: Kita no Kuni no Aurora, Score: Unknown
+	Name: Taiman Blues: Ladies-hen - Mayumi, Score: Unknown
+	Name: Wakamono to Koinu to Croissant, Score: Unknown
+	Name: Waga Na wa Cowboy, Score: Unknown
+	Name: Geba Geba Shou Time!, Score: Unknown
+	Name: Tsuyoku, Score: Unknown
+	Name: Hitotsu no Doa, Score: Unknown
+Cluster #407
+	Name: Shinmai Maou no Testament Burst Specials, Score: 6.83
+	Name: Sora no Otoshimono Final: Eternal My Master, Score: 6.77
+	Name: Ichiban Ushiro no Daimaou Specials, Score: 6.74
+	Name: Dragon Ball Specials, Score: 6.73
+	Name: Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu, Score: 6.73
+	Name: Heartful Maman The Animation, Score: 6.72
+	Name: Gakuen Heaven: Hamu Hamu Heaven, Score: 6.71
+	Name: Gibo no Toiki: Haitoku Kokoro ni Tadayou Haha no Iroka, Score: 6.71
+Cluster #408
+	Name: Plastic Memories, Score: 7.94
+	Name: Haikyuu!! Movie 1: Owari to Hajimari, Score: 7.93
+	Name: Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen, Score: 7.85
+	Name: InuYasha, Score: 7.85
+	Name: Non Non Biyori Repeat: Hotaru ga Tanoshinda, Score: 7.82
+	Name: Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma, Score: 7.81
+	Name: Akagami no Shirayuki-hime, Score: 7.79
+	Name: Final Fantasy VII: Advent Children, Score: 7.76
+Cluster #409
+	Name: Hakuouki Sekkaroku, Score: 7.65
+	Name: Ane wa Yanmama Junyuu-chuu, Score: 7.64
+	Name: Free!: FrFr - Short Movie, Score: 7.63
+	Name: Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion, Score: 7.62
+	Name: Bishoujo Senshi Sailor Moon SuperS, Score: 7.59
+	Name: Ashita no Nadja, Score: 7.59
+	Name: To LOVE-Ru Darkness 2nd OVA, Score: 7.57
+	Name: Initial D Battle Stage, Score: 7.57
+Cluster #410
+	Name: Tezuka Osamu Monogatari, Score: Unknown
+	Name: Ookami Shounen Ken, Score: Unknown
+	Name: Fussa-shi PR Anime, Score: Unknown
+	Name: Robin-kun to 100 nin no Otomodachi, Score: Unknown
+	Name: Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!, Score: Unknown
+	Name: Karaoke Senshi Mike-tarou, Score: Unknown
+	Name: Jyou Jyou, Score: Unknown
+	Name: Ame no Chi Special, Score: Unknown
+Cluster #411
+	Name: Jian Wang 3: Xia Gan Yi Dan Shen Jianxin, Score: 7.25
+	Name: Shoukoujo The Animation, Score: 6.8
+	Name: Honoo no Haramase Tenkousei, Score: 6.72
+	Name: Uhou Renka, Score: 6.72
+	Name: Wizard Girl Ambitious, Score: 6.66
+	Name: Ikkitousen: Great Guardians Specials, Score: 6.6
+	Name: Finder Series, Score: 6.52
+	Name: K-On!!: Ura-On!!, Score: 6.51
+Cluster #412
+	Name: Zumomo to Nupepe, Score: Unknown
+	Name: Tian Xin Ge Ge 2nd Season, Score: Unknown
+	Name: Wagaya no Koutsuu Anzen: Chichi to no Yakusoku, Score: Unknown
+	Name: Pittarazu Gekijou Manner CM, Score: Unknown
+	Name: Uwabaki Cook, Score: Unknown
+	Name: Meiken Lassie Specials, Score: Unknown
+	Name: Maemilggot, Unsu Joeun Nal, Geurigo Bombom, Score: Unknown
+	Name: Little Charo 4: Eigo de Aruku New York, Score: Unknown
+Cluster #413
+	Name: Tsumamigui 3 The Animation, Score: 7.16
+	Name: Hayate no Gotoku! OVA, Score: 7.15
+	Name: A3! Season Spring & Summer, Score: 7.14
+	Name: Black★Rock Shooter (OVA), Score: 7.12
+	Name: Reikenzan: Hoshikuzu-tachi no Utage, Score: 7.11
+	Name: Chain Chronicle: Haecceitas no Hikari Part 3, Score: 7.08
+	Name: Idol☆Sister, Score: 7.06
+	Name: Black★Rock Shooter, Score: 7.06
+Cluster #414
+	Name: Wagahai wa Inu de Aru: Don Matsugorou no Seikatsu, Score: Unknown
+	Name: Wala! Pyeon-uijeom The Animation, Score: Unknown
+	Name: Anime Tengu no Kakuresato, Score: Unknown
+	Name: Aihime Megohime, Score: Unknown
+	Name: Shin Gakkou no Yuurei, Score: Unknown
+	Name: Boku wa Ou-sama, Score: Unknown
+	Name: Isaku: Tsumi to Batsu, Score: Unknown
+	Name: Little Twins, Score: Unknown
+Cluster #415
+	Name: Oda Nobuna no Yabou Recap, Score: 6.98
+	Name: Wan Jie Shen Zhu, Score: 6.98
+	Name: IS: Infinite Stratos 2 - Hitonatsu no Omoide, Score: 6.92
+	Name: Kobato.: Hajimete no Kobato., Score: 6.84
+	Name: Naruto: The Cross Roads, Score: 6.82
+	Name: Musaigen no Phantom World: Mizutama no Kiseki, Score: 6.8
+	Name: Hinagiku Virgin Lost Club e Youkoso, Score: 6.8
+	Name: Dream Festival!, Score: 6.76
+Cluster #416
+	Name: High School DxD BorN, Score: 7.45
+	Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya, Score: 7.44
+	Name: Date A Live: Date to Date, Score: 7.37
+	Name: Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono, Score: 7.35
+	Name: Saber Marionette J, Score: 7.35
+	Name: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie, Score: 7.35
+	Name: Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai, Score: 7.34
+	Name: Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] wo Shukufuku Suru, Score: 7.32
+Cluster #417
+	Name: Oh! Super Milk-chan Special, Score: Unknown
+	Name: Peter Pan no Bouken Specials, Score: Unknown
+	Name: Osomatsu-kun: Iyami wa Hitori Kaze no Naka, Score: Unknown
+	Name: Tsunagaru, Score: Unknown
+	Name: Eien, Score: Unknown
+	Name: Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV), Score: Unknown
+	Name: Take It Easy, Score: Unknown
+	Name: Synchro Noise, Score: Unknown
+Cluster #418
+	Name: Tennis no Ouji-sama: Zenkoku Taikai-hen, Score: 7.95
+	Name: Beelzebub, Score: 7.91
+	Name: Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu, Score: 7.9
+	Name: Gake no Ue no Ponyo, Score: 7.89
+	Name: Emiya-san Chi no Kyou no Gohan, Score: 7.82
+	Name: Saiyuuki Reload: Burial, Score: 7.82
+	Name: New Initial D Movie: Legend 1 - Kakusei, Score: 7.78
+	Name: Genshiken 2, Score: 7.77
+Cluster #419
+	Name: Daisetsusan no Yuusha Kibaou, Score: 6.92
+	Name: Onnanoko ni Naritai, Score: 6.84
+	Name: Qin Shi Ming Yue 3D: Dianying Longteng Wanli, Score: 6.38
+	Name: Guskou Budori no Denki, Score: 6.26
+	Name: Esper Mami: Hoshizora no Dancing Doll, Score: 5.94
+	Name: Anitore! XX: Hitotsu Yane no Shita de, Score: 5.62
+	Name: Refrain, Score: 5.55
+	Name: Mayoiga, Score: 5.53
+Cluster #420
+	Name: Kamen Rider Den-O: Imagin Anime 3, Score: 6.38
+	Name: Chikyuu Bouei Kazoku Special, Score: 6.27
+	Name: Otohime Connection, Score: 6.22
+	Name: Nine: Kanketsu-hen, Score: 6.08
+	Name: Ai no Wakakusa Yama Monogatari, Score: 6.08
+	Name: gdgd Fairies 2 Episode 0, Score: 6.0
+	Name: Popee the Performer: Countdown Special, Score: 5.92
+	Name: Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya, Score: 5.81
+Cluster #421
+	Name: Wa Wa Wa Wappi-chan 2nd Season, Score: Unknown
+	Name: Xia Gu Zhong An Zu, Score: Unknown
+	Name: Nobunaga-kun no Jitensha no Rule wo Mamoru no Ja, Score: Unknown
+	Name: Ponkaman no Animation no Dekiru made, Score: Unknown
+	Name: Zannen na Ikimono Jiten (2019), Score: Unknown
+	Name: Kirakira Shougakusei Celeb-chan Specials, Score: Unknown
+	Name: Yasai no Yousei: N.Y. Salad Special, Score: Unknown
+	Name: Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon, Score: Unknown
