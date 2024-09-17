@@ -9,7 +9,7 @@ This project implements an anime recommendation system using collaborative filte
 To run this project, you will need to clone the repository and get the [file](https://github.com/Xernnn/Anime-Recommendation/Anime_Recommendation.ipynb) and the datasets to Google Colabs
 
 ```bash
-git clone <[repository-url](https://github.com/Xernnn/Anime-Recommendation.git)>
+git clone https://github.com/Xernnn/Anime-Recommendation.git
 cd Anime_Recommendation
 ```
 
@@ -33,5 +33,5 @@ ratings_df = pd.read_csv('/content/gdrive/My Drive/path/to/rating_complete.csv')
 
 ## Datasets
 
-- anime.csv: Contains information about various anime titles including names, genres, and ratings from MyAnimeList (until 2021)
-- rating_complete.csv: Contains anonymous user ratings for different anime, which is used to generate recommendations.
+- **anime.csv**: Contains information about various anime titles including names, genres, and ratings from MyAnimeList (until 2021)
+- **rating_complete.csv**: Contains anonymous user ratings for different anime, which is used to generate recommendations.
